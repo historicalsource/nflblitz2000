@@ -1,0 +1,27 @@
+HFILE> \video\nfl\include\sweepstk.h
+
+INPUT> sweepstk.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> sw_attract
+MIDST> OFF
+EXECUTE> sw_att
+MAKEBAT> sweepstk.bat sw_att*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> sweepstk.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> sw_rule1, sw_rule2, sw_rule3, sw_rule4, sw_rule5
+MIDST> OFF
+EXECUTE> sw_r
+MAKEBAT> sweepstk.bat sw_r*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> sweepstk.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+#-----> sw_menu, sw_code, sw_winner, sw_loser
+----->  sw_code, sw_winner, sw_loser
+MIDST> OFF
+EXECUTE> sw_bg
+MAKEBAT> sweepstk.bat sw_bg*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

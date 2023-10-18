@@ -1,0 +1,21 @@
+SCC = This is a Source Code Control file
+
+[field.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/img3d", AFFAAAAA
+
+[field2.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/img3d", AFFAAAAA
+
+[img3d.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/img3d", AFFAAAAA
+
+[STADIUM.MAK]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/img3d", AFFAAAAA
+
+[stadium2.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/img3d", AFFAAAAA

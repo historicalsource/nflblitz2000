@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##601
+What number did Rams defensive tackle Merlin Olsen wear?
+**a) 74 ~~b) 78 ~~c) 96 ~~d) 98
+##602
+What number did Rams offensive tackle Jackie Slater wear?
+~~a) 70 ~~b) 71 ~~c) 76 **d) 78
+##603
+What number did Rams guard Tom Mack wear?
+~~a) 50 ~~b) 55 ~~c) 60 **d) 65
+##604
+What number did Rams receiver Elroy (Crazylegs) Hirsch wear?
+~~a) 20 **b) 40 ~~c) 80 ~~d) 88
+##605
+What number did Rams quarterback Roman Gabriel wear?
+~~a) 8 ~~b) 9 ~~c) 12 **d) 18
+##606
+What future NFL Commissioner once served as the Rams' general manager?
+~~a) Paul Tagliabue **b) Pete Rozelle ~~c) Bert Bell ~~d) Elmer Layden
+##607
+Where did Rams quarterback Tony Banks attend college?
+**a) Michigan State ~~b) Michigan ~~c) San Diego State ~~d) Western Michigan
+##608
+Where did Rams receiver Isaac Bruce attend college?
+~~a) Tennessee **b) Memphis State ~~c) Southern ~~d) Grambling
+##609
+What Rams running back set an NFL record with 2,105 rushing yards in a season?
+~~a) Lawrence McCutcheon ~~b) Jerome Bettis **c) Eric Dickerson ~~d) Charles White
+##610
+Who was the last Rams quarterback to lead the NFL in passing?
+~~a) Jim Everett ~~b) Roman Gabriel ~~c) Bob Waterfield **d) Norm Van Brocklin
+##611
+Who is the 49ers' all-time leader in games played?
+~~a) Jerry Rice ~~b) John Brodie ~~c) Len Rohde **d) Jimmy Johnson
+##612
+Jerry Rice became the 49ers' all-time leading scorer in 1996. Whose record did he break?
+~~a) Tommy Davis **b) Ray Wersching ~~c) Mike Cofer ~~d) Hugh McElhenny
+##613
+What NFL single-game record did Jerry Rice equal on October 14, 1990?
+**a) most touchdown receptions ~~b) most receptions ~~c) most receiving yards ~~d) longest reception
+##614
+Who is the 49ers' all-time leading rusher?
+~~a) Roger Craig ~~b) Hugh McElhenny **c) Joe Perry ~~d) Ken Willard
+##615
+Who holds the 49ers' record for most rushing yards in a game?
+~~a) Roger Craig ~~b) Hugh McElhenny ~~c) Joe Perry **d) Delvin Williams
+##616
+Who holds the 49ers' record for longest run?
+~~a) Roger Craig **b) Hugh McElhenny ~~c) Joe Perry ~~d) Ricky Watters
+##617
+What 49ers player was nicknamed "The King"?
+~~a) Joe Perry ~~b) John Brodie ~~c) J.D. Smith **d) Hugh McElhenny
+##618
+What 49ers player was nicknamed "The Jet"?
+**a) Joe Perry ~~b) R.C. Owens ~~c) J.D. Smith ~~d) Hugh McElhenny
+##619
+Who is the 49ers' all-time leader in average yards per rushing attempt?
+~~a) Joe Perry ~~b) Hugh McElhenny **c) Steve Young ~~d) Roger Craig
+##620
+Name the only 49ers player to rush for 100 or more yards in three consecutive games:
+~~a) Ricky Watters **b) Billy Kilmer ~~c) Steve Young ~~d) Roger Craig
+##621
+Who holds the 49ers' record for pass attempts in a season?
+**a) Steve DeBerg ~~b) Joe Montana ~~c) Steve Young ~~d) Jim Plunkett
+##622
+Who completed the longest pass (97 yards) in the history of the 49ers?
+~~a) Frankie Albert ~~b) Joe Montana ~~c) John Brodie **d) Steve Young
+##623
+Who caught the longest pass in the history of the 49ers?
+~~a) Jerry Rice **b) John Taylor ~~c) Gene Washington ~~d) Gordy Soltau
+##624
+Joe Montana is the 49ers' all-time leader in passing yardage. Who ranks second?
+~~a) Steve Young **b) John Brodie ~~c) Frankie Albert ~~d) Y.A. Tittle
+##625
+After Jerry Rice, who ranks second on the 49ers' all-time list for receptions?
+~~a) Dwight Clark ~~b) John Taylor **c) Roger Craig ~~d) Gene Washington
+##626
+After Jerry Rice, who ranks second on the 49ers' all-time list for receiving yards?
+**a) Dwight Clark ~~b) John Taylor ~~c) Roger Craig ~~d) Gene Washington
+##627
+Jerry Rice became the NFL's all-time receptions leader in 1995. Whose record did he break?
+~~a) Charlie Joiner ~~b) Steve Largent **c) Art Monk ~~d) Charley Taylor
+##628
+Who is the 49ers' all-time leader in interceptions?
+~~a) Jimmy Johnson ~~b) Eric Wright **c) Ronnie Lott ~~d) Merton Hanks
+##629
+Who holds the 49ers' record for most interception-return yards in a season?
+~~a) Ronnie Lott ~~b) Jimmy Johnson ~~c) Dwight Hicks **d) Deion Sanders
+##630
+Who is the only 49ers player to return 2 interceptions for touchdowns in one game?
+**a) Ken Norton, Jr. ~~b) Ronnie Lott ~~c) Deion Sanders ~~d) Dwight Hicks
+##631
+When was the last time the 49ers did not make the playoffs?
+~~a) 1982 **b) 1991 ~~c) 1980 ~~d) 1985
+##632
+Other than Jerry Rice, who was the last 49ers player to lead the NFL in receptions?
+**a) Roger Craig ~~b) Dwight Clark ~~c) Gene Washington ~~d) Billy Wilson
+##633
+Name the only 49ers quarterback besides Joe Montana or Steve Young to lead the NFL in passing:
+~~a) Jim Plunkett ~~b) Steve DeBerg **c) John Brodie ~~d) Y.A. Tittle
+##634
+Who holds the 49ers' record for touchdown passes in a season?
+~~a) Joe Montana **b) Steve Young ~~c) John Brodie ~~d) Y.A. Tittle
+##635
+What number did 49ers running back Joe Perry wear?
+~~a) 00 **b) 34 ~~c) 40 ~~d) 99
+##636
+What number did 49ers running back Hugh McElhenny wear?
+~~a) 1 ~~b) 27 **c) 39 ~~d) 66
+##637
+What 49ers player set an NFL post-season record with 5 touchdowns in a playoff game?
+~~a) Jerry Rice ~~b) Hugh McElhenny ~~c) Roger Craig **d) Ricky Watters
+##638
+What 49ers player ran for an 80-yard touchdown in a playoff game, the longest run from scrimmage in NFL post-season history?
+**a) Roger Craig ~~b) Ricky Watters ~~c) Jerry Rice ~~d) Hugh McElhenny
+##639
+Where did the 49ers play their home games before moving into Candlestick Park in 1971?
+~~a) Stanford Stadium ~~b) Strawberry Canyon (University of California) **c) Kezar Stadium ~~d) Galileo High School
+##640
+Where did 49ers wide receiver Jerry Rice attend college?
+~~a) Southern Mississippi ~~b) Grambling ~~c) Missouri **d) Mississippi Valley State
+##641
+Where did 49ers running back Garrison Hearst attend college?
+~~a) Nebraska **b) Georgia ~~c) Auburn ~~d) Alabama
+##642
+Garrison Hearst's 1,000-yard season in 1997 gave the 49ers their first 1,000-yard rusher since:
+**a) Ricky Watters ~~b) Roger Craig ~~c) Delvin Williams ~~d) Joe Perry
+##643
+What 49ers coach won the most games?
+~~a) Bill Walsh **b) George Seifert ~~c) Howard (Red) Hickey ~~d) Lawrence (Buck) Shaw
+##644
+49ers coach Steve Mariucci starred at quarterback for what college?
+~~a) California ~~b) San Jose State **c) Northern Michigan ~~d) Albion College
+##645
+Who made "The Catch" that propelled the 49ers into Super Bowl XVI?
+~~a) Freddie Solomon **b) Dwight Clark ~~c) Bill Ring ~~d) Mike Wilson
+##646
+How long was the 49ers' game winning drive in Super Bowl XXIII?
+~~a) 76 yards ~~b) 84 yards ~~c) 89 yards **d) 92 yards
+##647
+What 49ers player scored the first touchdown in Super Bowl XIX?
+~~a) Joe Montana **b) Carl Monroe ~~c) Roger Craig ~~d) Dwight Clark
+##648
+How many turnovers have the 49ers committed in their five Super Bowl victories?
+~~a) 0 **b) 1 ~~c) 2 ~~d) 5
+##649
+What position did 49ers linebacker Ken Norton, Jr., play in high school?
+~~a) linebacker ~~b) safety ~~c) quarterback **d) running back
+##650
+Where did 49ers safety Merton Hanks attend college?
+**a) Iowa ~~b) Baylor ~~c) Houston ~~d) Stephen F. Austin
+##651
+Who holds the Buccaneers' record for touchdowns in a game?
+~~a) Reggie Cobb **b) Jimmie Giles ~~c) Kevin House ~~d) James Wilder
+##652
+Who holds the Buccaneers' record for points in a season?
+~~a) Steve Christie ~~b) James Wilder **c) Donald Igwebuike ~~d) Errict Rhett
+##653
+Who holds the Buccaneers' record for most rushing yards in a season?
+~~a) Errict Rhett **b) James Wilder ~~c) Warrick Dunn ~~d) Ricky Bell
+##654
+Who set a Buccaneers' record by rushing for 219 yards in a game?
+~~a) Errict Rhett ~~b) Warrick Dunn ~~c) Ricky Bell **d) James Wilder
+##655
+Who holds the Buccaneers' record for most passing yards in a season?
+~~a) Vinny Testaverde **b) Doug Williams ~~c) Steve DeBerg ~~d) Steve Young
+##656
+Who holds the Buccaneers' record for most consecutive completions?
+~~a) Vinny Testaverde ~~b) Doug Williams **c) Steve DeBerg ~~d) Steve Young
+##657
+Who holds the Buccaneers' record for most receptions in a season?
+~~a) Kevin House ~~b) Courtney Hawkins ~~c) James Wilder **d) Mark Carrier
+##658
+Who is the Buccaneers' all-time leading rusher?
+~~a) Reggie Cobb ~~b) Ricky Bell **c) James Wilder ~~d) Errict Rhett
+##659
+Who is the Buccaneers' all-time leader in passing yards?
+**a) Vinny Testaverde ~~b) Doug Williams ~~c) Steve DeBerg ~~d) Steve Young
+##660
+Who is the Buccaneers' all-time leading receiver?
+~~a) Kevin House ~~b) Jimmie Giles ~~c) Mark Carrier **d) James Wilder
+##661
+Who holds the Buccaneers' record for most games played?
+~~a) Lee Roy Selmon **b) Paul Gruber ~~c) Jimmie Giles ~~d) Richard Wood
+##662
+What college did Buccaneers running back Mike Alstott attend?
+~~a) Illinois ~~b) Indiana **c) Purdue ~~d) Ohio State
+##663
+What team originally signed Buccaneers coach Tony Dungy as a rookie free agent?
+~~a) Buccaneers ~~b) Vikings ~~c) 49ers **d) Steelers
+##664
+What position did Buccaneers head coach Tony Dungy play in college?
+~~a) safety ~~b) cornerback ~~c) running back **d) quarterback
+##665
+What position did Buccaneers head coach Tony Dungy play in the NFL?
+**a) safety ~~b) cornerback ~~c) running back ~~d) quarterback
+##666
+Where did Buccaneers coach Tony Dungy attend college?
+~~a) Michigan ~~b) Michigan State **c) Minnesota ~~d) Purdue
+##667
+What number did Buccaneers defensive end Lee Roy Selmon wear?
+**a) 63 ~~b) 93 ~~c) 96 ~~d) 98
+##668
+Lee Roy Selmon's six Pro Bowl selections are a Buccaneers' record. Who ranks second with four?
+~~a) Paul Gruber ~~b) Hardy Nickerson ~~c) Hugh Green **d) Jimmie Giles
+##669
+What college did Buccaneers defensive end Lee Roy Selmon attend?
+~~a) Nebraska **b) Oklahoma ~~c) Arkansas ~~d) Tulsa
+##670
+The Buccaneers recorded their first NFL victory against:
+~~a) Jets ~~b) Cardinals **c) Saints ~~d) Seahawks
+##671
+Where did Redskins quarterback Gus Frerotte attend college?
+~~a) Idaho **b) Tulsa ~~c) Montana ~~d) Wyoming
+##672
+The Redskins were founded in 1933 in what city?
+~~a) Washington ~~b) Baltimore ~~c) Albany **d) Boston
+##673
+Who is the Redskins' all-time leader in career points?
+~~a) Chip Lohmiller **b) Mark Moseley ~~c) John Riggins ~~d) Art Monk
+##674
+Who holds the Redskins' record for career touchdowns?
+~~a) John Riggins ~~b) Gary Clark **c) Charley Taylor ~~d) Art Monk
+##675
+John Riggins tops the Redskins' career rushing list. Who ranks second?
+**a) Larry Brown ~~b) Earnest Byner ~~c) Terry Allen ~~d) Cliff Battles
+##676
+Who holds the Redskins' record for rushing yards in a season?
+~~a) Larry Brown ~~b) John Riggins **c) Terry Allen ~~d) Cliff Battles
+##677
+Who holds the Redskins' record for rushing yards in a game?
+**a) Gerald Riggs ~~b) Terry Allen ~~c) John Riggins ~~d) Timmy Smith
+##678
+Who holds the Redskins' record for the longest run from scrimmage?
+~~a) Larry Brown **b) Billy Wells ~~c) Cliff Battles ~~d) Reggie Brooks
+##679
+Who is the Redskins' all-time leader in passing yards?
+~~a) Sammy Baugh ~~b) Sonny Jurgensen **c) Joe Theismann ~~d) Mark Rypien
+##680
+Who is the only Redskins quarterback to pass for 4,000 yards in a season?
+~~a) Joe Theismann ~~b) Sonny Jurgensen ~~c) Mark Rypien **d) Jay Schroeder
+##681
+Who holds the Redskins' record for passing yards in a game?
+**a) Sammy Baugh ~~b) Sonny Jurgensen ~~c) Joe Theismann ~~d) Jay Schroeder
+##682
+Who is the Redskins' all-time leader in touchdown passes?
+~~a) Sonny Jurgensen **b) Sammy Baugh ~~c) Joe Theismann ~~d) Billy Kilmer
+##683
+Who holds the Redskins' record for touchdown passes in a season?
+~~a) Sammy Baugh ~~b) Joe Theismann ~~c) Mark Rypien **d) Sonny Jurgensen
+##684
+Three times a Redskins' quarterback has passed for 6 touchdowns in a game- twice by Sammy Baugh and once by:
+~~a) Jay Schroeder ~~b) Joe Theismann **c) Mark Rypien ~~d) Sonny Jurgensen
+##685
+Art Monk shares the Redskins' record for most receptions (13) in a game with:
+~~a) Ricky Sanders ~~b) Bobby Mitchell ~~c) Charley Taylor **d) Kelvin Bryant
+##686
+Who holds the Redskins' record for receiving yardage in a season?
+~~a) Charley Taylor **b) Bobby Mitchell ~~c) Art Monk ~~d) Gary Clark
+##687
+Who is the Redskins' all-time leader in touchdown receptions?
+**a) Charley Taylor ~~b) Bobby Mitchell ~~c) Art Monk ~~d) Gary Clark
+##688
+Who is the Redskins' all-time leader in interceptions?
+~~a) Brig Owens ~~b) Sammy Baugh **c) Darrell Green ~~d) Mike Bass
+##689
+Dan Sandifer shares the Redskins' record for most interceptions (4) in a game with:
+~~a) Brig Owens **b) Sammy Baugh ~~c) Darrell Green ~~d) Mike Bass
+##690
+Entering the 1998 season, former Redskins linebacker Monte Coleman shared the club record for most seasons (16) with:
+~~a) Art Monk ~~b) Mark Moseley ~~c) Dave Butz **d) Sammy Baugh
+##691
+Who holds the Redskins' record for most Pro Bowl selections?
+~~a) Charley Taylor ~~b) Ken Houston **c) Chris Hanburger ~~d) Darrell Green
+##692
+What number did Redskins quarterback Sonny Jurgensen wear?
+~~a) 3 ~~b) 6 **c) 9 ~~d) 12
+##693
+What NFL single-game record did the Redskins set on November 27, 1966?
+**a) most points ~~b) most yards ~~c) most first downs ~~d) most points allowed
+##694
+What Redskins player set an NFL record with a career punting average of 45.1 yards?
+~~a) Matt Turk ~~b) Steve Cox ~~c) Mike Bragg **d) Sammy Baugh
+##695
+Where did Redskins coach Norv Turner attend college?
+~~a) Southern California **b) Oregon ~~c) Oregon State ~~d) California
+##696
+Who is the only player to have his Redskins jersey number retired?
+~~a) John Riggins ~~b) Sonny Jurgensen **c) Sammy Baugh ~~d) Charley Taylor
+##697
+What number did Redskins quarterback Sammy Baugh wear?
+~~a) 7 ~~b) 11 **c) 33 ~~d) 77
+##698
+Who was the last Redskins quarterback to lead the NFL in passing?
+~~a) Joe Theismann ~~b) Sammy Baugh ~~c) Mark Rypien **d) Sonny Jurgensen
+##699
+Who was the last Redskins player to lead the NFL in rushing?
+**a) Larry Brown ~~b) John Riggins ~~c) Terry Allen ~~d) Reggie Brooks
+##700
+Joe Gibbs's 140 victories are the most by a Redskins' coach. Who ranks second with 69?
+~~a) Jack Pardee **b) George Allen ~~c) RayFlaherty ~~d) Otto Graham
+

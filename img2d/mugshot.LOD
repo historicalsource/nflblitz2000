@@ -1,0 +1,187 @@
+HFILE> \video\nfl\include\mugshot.h
+
+INPUT> mugshot.wif
+# 1  Arizona Cardinals
+-----> fac_murr,fac_metc,fac_moor,facwad
+EXECUTE> arzlst.tga
+MAKEBAT> mugshot.bat arzlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+# 2  Atlanta Falcons
+INPUT> mugshot.wif
+-----> faf_ande,faf_broo,faf_chan,faf_mart,faf_math,fafdwi
+EXECUTE> atllst.tga
+MAKEBAT> mugshot.bat atllst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+# 3  Baltimore Ravens
+INPUT> mugshot.wif
+-----> fbr_harb,fbr_jack,fbr_john,fbr_rhet,fbr_star
+EXECUTE> ballst.tga
+MAKEBAT> mugshot.bat ballst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 4  Buffalo Bills
+INPUT> mugshot.wif
+-----> fbb_thom
+EXECUTE> buflst.tga
+MAKEBAT> mugshot.bat buflst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 5  Carolina Panthers
+INPUT> mugshot.wif
+-----> fcp_biak,fcp_coll,fcp_gree,fcp_wall,fcppet
+EXECUTE> carlst.tga
+MAKEBAT> mugshot.bat carlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 6  Chicago Bears
+INPUT> mugshot.wif
+-----> fcb_benn,fcb_enis,fcb_conw
+EXECUTE> chilst.tga
+MAKEBAT> mugshot.bat chilst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 7  Cincinnati Bengals
+INPUT> mugshot.wif
+-----> fci_blak,fci_pick,fci_simm,fci_spik
+EXECUTE> cinlst.tga
+MAKEBAT> mugshot.bat cinlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 8  Dallas Cowboys
+INPUT> mugshot.wif
+-----> fdc_aikm,fdc_irvi,fdc_sand,fdc_smit,fdcell
+EXECUTE> dallst.tga
+MAKEBAT> mugshot.bat dallst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 9  Denver Broncos
+INPUT> mugshot.wif
+-----> fdb_atwa,fdb_davi,fdb_elwa,fdb_shar,fdbgri,fdbnas
+EXECUTE> denlst.tga
+MAKEBAT> mugshot.bat denlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 10 Detroit Lions
+INPUT> mugshot.wif
+-----> fdl_fred,fdl_mitc,fdl_moor,fdl_sand,fdlcro
+EXECUTE> detlst.tga
+MAKEBAT> mugshot.bat detlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 11 Green Bay Packers
+INPUT> mugshot.wif
+-----> fgp_broo,fgp_butl,fgp_favr
+EXECUTE> grelst.tga
+MAKEBAT> mugshot.bat grelst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 12 Indianapolis Colts
+INPUT> mugshot.wif
+-----> fic_dilg,fic_faul,fic_harr,fic_mann,ficpat
+EXECUTE> indlst.tga
+MAKEBAT> mugshot.bat indlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 13 Jacksonville Jaguars
+INPUT> mugshot.wif
+-----> fjj_brun,fjj_hard,fjj_paup,fjj_tayl,fjjban
+EXECUTE> jaclst.tga
+MAKEBAT> mugshot.bat jaclst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 14 Kansas City Chiefs
+INPUT> mugshot.wif
+-----> fkc_grba,fkc_thom
+EXECUTE> kanlst.tga
+MAKEBAT> mugshot.bat kanlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 15 Miami Dolphins
+INPUT> mugshot.wif
+-----> fmd_aver,fmd_jabb,fmd_mari,fmd_mcdu,fmd_thom
+EXECUTE> mialst.tga
+MAKEBAT> mugshot.bat mialst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 16 Minnesota Vikings
+INPUT> mugshot.wif
+-----> fmv_cart,fmv_john
+EXECUTE> minlst.tga
+MAKEBAT> mugshot.bat minlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 17 New England Patriots
+INPUT> mugshot.wif
+-----> fnp_bled,fnp_edwa,fnp_glen,fnpsim
+EXECUTE> ne_lst.tga
+MAKEBAT> mugshot.bat ne_lst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 18 New Orleans Saints
+INPUT> mugshot.wif
+-----> fns_mold,fns_zell
+EXECUTE> no_lst.tga
+MAKEBAT> mugshot.bat no_lst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 19 New York Giants
+INPUT> mugshot.wif
+-----> fngjur
+EXECUTE> nyglst.tga
+MAKEBAT> mugshot.bat nyglst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 20 New York Jets
+INPUT> mugshot.wif
+-----> fnj_mart,fnj_john,fnj_jone
+EXECUTE> nyjlst.tga
+MAKEBAT> mugshot.bat nyjlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 21 Oakland Raiders
+INPUT> mugshot.wif
+-----> for_brow,for_geor
+EXECUTE> oaklst.tga
+MAKEBAT> mugshot.bat oaklst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+## 22 Philadelphia Eagles
+#INPUT> mugshot.wif
+#-----> phidet30,phijon30,phimam30,phiwat30
+#EXECUTE> philst.tga
+#MAKEBAT> mugshot.bat philst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 23 Pittsburgh Steelers
+INPUT> mugshot.wif
+-----> fps_bett,fps_stew,fpswar
+EXECUTE> pitlst.tga
+MAKEBAT> mugshot.bat pitlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 24 San Diego Chargers
+INPUT> mugshot.wif
+-----> fsc_mean,fsc_seau
+EXECUTE> sd_lst.tga
+MAKEBAT> mugshot.bat sd_lst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 25 San Francisco 49'ers
+INPUT> mugshot.wif
+-----> fsf_lang,fsf_nort,fsf_rice,fsf_stok,fsf_youn
+EXECUTE> sf_lst.tga
+MAKEBAT> mugshot.bat sf_lst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 26 Seattle Seahawks
+INPUT> mugshot.wif
+-----> fss_gall,fss_gree,fss_simm,fss_watt
+EXECUTE> sealst.tga
+MAKEBAT> mugshot.bat sealst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 27 St. Louis Rams
+INPUT> mugshot.wif
+-----> fsr_bank,fsr_bruc,fsr_holc,fsr_lygh,fsrwis
+EXECUTE> stllst.tga
+MAKEBAT> mugshot.bat stllst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 28 Tampa Bay Bucs
+INPUT> mugshot.wif
+-----> ftb_dilf,ftb_dunn,ftb_gree,ftb_nick
+EXECUTE> tamlst.tga
+MAKEBAT> mugshot.bat tamlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 29 Tennessee Titans
+INPUT> mugshot.wif
+-----> fto_dyso,fto_geor,fto_mcna,fto_thig
+EXECUTE> tenlst.tga
+MAKEBAT> mugshot.bat tenlst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 30 Washington Redskins
+INPUT> mugshot.wif
+-----> fwr_alle,fwr_dish,fwr_frer,fwr_west,fwrhic
+EXECUTE> waslst.tga
+MAKEBAT> mugshot.bat waslst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |
+
+# 31 Cleveland Browns
+INPUT> mugshot.wif
+-----> fbw_alle,fbw_dish,fbw_frer,fbw_west,fbwhic
+EXECUTE> clelst.tga
+MAKEBAT> mugshot.bat clelst*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | del $(filename).3df | del $(filename).tga |

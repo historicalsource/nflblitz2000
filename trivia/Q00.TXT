@@ -1,0 +1,308 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Incorrect answer follows
+** = Correct answer follows
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i Where did Bills coach Wade Phillips get his start as an NFL head coach?
+m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m Where did Bills coach Wade Phillips get his start as an NFL head coach?
+
+##1
+Where did Bills coach Wade Phillips get his start as an NFL head coach?
+~~a) Broncos ~~b) Oilers ~~c) Chargers **d) Saints
+##2
+Who has the highest winning percentage (.755) among coaches with 100 or more victories?
+~~a) Vince Lombardi **b) George Seifert ~~c) John Madden ~~d) Joe Gibbs
+##3
+Mike Ditka was the second person to win a Super Bowl ring as a player, assistant, and head coach. Who was the first?
+**a) Tom Flores ~~b) Dan Reeves ~~c) Bill Parcells ~~d) Jimmy Johnson
+##4
+Bill Parcells matched the best turnaround ever when he led the Jets to a 9-7 mark in 1997, eight wins more than they had in 1996. Who is the only coach to accomplish that feat twice?
+~~a) Don Shula ~~b) George Halas ~~c) Dan Reeves **d) Ted Marchibroda
+##5
+How many losing seasons did Don Shula have in 33 years of coaching?
+~~a) 0 ~~b) 1 **c) 2 ~~d) 4
+##6
+What is the NFL's oldest stadium?
+~~a) Lambeau Field **b) Soldier Field ~~c) Mile High Stadium ~~d) 3Com Park
+##7
+Which stadium hosted the largest regular-season crowd in NFL history?
+~~a) Rich Stadium ~~b) Rose Bowl **c) Los Angeles Memorial Coliseum ~~d) Orange Bowl
+##8
+What stadium has hosted the most Super Bowls (five)?
+~~a) Rose Bowl ~~b) Orange Bowl ~~c) Louisiana Superdome **d) all of the above
+##9
+What is the largest NFL stadium (80,368 capacity)?
+~~a) Rich Stadium ~~b) Arrowhead Stadium **c) Pontiac Silverdome ~~d) Jack Kent Cooke Stadium
+##10
+Where did the Jets play their home games before they moved into Giants Stadium in 1984?
+~~a) Jets Stadium **b) Shea Stadium ~~c) Yankee Stadium ~~d) Yale Bowl
+##11
+Name the last rookie to lead the NFL in rushing:
+~~a) Barry Sanders ~~b) Terrell Davis ~~c) George Rogers **d) Eric Dickerson
+##12
+Name the last rookie to lead the NFL in passing:
+~~a) Dan Marino **b) Parker Hall ~~c) Sammy Baugh ~~d) Johnny Unitas
+##13
+Who is the NFL's all-time leading scorer?
+**a) George Blanda ~~b) Jerry Rice ~~c) Nick Lowery ~~d) Marcus Allen
+##14
+Before Steve Young, who was the last left-hander to top the NFL in passing?
+~~a) Ken Stabler **b) Boomer Esiason ~~c) Mark Brunell ~~d) Scott Mitchell
+##15
+Whose record did Herman Moore equal when he recorded his third consecutive 100-reception season in 1997?
+**a) Jerry Rice ~~b) Sterling Sharpe ~~c) Cris Carter ~~d) Tim Brown
+##16
+Who was the MVP of the 1998 AFC-NFC Pro Bowl?
+~~a) Tim Brown ~~b) Steve Young ~~c) Jerome Bettis **d) Warren Moon
+##17
+Corey Dillon's 246 rushing yards in a 1997 game were the most ever by a rookie. Whose mark did he eclipse?
+~~a) Earl Campbell **b) Jim Brown ~~c) Walter Payton ~~d) Eric Dickerson
+##18
+Green Bay quarterback Brett Favre began his NFL career with what team?
+~~a) Chargers **b) Falcons ~~c) Oilers ~~d) Cardinals
+##19
+Who led the NFL in yards per rushing attempt (6.7) in 1997?
+~~a) Barry Sanders ~~b) Terrell Davis **c) Steve McNair ~~d) Kordell Stewart
+##20
+Name the last player other than Brett Favre to pass for 30 touchdowns in a season:
+~~a) Dan Marino ~~b) Steve Young **c) Vinny Testaverde ~~d) Jeff George
+##21
+Whose record did Dan Marino break in 1994 when he became the NFL's all-time leader in passing yardage?
+**a) Fran Tarkenton ~~b) Johnny Unitas ~~c) Sammy Baugh ~~d) Dan Fouts
+##22
+What quarterback has run for the most yards in NFL history?
+~~a) John Elway ~~b) Bobby Layne **c) Randall Cunningham ~~d) Steve Young
+##23
+In 1997, the Broncos became the second wild-card team to win a Super Bowl. Name the first:
+~~a) Giants **b) Raiders ~~c) Cowboys ~~d) Redskins
+##24
+Who holds the NFL record for most rushing yards in a game?
+~~a) Corey Dillon **b) Walter Payton ~~c) Barry Sanders ~~d) Eric Dickerson
+##25
+Which is the only Super Bowl team to not score a touchdown in the big game?
+**a) Dolphins ~~b) Broncos ~~c) Colts ~~d) Vikings
+##26
+What was the Bears' nickname when the franchise was founded in 1920?
+~~a) Cubs ~~b) Cardinals ~~c) Bulls **d) Staleys
+##27
+In the 1992 playoffs, quarterback Frank Reich led the Bills to the greatest comeback in NFL history. How big a deficit did Buffalo overcome?
+~~a) 21 points ~~b) 27 points **c) 32 points ~~d) 35 points
+##28
+Who was the first tight end inducted into the Pro Football Hall of Fame?
+~~a) Kellen Winslow **b) Mike Ditka ~~c) Jackie Smith ~~d) John Mackey
+##29
+Name the only player other than Jim Brown to win a rushing title during Brown's nine-year career (1957-1965):
+~~a) Paul Hornung ~~b) John Henry Johnson ~~c) Don Perkins **d) Jim Taylor
+##30
+Who is the only running back to catch 100 passes in a season?
+~~a) Roger Craig ~~b) Marcus Allen **c) Larry Centers ~~d) Ronnie Harmon
+##31
+Who is the only coach to win four Super Bowls?
+**a) Chuck Noll ~~b) Tom Landry ~~c) Bill Walsh ~~d) Joe Gibbs
+##32
+What school has produced the most number-one overall selections (five) in the NFL draft?
+~~a) Southern California ~~b) Tennessee **c) Notre Dame ~~d) Ohio State
+##33
+What franchise won the most AFL titles (three) during the league's 10-year existence (1960-69)?
+**a) Chiefs ~~b) Chargers ~~c) Oilers ~~d) Bills
+##34
+Who was the first person to catch 100 passes in a season?
+~~a) Jerry Rice ~~b) Sterling Sharpe ~~c) Charley Hennigan **d) Lionel Taylor
+##35
+Who was the last rookie to lead the NFL in receptions?
+~~a) Jerry Rice ~~b) Art Monk **c) Tom Fears ~~d) Don Hutson
+##36
+Who holds the NFL record for most receptions (18) in a game?
+**a) Tom Fears ~~b) Art Monk ~~c) Clark Gaines ~~d) Jerry Rice
+##37
+Who holds the record for most rushing yards in a Super Bowl?
+~~a) John Riggins ~~b) Marcus Allen **c) Timmy Smith ~~d) Terrell Davis
+##38
+Dan Marino set an NFL record with 5,048 passing yards in 1984. Who registered the second-highest single-season total (4,802 yards)?
+~~a) Dan Marino **b) Dan Fouts ~~c) Joe Namath ~~d) Warren Moon
+##39
+Who holds the NFL record for most consecutive games (18) with a touchdown?
+**a) Lenny Moore ~~b) Jerry Rice ~~c) Jim Brown ~~d) Don Hutson
+##40
+Who holds the NFL record for most points in a season?
+~~a) Mark Moseley ~~b) Jerry Rice ~~c) Emmitt Smith **d) Paul Hornung
+##41
+Before the Cowboys' Jimmy Johnson (XXVII and XXVIII), who was the last coach to win back-to-back Super Bowls?
+~~a) Bill Walsh ~~b) George Seifert ~~c) Joe Gibbs **d) Chuck Noll
+##42
+Johnson was the first coach to win an NCAA title and a Super Bowl. Who was the second?
+~~a) Dennis Erickson **b) Barry Switzer ~~c) Bobby Ross ~~d) Tom Coughlin
+##43
+Who is the only coach with a post-season victory over Vince Lombardi?
+~~a) Weeb Ewbank ~~b) Hank Stram ~~c) Don Shula **d) Lawrence (Buck) Shaw
+##44
+What coach has the most post-season victories (20)?
+~~a) Don Shula ~~b) George Halas **c) Tom Landry ~~d) Joe Gibbs
+##45
+George Seifert was the second rookie coach to win a Super Bowl. Name the first:
+**a) Don McCafferty ~~b) Tom Flores ~~c) Bill Parcells ~~d) Joe Gibbs
+##46
+Dallas's NFL record of 24 playoff seasons was equaled in 1997 by the:
+~~a) 49ers **b) Giants ~~c) Steelers ~~d) Vikings
+##47
+Since 1960, what team has won the most NFL titles?
+~~a) Cowboys ~~b) 49ers ~~c) Steelers **d) Packers
+##48
+Entering the 1998 season, what team had the longest current playoff losing streak (five games)?
+**a) Lions ~~b) Giants ~~c) Chiefs ~~d) Dolphins
+##49
+Who is the highest-rated passer (104.8) in post-season play?
+~~a) Joe Montana ~~b) Steve Young ~~c) Troy Aikman **d) Bart Starr
+##50
+Who has the highest career average per carry (5.3) in the playoffs?
+~~a) Marcus Allen **b) Terrell Davis ~~c) Emmitt Smith ~~d) Eric Dickerson
+##51
+Who is the all-time leading receiver (120 catches) in the post-season?
+~~a) Andre Reed ~~b) Michael Irvin **c) Jerry Rice ~~d) Cliff Branch
+##52
+What team has appeared in the most Super Bowls (eight)?
+**a) Cowboys ~~b) Dolphins ~~c) Steelers ~~d) Redskins
+##53
+Name the only three-time winner of the Super Bowl MVP Award:
+~~a) Jerry Rice ~~b) Terry Bradshaw ~~c) Lynn Swann **d) Joe Montana
+##54
+Who was the first player to score a touchdown in the Super Bowl?
+~~a) Mike Garrett ~~b) Paul Hornung **c) Max McGee ~~d) Jim Taylor
+##55
+Name the only player to appear in Super Bowls in the 1960s, 1970s, and 1980s:
+**a) Gene Upshaw ~~b) Pete Banaszak ~~c) Fred Biletnikoff ~~d) Art Shell
+##56
+Who was the first player to win four Super Bowl rings?
+~~a) Herb Adderley **b) Marv Fleming ~~c) Forrest Gregg ~~d) Paul Warfield
+##57
+Name the only player to win Super Bowl rings three consecutive seasons:
+~~a) Preston Pearson ~~b) Marv Fleming **c) Ken Norton, Jr. ~~d) Deion Sanders
+##58
+Only two teams have committed more turnovers than their opponent and still won the Super Bowl-the Colts in V and the:
+~~a) Raiders in XVIII **b) Steelers in XIV ~~c) Cowboys in XXVIII ~~d) 49ers in XXIII
+##59
+Since 1970, only two of the AFL's original eight franchises have won Super Bowls-the Raiders and the:
+~~a) Steelers ~~b) Dolphins ~~c) Colts **d) Broncos
+##60
+What is the largest deficit overcome to win a Super Bowl?
+~~a) 7 points **b) 10 points ~~c) 14 points ~~d) 21 points
+##61
+What quarterback set an NFL record with 45 pass completions in a game?
+~~a) Steve Young ~~b) Warren Moon **c) Drew Bledsoe ~~d) Richard Todd
+##62
+Entering the 1998 season, who was the last player other than Emmitt Smith or Barry Sanders to lead the NFL in rushing?
+~~a) Barry Foster ~~b) Thurman Thomas ~~c) Eric Dickerson **d) Christian Okoye
+##63
+Entering the 1998 season, who was the only quarterback besides Steve Young to lead the NFL in passer rating since 1991:
+**a) Jim Harbaugh ~~b) Brett Favre ~~c) Dan Marino ~~d) Warren Moon
+##64
+Entering the 1998 season, which of these players has never been selected to play in a Pro Bowl?
+~~a) Jeff Hostetler **b) Jeff George ~~c) Jim Everett ~~d) Mark Rypien
+##65
+Who owns the NFL record for longest run from scrimmage?
+~~a) Jim Brown **b) Tony Dorsett ~~c) Eric Dickerson ~~d) Earl Campbell
+##66
+Which of these coaches is still seeking his first post-season victory?
+~~a) Dave Wannstedt **b) Jim Mora ~~c) Ray Rhodes ~~d) Dom Capers
+##67
+Where did long-time Bills coach Marv Levy began his NFL head-coaching career?
+~~a) Colts ~~b) Cardinals ~~c) Chargers **d) Chiefs
+##68
+Who immediately preceded Vince Tobin as head coach of the Arizona Cardinals?
+~~a) Jim Hanifan **b) Buddy Ryan ~~c) Joe Bugel ~~d) Gene Stallings
+##69
+Which active coach entered the 1998 season with the most career victories?
+~~a) Jim Mora ~~b) Bill Parcells ~~c) Marty Schottenheimer **d) Dan Reeves
+##70
+Broncos coach Mike Shanahan began his head-coaching career with what team?
+~~a) Chiefs ~~b) 49ers **c) Raiders ~~d) Seahawks
+##71
+For which team did Steve Young play when he first entered the NFL?
+**a) Buccaneers ~~b) Rams ~~c) Oilers ~~d) Saints
+##72
+What team drafted John Elway?
+~~a) Bengals ~~b) Browns ~~c) Broncos **d) Colts
+##73
+By what nickname were the New York Jets known before 1963?
+~~a) Metros **b) Titans ~~c) Dodgers ~~d) Yanks
+##74
+Which of these AFC teams never played in the AFL?
+**a) Steelers ~~b) Broncos ~~c) Bengals ~~d) Dolphins
+##75
+What NFL team did broadcaster John Madden coach?
+~~a) Bears ~~b) Vikings ~~c) Chargers **d) Raiders
+##76
+Before the Packers in Super Bowl XXXII, name the last NFC team to lose in the Super Bowl:
+~~a) Cowboys **b) Redskins ~~c) Giants ~~d) Vikings
+##77
+Who is the only player to play on five Super Bowl championship teams?
+**a) Charles Haley ~~b) Ken Norton, Jr. ~~c) Preston Pearson ~~d) Terry Bradshaw
+##78
+Who holds the Super Bowl record for career rushing yards?
+~~a) Emmitt Smith **b) Franco Harris ~~c) Larry Csonka ~~d) Thurman Thomas
+##79
+Which of these four teams has made the most Super Bowl appearances?
+~~a) Raiders **b) Redskins ~~c) Vikings ~~d) Packers
+##80
+Who was the losing coach when Vince Lombardi's last Packers team won Super Bowl II?
+~~a) Hank Stram ~~b) Al Davis ~~c) Sid Gillman **d) John Rauch
+##81
+Whose record did Walter Payton break when he became the NFL's all-time leading rusher in 1984?
+**a) Jim Brown ~~b) Franco Harris ~~c) Jim Taylor ~~d) Steve Van Buren
+##82
+The NFL went to its current six-division format in 1970. Which division has produced the most champions in the succeeding 28 Super Bowls?
+~~a) AFC Central ~~b) NFC West ~~c) AFC West **d) NFC East
+##83
+What matchup is the most prolific in NFL history (154 regular-season games entering 1998)?
+~~a) Bears-Cardinals **b) Bears-Packers ~~c) Bears-Lions ~~d) Redskins-Giants
+##84
+What position did Buccaneers wide receiver Bert Emanuel play in college?
+~~a) safety ~~b) running back **c) quarterback ~~d) kick returner
+##85
+Who was the last defending Super Bowl champion to not make the playoffs?
+~~a) Raiders ~~b) Redskins ~~c) 49ers **d) Giants
+##86
+With which team did former congressman Jack Kemp begin his pro football career?
+~~a) Bills ~~b) Chargers **c) Steelers ~~d) Colts
+##87
+Curly Lambeau coached the Packers for 29 consecutive seasons (1921-1949), the longest streak by a coach with one team. Who later equaled his mark?
+~~a) Don Shula **b) Tom Landry ~~c) George Halas ~~d) Steve Owen
+##88
+George Blanda played an NFL-record 26 seasons. Who ranks second with 21 years?
+**a) Earl Morrall ~~b) Jackie Slater ~~c) Jim Marshall ~~d) Clay Matthews
+##89
+Who holds the league record for most rushing attempts (45) in a game?
+~~a) Joe Morris **b) Jamie Morris ~~c) Ricky Bell ~~d) James Wilder
+##90
+Who was the NFL's top fourth-quarter rusher (457 yards) in 1997?
+~~a) Terrell Davis ~~b) Barry Sanders **c) Dorsey Levens ~~d) Jerome Bettis
+##91
+Walter Payton's 21,803 combined yards (gained via rushing and receiving, plus returning kickoffs, punts, interceptions, and fumbles) are the most in NFL history. Entering the 1998 season, who ranked second with 18,168 yards?
+~~a) Jerry Rice ~~b) Marcus Allen ~~c) Barry Sanders **d) Herschel Walker
+##92
+What player is the all-time leader among quarterbacks with 10 Pro Bowl invitations?
+**a) Johnny Unitas ~~b) Joe Montana ~~c) Dan Marino ~~d) Fran Tarkenton
+##93
+Who made the "Immaculate Reception" to lift the Steelers over the Raiders in the 1972 playoffs?
+~~a) Lynn Swann ~~b) John (Frenchy) Fuqua ~~c) John Stallworth **d) Franco Harris
+##94
+Who scored the winning points in "the greatest game ever played," the 1958 NFL Championship Game in which the Colts defeated the Giants in overtime?
+~~a) Steve Myhra ~~b) Raymond Berry **c) Alan Ameche ~~d) Johnny Unitas
+##95
+When was the last time the 49ers failed to win at least 10 games in a 16-game season?
+~~a) 1985 **b) 1980 ~~c) 1991 ~~d) 1979
+##96
+Who is the only player to surpass 1,000 yards rushing and receiving in the same season?
+**a) Roger Craig ~~b) Larry Centers ~~c) Marcus Allen ~~d) Lydell Mitchell
+##97
+What was the Steelers' nickname when the franchise was founded in 1933?
+~~a) Steelers ~~b) Indians ~~c) Panthers **d) Pirates
+##98
+The 1984 49ers won an NFL-record 15 regular-season games, a mark they share with the:
+~~a) 1978 Steelers **b) 1985 Bears ~~c) 1989 49ers ~~d) 1986 Giants
+##99
+What franchise has the most first-place finishes (19) during the regular season in NFL history?
+~~a) Bears ~~b) Browns **c) Giants ~~d) Cowboys
+##100
+Only two franchises remain from the NFL's first season in 1920, the Bears and the:
+~~a) Packers ~~b) Giants **c) Cardinals ~~d) Lions
+

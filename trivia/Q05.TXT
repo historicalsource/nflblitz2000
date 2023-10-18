@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##501
+Who holds the Giants' record for rushing touchdowns?
+~~a) Joe Morris ~~b) Alex Webster **c) Rodney Hampton ~~d) Frank Gifford
+##502
+Who holds the Giants' record for rushing touchdowns (4) in a game?
+~~a) Ottis Anderson ~~b) Alex Webster ~~c) Joe Morris **d) Rodney Hampton
+##503
+Who was the last Giants quarterback to lead the NFL in passing?
+**a) Norm Snead ~~b) Charlie Conerly ~~c) Phil Simms ~~d) Y.A. Tittle
+##504
+Who is the only Giants passer to surpass 4,000 yards in a season?
+~~a) Fran Tarkenton **b) Phil Simms ~~c) Jeff Hostetler ~~d) Y.A. Tittle
+##505
+Two Giants quarterbacks have surpassed 500 passing yards in a game-Phil Simms and:
+**a) Y.A. Tittle ~~b) Charlie Conerly ~~c) Scott Brunner ~~d) Jeff Hostetler
+##506
+What Giants quarterback completed the longest pass play (98 yards) in franchise history?
+~~a) Phil Simms ~~b) Randy Johnson **c) Earl Morrall ~~d) Fran Tarkenton
+##507
+Phil Simms tops the Giants' all-time list with 199 touchdown passes. Who ranks second with 173?
+~~a) Y.A. Tittle **b) Charlie Conerly ~~c) Fran Tarkenton ~~d) Norm Snead
+##508
+What Giants passer tied an NFL record with 7 touchdown passes in a game?
+~~a) George Blanda ~~b) Phil Simms ~~c) Charlie Conerly **d) Y.A. Tittle
+##509
+Who was the only Giants player to lead the NFL in receptions?
+~~a) Frank Gifford ~~b) Earnest Gray ~~c) Bob Tucker **d) Tod Goodwin
+##510
+Who holds the Giants' record for most receptions in a game?
+~~a) Gary Shirk **b) Mark Bavaro ~~c) Frank Gifford ~~d) Del Shofner
+##511
+Who holds the Giants' record for most receptions in a season?
+**a) Earnest Gray ~~b) Mark Bavaro ~~c) Lionel Manuel ~~d) Chris Calloway
+##512
+Who is the Giants' leader in career receiving yards?
+~~a) Earnest Gray ~~b) Mark Bavaro **c) Frank Gifford ~~d) Chris Calloway
+##513
+Who holds the Giants' record for most receiving yards in a game?
+~~a) Earnest Gray ~~b) Frank Gifford ~~c) Joe Morrison **d) Del Shofner
+##514
+Who holds the Giants' record for most touchdown catches in a season?
+~~a) Earnest Gray **b) Homer Jones ~~c) Del Shofner ~~d) Frank Gifford
+##515
+Who is the only Giants player to catch 4 touchdown passes in a game?
+**a) Earnest Gray ~~b) Mark Bavaro ~~c) Homer Jones ~~d) Del Shofner
+##516
+Who is the Giants' all-time leader in interceptions?
+~~a) Tom Landry **b) Emlen Tunnell ~~c) Otto Schellbacher ~~d) Carl Lockhard
+##517
+What is the Giants' record for most points in a regular-season game?
+~~a) 56 ~~b) 59 **c) 62 ~~d) 72
+##518
+What number did Giants quarterback Y.A. Tittle wear?
+~~a) 2 ~~b) 7 ~~c) 12 **d) 14
+##519
+What number did Giants quarterback Charlie Conerly wear?
+~~a) 22 **b) 42 ~~c) 66 ~~d) 00
+##520
+What year did the Giants enter the NFL?
+~~a) 1920 ~~b) 1922 **c) 1925 ~~d) 1935
+##521
+The Giants have won six NFL titles. Where do they rank in league annals?
+**a) third ~~b) fourth ~~c) fifth ~~d) sixth
+##522
+Who made the key stop on the Broncos' Sammy Winder on third-and-goal in Super Bowl XXI?
+~~a) Lawrence Taylor ~~b) Pepper Johnson **c) Carl Banks ~~d) George Martin
+##523
+In Super Bowl XXV, how long was the Giants' touchdown drive to open the second half?
+~~a) 7:21 ~~b) 8:21 ~~c) 9:21 **d) 9:29
+##524
+How many turnovers have the Giants committed in their two Super Bowl victories?
+**a) 0 ~~b) 1 ~~c) 2 ~~d) 4
+##525
+Who kicked the winning field goal for the Giants in Super Bowl XXV?
+~~a) David Treadwell ~~b) Chris Bahr **c) Matt Bahr ~~d) Raul Allegre
+##526
+The Giants appeared in the NFL Championship Game every year from 1958 to 1963 except:
+~~a) 1959 **b) 1960 ~~c) 1961 ~~d) 1962
+##527
+What number did Giants quarterback Phil Simms wear?
+~~a) 7 **b) 11 ~~c) 12 ~~d) 17
+##528
+How many incompletions did Giants quarterback Phil Simms have in the second half of Super Bowl XXI?
+**a) 0 ~~b) 3 ~~c) 6 ~~d) 7
+##529
+Who did the Giants defeat in the 1986 NFC Championship Game to reach Super Bowl XXI?
+~~a) 49ers ~~b) Bears **c) Redskins ~~d) Rams
+##530
+What player holds the Giants' record with 10 Pro Bowl selections?
+~~a) Harry Carson **b) Lawrence Taylor ~~c) Roosevelt Brown ~~d) Frank Gifford
+##531
+Who holds the Eagles' record for most seasons played?
+~~a) Harold Carmichael ~~b) Bill Bergey **c) Chuck Bednarik ~~d) Frank (Bucko) Kilroy
+##532
+Who holds the Eagles' record for most games played?
+**a) Harold Carmichael ~~b) Bill Bergey ~~c) Chuck Bednarik ~~d) Frank (Bucko) Kilroy
+##533
+Who is the Eagles' all-time scoring leader?
+~~a) Steve Van Buren **b) Bobby Walston ~~c) Harold Carmichael ~~d) Sam Baker 
+##534
+Who holds the Eagles' record for most points in a season?
+~~a) Chris Boniol ~~b) Tony Franklin ~~c) Steve Van Buren **d) Paul McFadden
+##535
+Who is the Eagles' all-time leader in touchdowns?
+~~a) Steve Van Buren **b) Harold Carmichael ~~c) Tommy McDonald ~~d) Pete Pihos
+##536
+What Eagles player set a club record by scoring 18 touchdowns in a season?
+~~a) Harold Carmichael ~~b) Tommy McDonald ~~c) Ricky Watters **d) Steve Van Buren
+##537
+Who is the only Eagles player to score 4 touchdowns in a game twice?
+~~a) Ricky Watters **b) Wilbert Montgomery ~~c) Steve Van Buren ~~d) Irving Fryar
+##538
+What Eagles player set a club record with a 91-yard touchdown run?
+~~a) Wilbert Montgomery ~~b) Steve Van Buren **c) Herschel Walker ~~d) Ricky Watters
+##539
+What Eagles player rushed for a club-record 1,512 yards in a season?
+**a) Wilbert Montgomery ~~b) Steve Van Buren ~~c) Herschel Walker ~~d) Ricky Watters
+##540
+Who is the only Eagles player to rush for 200 yards in a game?
+~~a) Wilbert Montgomery **b) Steve Van Buren ~~c) Herschel Walker ~~d) Ricky Watters
+##541
+Who is the Eagles' all-time leader in passing yards?
+~~a) Randal Cunningham ~~b) Sonny Jurgensen ~~c) Norm Snead **d) Ron Jaworski
+##542
+Who led the Eagles in rushing every year from 1987 to 1990?
+~~a) Keith Byars ~~b) Wilbert Montgomery **c) Randall Cunningham ~~d) James Joseph
+##543
+What Eagles quarterback passed for a club-record 447 yards in a game?
+~~a) Ty Detmer **b) Randall Cunningham ~~c) Sonny Jurgensen ~~d) Ron Jaworski
+##544
+What quarterback led the Eagles to back-to-back NFL titles in 1948 and 1949?
+~~a) Norm VanBrocklin ~~b) Adrian Burk **c) Tommy Thompson ~~d) Bobby Thomason
+##545
+Who holds the Eagles' record for most touchdown passes in a season?
+~~a) Ty Detmer ~~b) Randall Cunningham ~~c) Ron Jaworski **d) Sonny Jurgensen
+##546
+Who is the Eagles' all-time leading receiver?
+**a) Harold Carmichael ~~b) Pete Pihos ~~c) Mike Quick ~~d) Tommy McDonald
+##547
+Who holds the Eagles' record for most receptions in a season?
+~~a) Pete Pihos ~~b) Pete Retzlaff **c) Irving Fryar ~~d) Keith Jackson
+##548
+Who holds the Eagles' record for most receptions in a game?
+~~a) Keith Byars ~~b) Keith Jackson ~~c) Harold Carmichael **d) Don Looney
+##549
+Who holds the Eagles' mark for most receiving yards in a season?
+~~a) Harold Carmichael **b) Mike Quick ~~c) Irving Fryar ~~d) Fred Barnett
+##550
+Who holds the Eagles' record for most receiving yards in a game?
+~~a) Harold Jackson ~~b) Mike Quick **c) Tommy McDonald ~~d) Pete Retzlaff
+##551
+What future NFL head coach led the Eagles in receiving in 1952?
+~~a) Tom Landry **b) Bud Grant ~~c) Bill Walsh ~~d) Don Shula
+##552
+Whose club record did Eagles receiver Mike Quick equal when he caught 13 touchdown passes in 1983?
+~~a) his mark ~~b) Cris Carter **c) Tommy McDonald ~~d) Harold Carmichael
+##553
+Who holds the Eagles' rookie record for most receptions in a season?
+**a) Keith Jackson ~~b) Keith Byars ~~c) Fred Barnett ~~d) Harold Carmichael
+##554
+Who holds the Eagles' record for interceptions in a season?
+~~a) Eric Allen **b) Bill Bradley ~~c) Chuck Bednarik ~~d) Tom Brookshier
+##555
+Who holds the Eagles' record for longest punt (91 yards)?
+~~a) John Teltschik ~~b) Jeff Feagles **c) Randall Cunningham ~~d) Max Runager
+##556
+What Eagles quarterback tied the NFL record by passing for 7 touchdowns in a game?
+~~a) Tommy Thompson **b) Adrian Burk ~~c) Sonny Jurgensen ~~d) Ron Jaworski
+##557
+Who holds the Eagles' record for most sacks in a season?
+**a) Reggie White ~~b) Clyde Simmons ~~c) Greg Brown ~~d) William Fuller
+##558
+Who holds the Eagles' record for most sacks in a game?
+~~a) Reggie White **b) Clyde Simmons ~~c) Mike Mamula ~~d) William Fuller
+##559
+What NFL record did the Eagles' Al Nelson set on September 26, 1971?
+~~a) most safeties in a game ~~b) most fumble recoveries in a game ~~c) longest punt return **d) longest return of a missed field goal
+##560
+Who was the last Eagles player to lead the NFL in receptions?
+**a) Mike Quick ~~b) Harold Carmichael ~~c) Irving Fryar ~~d) Pete Pihos
+##561
+Who was the last Eagles player to lead the NFL in rushing?
+~~a) Wilbert Montgomery ~~b) Ricky Watters **c) Steve Van Buren ~~d) Randall Cunningham
+##562
+Who was the last Eagles quarterback to lead the NFL in passing?
+**a) Tommy Thompson ~~b) Norm Van Brocklin ~~c) Sonny Jurgensen ~~d) Ron Jaworski
+##563
+What number did Eagles running back Steve Van Buren wear?
+~~a) 4 **b) 15 ~~c) 34 ~~d) 44
+##564
+What number did Eagles center-linebacker Chuck Bednarik wear?
+~~a) 50 ~~b) 52 ~~c) 55 **d) 60
+##565
+Where did Eagles kicker Chris Boniol attend college?
+~~a) Louisiana State **b) Louisiana Tech ~~c) Southwestern Louisiana ~~d) Northeastern Louisiana
+##566
+What position did Eagles coach Ray Rhodes play when he first entered the NFL?
+~~a) cornerback ~~b) safety ~~c) running back **d) wide receiver
+##567
+What team drafted Eagles coach Ray Rhodes?
+~~a) 49ers ~~b) Packers **c) Giants ~~d) Eagles
+##568
+What college did Eagles quarterback Ron Jaworski attend?
+~~a) Ohio State **b) Youngstown State ~~c) Kent State ~~d) Western Kentucky
+##569
+What college did Eagles quarterback Randall Cunningham attend?
+**a) Nevada-Las Vegas ~~b) Cal State Fullerton ~~c) Nevada-Reno ~~d) UC Santa Barbara
+##570
+What Eagles coach posted the most victories?
+~~a) Buddy Ryan **b) Earle (Greasy) Neale ~~c) Dick Vermeil ~~d) Rich Kotite
+##571
+In what city were the Rams founded?
+~~a) Los Angeles **b) Cleveland ~~c) Cincinnati ~~d) Canton, Ohio
+##572
+What college team did Rams coach Dick Vermeil lead to the 1976 Rose Bowl?
+~~a) Washington **b) UCLA ~~c) Southern California ~~d) Stanford
+##573
+Who caught the winning 73-yard touchdown pass for the Rams in the 1951 NFL Championship Game?
+~~a) Elroy (Crazylegs) Hirsch ~~b) Dan Towler ~~c) Glenn Davis **d) Tom Fears
+##574
+What team did the Rams defeat 15-14 in the 1945 NFL Championship Game?
+~~a) Giants ~~b) Packers **c) Redskins ~~d) Eagles
+##575
+What Hollywood star was Rams quarterback Bob Waterfield married to?
+**a) Jane Russell ~~b) Veronica Lake ~~c) Marilyn Monroe ~~d) Jayne Mansfield
+##576
+Who holds the Rams' record for most seasons?
+~~a) Merlin Olsen **b) Jackie Slater ~~c) Jack Youngblood ~~d) Fred Dryer
+##577
+Who holds the Rams' record for most consecutive games played?
+~~a) Merlin Olsen ~~b) Jackie Slater **c) Jack Youngblood ~~d) Tom Mack
+##578
+Who is the Rams' all-time leading scorer?
+~~a) Bob Waterfield ~~b) Rafael Septien ~~c) Eric Dickerson **d) Mike Lansford
+##579
+Who is the Rams' all-time touchdowns leader?
+**a) Eric Dickerson ~~b) Elroy (Crazylegs) Hirsch ~~c) Henry Ellard ~~d) Tom Fears
+##580
+Who holds the Rams' record for most touchdowns in a season?
+~~a) Greg Bell ~~b) Tom Fears **c) Eric Dickerson ~~d) Wendell Tyler
+##581
+Eric Dickerson is the Rams' all-time leading rusher. Who ranks second?
+~~a) Wendell Tyler ~~b) Dick Bass ~~c) Kenny Washington **d) Lawrence McCutcheon
+##582
+Who holds the Rams' record for longest run (92 yards)?
+~~a) Eric Dickerson ~~b) Wendell Tyler **c) Kenny Washington ~~d) Lawrence McCutcheon
+##583
+Who holds the Rams' record for most rushing yards in a game?
+**a) Willie Ellison ~~b) Eric Dickerson ~~c) Greg Bell ~~d) Jerome Bettis
+##584
+Who holds the Rams' record for most pass attempts in a game?
+~~a) Jim Everett **b) Mark Rypien ~~c) Tony Banks ~~d) Dieter Brock
+##585
+Who holds the Rams' record for most completions in a game?
+~~a) Jim Everett ~~b) Mark Rypien ~~c) Tony Banks **d) Dieter Brock
+##586
+Who is the Rams' all-time leader in passing yardage?
+~~a) Roman Gabriel ~~b) Bob Waterfield **c) Jim Everett ~~d) Norm Van Brocklin
+##587
+Who is the only Rams quarterback to pass for 4,000 yards in a season?
+~~a) Roman Gabriel ~~b) Tony Banks **c) Jim Everett ~~d) Vince Ferragamo
+##588
+The Rams' Norm Van Brocklin set an NFL record for passing yards on September 28, 1951. How many yards did he pass for?
+~~a) 544 **b) 554 ~~c) 574 ~~d) 594
+##589
+How many players and draft picks did the Rams send to the Cardinals in exchange for halfback Ollie Matson in 1959?
+~~a) 6 **b) 9 ~~c) 12 ~~d) 15
+##590
+Who is the Rams' all-time leader in touchdown passes?
+~~a) Bob Waterfield ~~b) Jim Everett ~~c) Norm Van Brocklin **d) Roman Gabriel
+##591
+Who was the last Rams player to lead the NFL in rushing?
+~~a) Eric Dickerson ~~b) Jerome Bettis **c) Charles White ~~d) Lawrence McCutcheon
+##592
+Who is the Rams' all-time leading receiver?
+~~a) Tom Fears ~~b) Elroy (Crazylegs) Hirsch ~~c) Isaac Bruce **d) Henry Ellard
+##593
+Who holds the Rams' record for most receiving yards in a season?
+~~a) Tom Fears ~~b) Elroy (Crazylegs) Hirsch **c) Isaac Bruce ~~d) Henry Ellard 
+##594
+What Rams player set an NFL record with 336 receiving yards in a game?
+~~a) Tom Fears **b) Willie (Flipper) Anderson ~~c) Isaac Bruce ~~d) Jim Benton
+##595
+Who is the Rams' all-time leader in touchdown receptions?
+**a) Elroy (Crazylegs) Hirsch ~~b) Henry Ellard ~~c) Tom Fears ~~d) Isaac Bruce
+##596
+What Rams receiver tallied a club-record 17 touchdown receptions in a season?
+**a) Elroy (Crazylegs) Hirsch ~~b) Henry Ellard ~~c) Tom Fears ~~d) Isaac Bruce
+##597
+Who is the Rams' all-time leader in interceptions?
+~~a) Nolan Cromwell **b) Ed Meador ~~c) LeRoy Irvin ~~d) Dick (Night Train) Lane
+##598
+What Rams player set an NFL record with 14 interceptions in a season?
+~~a) Nolan Cromwell ~~b) Ed Meador ~~c) LeRoy Irvin **d) Dick (Night Train) Lane
+##599
+What Rams defensive lineman coined the term "sack" to describe a play where the quarterback is tackled attempting to pass?
+~~a) Merlin Olsen ~~b) Rosey Grier **c) Deacon Jones ~~d) Lamar Lundy
+##600
+What number did Rams quarterback Bob Waterfield wear?
+~~a) 00 ~~b) 1 **c) 7 ~~d) 10
+

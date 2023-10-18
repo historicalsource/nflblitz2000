@@ -1,0 +1,282 @@
+#
+# Load file made by Composit version 0.977R on Fri Dec 27 18:45:20 1996.
+#
+
+
+#
+# The following is a definition for teamsel.wif and its images.
+#
+HFILE> \video\nfl\include\tmsel.h
+
+OUTPUTXY> 128 256
+
+INPUT> teamsel2.wif
+-----> tmplaq_l,tmplaq_r
+
+INPUT> teamsel2.wif
+-----> meterl_1,meterl_2,meterl_3,meterl_4,meterl_5
+-----> meterr_1,meterr_2,meterr_3,meterr_4,meterr_5
+#-----> meterl_0,meterl_1,meterl_2,meterl_3,meterl_4,meterl_5
+#-----> meterr_0,meterr_1,meterr_2,meterr_3,meterr_4,meterr_5
+
+INPUT> tmsel_lr.wif
+-----> meterl_1_LR,meterl_2_LR,meterl_3_LR,meterl_4_LR,meterl_5_LR
+-----> meterr_1_LR,meterr_2_LR,meterr_3_LR,meterr_4_LR,meterr_5_LR
+#-----> meterl_0_LR,meterl_1_LR,meterl_2_LR,meterl_3_LR,meterl_4_LR,meterl_5_LR
+#-----> meterr_0_LR,meterr_1_LR,meterr_2_LR,meterr_3_LR,meterr_4_LR,meterr_5_LR
+
+INPUT> tmsel_lr.wif
+-----> gridbox_LR
+
+EXECUTE> tmplq
+MAKEBAT> tmsel.bat tmplq*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+OUTPUTXY> 256 256
+
+INPUT> bkgrnd.wif
+-----> teamsel
+
+INPUT> teamsel2.wif
+-----> attnames
+
+INPUT> tmsel_lr.wif
+-----> attnames_LR
+
+EXECUTE> tmbkgd
+MAKEBAT> tmsel.bat tmbkgd*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#MAKEBAT> plaq.bat tmbkgd*.tga texus -dn -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> teamsel2.wif
+-----> ca_balt,ca_buff,ca_cinc,ca_denv
+-----> ca_hous,ca_indi,ca_jack,ca_kans,ca_miam,ca_newe,ca_nyje
+-----> ca_oakl,ca_pitt,ca_sand,ca_seat,cn_ariz,cn_atla,cn_caro
+-----> cn_chic,cn_dall,cn_detr,cn_gree,cn_minn,cn_newo,cn_nygi
+-----> cn_phil,cn_sanf,cn_stlo,cn_tamp,cn_wash,cn_clev
+
+-----> cab_balt,cab_buff,cab_cinc,cab_denv,cab_hous,cab_indi
+-----> cab_jack,cab_kans,cab_miam,cab_newe,cab_nyje,cab_oakl
+-----> cab_pitt,cab_sand,cab_seat,cnb_ariz,cnb_atla,cnb_caro
+-----> cnb_chic,cnb_dall,cnb_detr,cnb_gree,cnb_minn,cnb_newo
+-----> cnb_nygi,cnb_phil,cnb_sanf,cnb_stlo,cnb_tamp,cnb_wash
+-----> cnb_clev
+
+-----> gridbox
+-----> ts1,ts2,ts3,ts4
+
+INPUT> qbs.wif
+-----> qac_plum, qaf_chan, qbb_flut, qbr_mitc
+-----> qcb_couc, qcb_mcno, qci_blak, qcp_beue
+-----> qdb_bris, qdc_aikm, qdl_batc, qgp_favr
+-----> qic_mann, qjj_brun, qkc_grba, qmd_mari
+-----> qmv_cunn, qng_coll, qnj_test, qnp_bled
+-----> qns_hobe, qor_gann, qpe_mcna, qps_stew
+-----> qsc_harb, qsf_youn, qsr_gree, qss_kitn
+-----> qtb_dilf, qtt_mcna, qwr_john
+
+EXECUTE> tmsel
+MAKEBAT> tmsel.bat tmsel*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+OUTPUTXY> 256 32
+
+INPUT> rost_ari.wif
+-----> rac_benn, rac_bost, rac_fred, rac_lass, rac_moor
+-----> rac_murr, rac_nedn, rac_plum, rac_will
+EXECUTE> CARnms
+MAKEBAT> tmsel.bat CARnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_atl.wif
+-----> raf_ande, raf_and2, raf_broo, raf_buch, raf_call
+-----> raf_chan, raf_math, raf_robi, raf_tugg
+EXECUTE> FALnms
+MAKEBAT> tmsel.bat FALnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_bal.wif
+-----> rbr_holm, rbr_lewi, rbr_lew2, rbr_metc, rbr_mitc
+-----> rbr_star, rbr_stov, rbr_thom, rbr_wood
+EXECUTE> RAVnms
+MAKEBAT> tmsel.bat RAVnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_buf.wif
+-----> rbb_chri, rbb_cowa, rbb_flut, rbb_irvi, rbb_jone
+-----> rbb_moul, rbb_riem, rbb_schu, rbb_smit
+EXECUTE> BILnms
+MAKEBAT> tmsel.bat BILnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_car.wif
+-----> rcp_beue, rcp_biak, rcp_davi, rcp_evan, rcp_gree
+-----> rcp_kasa, rcp_mint, rcp_muha, rcp_wall
+EXECUTE> PANnms
+MAKEBAT> tmsel.bat PANnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_chi.wif
+-----> rcb_conw, rcb_engr, rcb_enis, rcb_harr, rcb_har2
+-----> rcb_jaeg, rcb_mcno, rcb_mint, rcb_parr
+EXECUTE> BEAnms
+MAKEBAT> tmsel.bat BEAnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_cin.wif
+-----> rci_blak, rci_dill, rci_hawk, rci_pelf, rci_pick
+-----> rci_sawy, rci_scot, rci_simm, rci_spik
+EXECUTE> BENnms
+MAKEBAT> tmsel.bat BENnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_cle.wif
+-----> rcb_couc, rcb_daws, rcb_full, rcb_john, rcb_kirb
+-----> rcb_mill, rcb_pope, rcb_shep, rcb_spie
+EXECUTE> BRWnms
+MAKEBAT> tmsel.bat BRWnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_dal.wif
+-----> rdc_aikm, rdc_cory, rdc_cunn, rdc_irvi, rdc_isma
+-----> rdc_sand, rdc_smit, rdc_smi2, rdc_wood
+EXECUTE> COWnms
+MAKEBAT> tmsel.bat COWnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_den.wif
+-----> rdb_brax, rdb_bris, rdb_cart, rdb_davi, rdb_elam
+-----> rdb_mcca, rdb_mobl, rdb_roma, rdb_shar
+EXECUTE> BROnms
+MAKEBAT> tmsel.bat BROnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_det.wif
+-----> rdl_batc, rdl_boyd, rdl_carr, rdl_clai, rdl_hans
+-----> rdl_irvi, rdl_moor, rdl_mort, rdl_rice
+EXECUTE> LIOnms
+MAKEBAT> tmsel.bat LIOnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_gbp.wif
+-----> rgp_butl, rgp_chmu, rgp_favr, rgp_free, rgp_koon
+-----> rgp_leve, rgp_long, rgp_will, rgp_wil2
+EXECUTE> PACnms
+MAKEBAT> tmsel.bat PACnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_ind.wif
+-----> ric_benn, ric_burr, ric_cota, ric_dilg, ric_jame
+-----> ric_harr, ric_mann, ric_pool, ric_vand
+EXECUTE> COLnms
+MAKEBAT> tmsel.bat COLnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_jac.wif
+-----> rjj_brun, rjj_dari, rjj_hard, rjj_holl, rjj_lake
+-----> rjj_mcca, rjj_paup, rjj_smit, rjj_tayl
+EXECUTE> JAGnms
+MAKEBAT> tmsel.bat JAGnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_kan.wif
+-----> rkc_edwa, rkc_gonz, rkc_gray, rkc_grba, rkc_morr
+-----> rkc_patt, rkc_riso, rkc_stoy, rkc_thom
+EXECUTE> CHInms
+MAKEBAT> tmsel.bat CHInms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_mia.wif
+-----> rmd_buck, rmd_jabb, rmd_jone, rmd_mari, rmd_mar2
+-----> rmd_mart, rmd_mare, rmd_mcdu, rmd_thom
+EXECUTE> DOLnms
+MAKEBAT> tmsel.bat DOLnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_min.wif
+-----> rmv_ande, rmv_cart, rmv_cunn, rmv_grif, rmv_mcda
+-----> rmv_moss, rmv_rudd, rmv_smit, rmv_thom
+EXECUTE> VIKnms
+MAKEBAT> tmsel.bat VIKnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_nen.wif
+-----> rnp_bled, rnp_brus, rnp_clay, rnp_coat, rnp_faul
+-----> rnp_glen, rnp_katz, rnp_lawx, rnp_vina
+EXECUTE> PATnms
+MAKEBAT> tmsel.bat PATnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_nor.wif
+-----> rns_ambr, rns_brie, rns_drak, rns_hast, rns_kenn
+-----> rns_knig, rns_mitc, rns_will, rns_hobe
+EXECUTE> SAInms
+MAKEBAT> tmsel.bat SAInms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_nyg.wif
+-----> rng_arms, rng_brow, rng_coll, rng_dalu, rng_garn
+-----> rng_hill, rng_seho, rng_spar, rng_toom
+EXECUTE> GIAnms
+MAKEBAT> tmsel.bat GIAnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_nyj.wif
+-----> rnj_atwa, rnj_chre, rnj_coxx, rnj_glen, rnj_hall
+-----> rnj_john, rnj_lewi, rnj_mart, rnj_test
+EXECUTE> JETnms
+MAKEBAT> tmsel.bat JETnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_oak.wif
+-----> ror_alle, ror_biek, ror_brow, ror_gann, ror_hust
+-----> ror_jett, ror_kauf, ror_minc, ror_wood
+EXECUTE> RAInms
+MAKEBAT> tmsel.bat RAInms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_phi.wif
+-----> rpe_darl, rpe_hauc, rpe_john, rpe_mcna, rpe_smal
+-----> rpe_stal, rpe_thom, rpe_vinc, rpe_joh2
+EXECUTE> EAGnms
+MAKEBAT> tmsel.bat EAGnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_pit.wif
+-----> rps_bett, rps_brow, rps_brue, rps_davi, rps_gild
+-----> rps_flow, rps_hawk, rps_kirk, rps_stew
+EXECUTE> STEnms
+MAKEBAT> tmsel.bat STEnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_snd.wif
+-----> rsc_carn, rsc_grah, rsc_harb, rsc_harr, rsc_hill
+-----> rsc_jone, rsc_mean, rsc_seau, rsc_shaw
+EXECUTE> CHAnms
+MAKEBAT> tmsel.bat CHAnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_snf.wif
+-----> rsf_hank, rsf_mcdo, rsf_nort, rsf_phil, rsf_rice
+-----> rsf_rich, rsf_stok, rsf_tubb, rsf_youn
+EXECUTE> FORnms
+MAKEBAT> tmsel.bat FORnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_stl.wif
+-----> rsr_bruc, rsr_coll, rsr_faul, rsr_gree, rsr_holt
+-----> rsr_lygh, rsr_lyle, rsr_mccl, rsr_wilk
+EXECUTE> RAMnms
+MAKEBAT> tmsel.bat RAMnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_sea.wif
+-----> rss_bell, rss_brow, rss_gall, rss_faur, rss_kitn
+-----> rss_pete, rss_spri, rss_watt, rss_will
+EXECUTE> SEAnms
+MAKEBAT> tmsel.bat SEAnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_tam.wif
+-----> rtb_abra, rtb_alst, rtb_broo, rtb_dilf, rtb_dunn
+-----> rtb_elez, rtb_eman, rtb_minc, rtb_nick
+EXECUTE> BUCnms
+MAKEBAT> tmsel.bat BUCnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_ten.wif
+-----> rtt_bowd, rtt_delg, rtt_dyso, rtt_geor, rtt_lewi
+-----> rtt_mart, rtt_mcna, rtt_robe, rtt_thig
+EXECUTE> TITnms
+MAKEBAT> tmsel.bat TITnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> rost_was.wif
+-----> rwr_alex, rwr_bail, rwr_blan, rwr_evan, rwr_gree
+-----> rwr_harv, rwr_hick, rwr_john, rwr_west
+EXECUTE> REDnms
+MAKEBAT> tmsel.bat REDnms*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+OUTPUTXY> 256 256
+
+INPUT> teamlogo.wif
+-----> L_atla30,L_pitt30,L_stlo30
+-----> L_ariz30,L_balt30,L_buff30,L_caro30,L_chic30
+-----> L_cinc30,L_dall30,L_denv30,L_detr30,L_gree30,L_hous30
+-----> L_indi30,L_jack30,L_kans30,L_miam30,L_minn30,L_newe30
+-----> L_newo30,L_nygi30,L_nyje30,L_oakl30,L_phil30
+-----> L_sand30,L_sanf30,L_seat30,L_tamp30,L_wash30
+-----> L_clev30
+EXECUTE> tmlogo
+MAKEBAT> tmsel.bat tmlogo*.tga texus -mn -t argb1555 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

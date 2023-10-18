@@ -1,0 +1,149 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 13:42:39) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: TAUNTS3.BNK
+
+Size of .BNK file including header: 157154 bytes ($265E2 bytes)
+
+Size of playlist table: 216 bytes ($D8 bytes)
+
+Size of playlist and sound data only: 156804 bytes ($26484 bytes)
+
+Checksum: $D425
+
+Total number of playlists: 37 ($25)
+
+Total number of sound files: 42 ($2A)
+
+Average bit rate for bank: 19.0 kbits/sec
+
+Total linear amount of sound: 1:05.879 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       90.0   103.2  VP: Look at me now!!
+  1    $0001   1       99.2   113.8  SD: Whooo yeah!!
+  2    $0002   1       85.8    98.4  DF: Whooo!
+  3    $0003   1      131.4   150.7  SD: Yeah let's go!!
+  4    $0004   1      121.4   139.2  SD: Oh yeah I am in the groove!!
+
+  10   $000a   1       76.6    87.8  VP: Whooaaa! (Stumble run)
+  11   $000b   1       92.1   105.6  SD: Aaaah! (Stumble run)
+  12   $000c   1       83.3    95.5  VP: Na na na na na na (skipping run)
+  13   $000d   1      125.1   143.5  VP: La la la la la la (skipping run)
+
+  16   $0010   1       89.6   102.7  VP: Guys .. pass protection!?!
+
+  18   $0012   1       77.4    88.8  SD: You trying to get me killed?!?
+
+  20   $0014   1      104.6   120.0  VP: You think you can take me ... huh!?!
+  21   $0015   1       76.2    87.4  BS: Ouch baby!
+  22   $0016   1      118.9   136.3  SD: How'd that feel punk!?!
+  23   $0017   1       85.4    97.9  SD: I kicked your ass!!
+
+  25   $0019   1      126.8   145.4  VP: I squash you like a bug!!
+  26   $001a   1      112.2   128.6  VP: If I were you I'd just stay down!!
+
+  28   $001c   1      113.4   130.1  VP: Oww man I think it's broken
+  29   $001d   1      106.3   121.9  SD: Owww ... ooh ...
+  30   $001e   1       60.3    69.1  SD: Head Shake
+  31   $001f   1       77.4    88.8  SD: Stomach hit cough
+  32   $0020   1      103.4   118.6  VP: Oh you crushed my skull!
+  33   $0021   1       59.9    68.6  SD: Oww my face!!
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 13:42:39) page 2
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  34   $0022   1       30.6    35.0  SD: Way to go
+  35   $0023   1       55.2    63.4  VP: Here let me give you a hand
+
+  37   $0025   1       89.6   102.7  VP: Carrying grunts
+  38   $0026   1       77.0    88.3  SD: You can't take me down!!
+
+  40   $0028   1       95.9   109.9  VP: <Laugh> you're pathetic
+  41   $0029   1      198.4   227.5  VP: Ha ha ha you are no match for my powers!
+  42   $002a   1      146.9   168.5  SD: Ha ha ha you guys are gettin' killed out here
+
+  45   $002d   1       69.5    79.7  VP: Oh C'mon!!
+  46   $002e   1       94.2   108.0  DF: Oh maw I suck!!
+  47   $002f   1      100.5   115.2  VP: Oh man it was right there!!
+
+  50   $0032   1      120.5   138.2  BS: I'm a 1 man team whooo!
+  51   $0033   1      171.6   196.8  BS: I'll add that to my highlight reel!
+  52   $0034   1      123.5   141.6  BS: Now that was perfection!
+  53   $0035   1       65.7    75.4  BS: Sweeet!
+
+Total 37 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 13:42:39) page 3
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+BS1MANTM         5820      276  0:02.120     21.97  HENRY -v7.50 -vb47 -vi7 -vt3 
+BSHILITE         8220      386  0:02.964     22.18  HENRY -v7.50 -vb47 -vi7 -vt3 
+BSOUCH           3466      176  0:01.352     20.51  HENRY -v7.50 -vb47 -vi7 -vt3 
+BSPERFCT         3974      287  0:02.204     14.42  HENRY -v7.50 -vb47 -vi7 -vt3 
+BSSWEET2         2986      157  0:01.206     19.81  HENRY -v7.50 -vb47 -vi7 -vt3 
+DFOHMWSK         4118      225  0:01.728     19.06  HENRY -v7.50 -vb47 -vi7 -vt1 
+DFWHOOO          3896      205  0:01.574     19.80  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDAAHH           5884      220  0:01.690     27.86  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDCOUGH          3258      185  0:01.421     18.34  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDFEELPK         3710      284  0:02.181     13.61  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDHDSHKE         2844      144  0:01.106     20.57  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDINGRUV         4532      290  0:02.227     16.28  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDKCKASS         3108      204  0:01.567     15.87  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDKILLED         5736      350  0:02.688     17.07  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDLETSGO         4236      314  0:02.412     14.05  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDOWFACE         2996      143  0:01.098     21.82  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDPAIN1           968       49  0:00.376     20.58  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDPAIN2          1676       85  0:00.653     20.54  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDPAIN3          1756       80  0:00.614     22.86  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDTAKDWN         3158      184  0:01.413     17.88  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDTRYKIL         3048      185  0:01.421     17.16  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDWOOYEA         3510      237  0:01.820     15.43  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDWYTOGO         1350       73  0:00.561     19.26  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPBROKEN         4768      271  0:02.081     18.33  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPCARRY1          652       40  0:00.307     16.98  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPCARRY2          632       35  0:00.269     18.81  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPCARRY3          710       39  0:00.300     18.96  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPCARRY4          724       39  0:00.300     19.34  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPCRSHSK         4992      247  0:01.897     21.05  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPGIVHND         3256      132  0:01.014     25.69  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPLALALA         4976      299  0:02.296     17.34  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPLKATME         4038      214  0:01.644     19.66  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPNANANA         3856      198  0:01.521     20.29  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPOCOMON         3210      166  0:01.275     20.14  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPPOWERS         9026      474  0:03.640     19.84  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPPPROT          3664      213  0:01.636     17.92  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPPTHTIC         3790      229  0:01.759     17.24  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPRGHTTH         5538      240  0:01.843     24.04  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPSQUASH         4390      302  0:02.319     15.14  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPSTYDWN         5014      268  0:02.058     19.49  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPTAKEME         3996      250  0:01.920     16.65  HENRY -v7.50 -vb47 -vi7 -vt1 
+VPWHOOAA         4616      183  0:01.405     26.28  HENRY -v7.00 -vb47 -vi7 -vt1 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 13:42:39) page 4
+
+
+Summary
+
+Total Average Bitrate:  19.0 kbits/sec
+Total Time:             1:05.879 minutes
+Total Number of .CMP's: 42
+Total Size of .CMP's:   152.44 kbytes

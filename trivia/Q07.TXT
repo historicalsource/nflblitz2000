@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##701
+What team selected Ravens coach Ted Marchibroda in the first round of the 1953 NFL draft?
+~~a) Colts **b) Steelers ~~c) Giants ~~d) Redskins
+##702
+What position did Ravens coach Ted Marchibroda play?
+**a) quarterback ~~b) running back ~~c) receiver ~~d) safety
+##703
+Where did Ravens linebacker Ray Lewis attend college?
+~~a) Florida ~~b) Florida State ~~c) South Carolina **d) Miami
+##704
+What Ravens player had the NFL's longest reception in 1997?
+~~a) Michael Jackson ~~b) Jermaine Lewis **c) Derrick Alexander ~~d) Floyd Turner
+##705
+The Ravens moved into a new stadium into 1998. Where did they play their home games in their first two seasons in Baltimore?
+~~a) Oriole Park at Camden Yards **b) Memorial Stadium ~~c) RFK Stadium ~~d) University of Maryland
+##706
+Who scored the Ravens' first touchdown ever?
+~~a) Derrick Alexander ~~b) Earnest Byner ~~c) Michael Jackson **d) Vinny Testaverde
+##707
+What team did Ted Marchibroda coach before becoming the head coach of the Ravens?
+**a) Colts ~~b) Browns ~~c) Bills ~~d) Bengals
+##708
+Where did Ravens tackle Jonathan Ogden attend college?
+~~a) Ohio State ~~b) Southern California ~~c) Stanford **d) UCLA
+##709
+Where did Ravens quarterback Eric Zeier attend college?
+~~a) Florida ~~b) Virginia **c) Georgia ~~d) Tennessee
+##710
+Where did Ravens tight end Eric Green attend college?
+~~a) Penn State **b) Liberty ~~c) West Virginia ~~d) Southern Connecticut State
+##711
+What Canadian Football League team did former Bills coach Marv Levy lead to the 1974 and 1977 CFL titles?
+~~a) Calgary ~~b) British Columbia **c) Montreal ~~d) Toronto
+##712
+What United States Football League team did Marv Levy coach in 1984?
+~~a) Tampa Bay Bandits **b) Chicago Blitz ~~c) Portland Breakers ~~d) Memphis Southmen
+##713
+The Bills won the AFC East every year from 1988 to 1993 except:
+~~a) 1989 ~~b) 1990 ~~c) 1991 **d) 1992
+##714
+Entering the 1998 season, who holds the Bills' record for most seasons?
+~~a) Bruce Smith **b) Jim Ritcher ~~c) Andre Reed ~~d) Jim Kelly
+##715
+Who holds the Bills' record for most consecutive games?
+~~a) Jim Kelly ~~b) Fred Smerlas **c) Darryl Talley ~~d) Cornelius Bennett
+##716
+Entering the 1998 season, who was the Bills' leader in career points?
+**a) Scott Norwood ~~b) Steve Christie ~~c) Thurman Thomas ~~d) Andre Reed
+##717
+Who holds the Bills' record for career touchdowns?
+~~a) Andre Reed ~~b) Cookie Gilchrist ~~c) Elbert Dubenion **d) Thurman Thomas
+##718
+What quarterback holds the Bills' record for longest pass completion?
+~~a) Jim Kelly **b) Todd Collins ~~c) Joe Ferguson ~~d) Jack Kemp
+##719
+Andre Reed is the Bills' all-time leading receiver. Who ranks second?
+~~a) Bob Chandler ~~b) Pete Metzelaars ~~c) Quinn Early **d) Thurman Thomas
+##720
+Who was the last Bills player to catch 4 touchdown passes in a game?
+~~a) Elbert Dubenion ~~b) Andre Reed **c) Don Beebe ~~d) Bob Chandler
+##721
+Who holds the Bills' record for touchdown receptions in a season?
+**a) Bill Brooks ~~b) Andre Reed ~~c) Don Beebe ~~d) Keith McKeller
+##722
+Who holds the Bills' record for receiving yards in a game?
+~~a) Andre Reed ~~b) Don Beebe ~~c) Bob Chandler **d) Jerry Butler
+##723
+Where did Bills running back Thurman Thomas attend college?
+~~a) Oklahoma **b) Oklahoma State ~~c) Iowa ~~d) Nebraska
+##724
+Who holds the Bills' record for most passing yards in a game?
+**a) Joe Ferguson ~~b) Jim Kelly ~~c) Frank Reich ~~d) Jack Kemp
+##725
+What position did television announcer Paul Maguire play (besides punter) during his career with the Bills?
+~~a) center ~~b) fullback **c) linebacker ~~d) tight end
+##726
+Marv Levy won more than games (123) than any other Bills coach. Who ranks second?
+~~a) Chuck Knox **b) Lou Saban ~~c) Joe Collier ~~d) John Rauch
+##727
+Where did Bills running back Antowain Smith attend college?
+~~a) Texas A&M ~~b) Arkansas ~~c) SMU **d) Houston
+##728
+Who was Bills quarterback Rob Johnson's favorite target when he played at Southern California?
+~~a) Curtis Conway ~~b) Johnnie Morton **c) Keyshawn Johnson ~~d) Johnny McWilliams
+##729
+What Bills player recorded a safety in Super Bowl XXV?
+**a) Bruce Smith ~~b) Nate Odomes ~~c) Phil Hansen ~~d) Cornelius Bennett
+##730
+Where did Bills receiver Andre Reed attend college?
+~~a) Penn State **b) Kutztown ~~c) Ohio State ~~d) Kent State
+##731
+Who is the Bengals' all-time leading scorer?
+~~a) Chris Bahr ~~b) Doug Pelfrey **c) Jim Breech ~~d) Horst Muhlmann
+##732
+Who is the only Bengals player to score 4 touchdowns in a game?
+~~a) Pete Johnson **b) Larry Kinnebrew ~~c) James Brooks ~~d) Eddie Brown
+##733
+Who is the Bengals' all-time leader in touchdowns?
+**a) Pete Johnson ~~b) James Brooks ~~c) Isaac Curtis ~~d) Carl Pickens
+##734
+Who holds the Bengals' record for touchdowns (17) in a season?
+~~a) Pete Johnson ~~b) Ickey Woods ~~c) Larry Kinnebrew **d) Carl Pickens
+##735
+Who is the Bengals' all-time leading rusher?
+~~a) Pete Johnson **b) James Brooks ~~c) Harold Green ~~d) Boobie Clark
+##736
+Who holds the Bengals' record for most rushing yards in a season?
+~~a) Pete Johnson **b) James Brooks ~~c) Ickey Woods ~~d) Corey Dillon
+##737
+Who holds the Bengals' record for longest run from scrimmage?
+~~a) Pete Johnson ~~b) James Brooks **c) Paul Robinson ~~d) Archie Griffin
+##738
+Who is the Bengals' all-time leader in passing yards?
+~~a) Boomer Esiason **b) Ken Anderson ~~c) Jeff Blake ~~d) Virgil Carter
+##739
+Who holds the Bengals' record for passing yards in a season?
+**a) Boomer Esiason ~~b) Ken Anderson ~~c) Jeff Blake ~~d) Virgil Carter
+##740
+Entering the 1998 season, who was the Bengals' all-time leader in receptions?
+~~a) Isaac Curtis ~~b) Eddie Brown ~~c) Carl Pickens **d) Cris Collinsworth
+##741
+Entering the 1998 season, who was the Bengals' all-time leader in receiving yards?
+**a) Isaac Curtis ~~b) Eddie Brown ~~c) Carl Pickens ~~d) Cris Collinsworth
+##742
+Who set a Bengals' record with 1,273 receiving yards in a season?
+~~a) Isaac Curtis **b) Eddie Brown ~~c) Carl Pickens ~~d) Cris Collinsworth
+##743
+Who set a Bengals' record with 216 receiving yards in a game?
+~~a) Isaac Curtis **b) Eddie Brown ~~c) Carl Pickens ~~d) Cris Collinsworth
+##744
+James Brooks (12 receptions) shares the Bengals' single-game receiving mark with:
+~~a) Isaac Curtis ~~b) Eddie Brown **c) Carl Pickens ~~d) Cris Collinsworth
+##745
+Who is the Bengals' all-time leader in interceptions?
+~~a) Louis Breeden **b) Ken Riley ~~c) David Fulcher ~~d) Lemar Parrish
+##746
+Where did Bengals receiver Carl Pickens attend college?
+~~a) Florida State ~~b) Miami **c) Tennessee ~~d) Nebraska
+##747
+Where did Bengals quarterback Jeff Blake attend college?
+~~a) San Diego State **b) East Carolina ~~c) North Carolina A&T ~~d) Florida A&M
+##748
+What Bengals player set a record (later equaled) with 11 receptions in Super Bowl XVI?
+~~a) Isaac Curtis ~~b) Cris Collinsworth ~~c) James Brooks **d) Dan Ross
+##749
+What Bengals player returned a kickoff 93 yards for a touchdown in Super Bowl XXIII?
+~~a) David Verser ~~b) James Brooks **c) Stanford Jennings ~~d) Tim McGee
+##750
+Who holds the Bengals' record for rushing yards in a game?
+~~a) Ickey Woods ~~b) Pete Johnson ~~c) James Brooks **d) Corey Dillon
+##751
+The Browns joined the NFL in 1950. In what year did they win their first league title?
+**a) 1950 ~~b) 1954 ~~c) 1955 ~~d) 1964
+##752
+What number did Browns running back Jim Brown wear?
+~~a) 20 ~~b) 28 **c) 32 ~~d) 34
+##753
+Browns quarterback Otto Graham played 10 pro seasons (4 in the All-America Football Conference and 6 in the NFL). How many championship games did he appear in?
+~~a) 4 ~~b) 5 ~~c) 7 **d) 10
+##754
+Who is the only Browns quarterback to pass for 4,000 yards in a season?
+~~a) Bernie Kosar **b) Brian Sipe ~~c) Mike Phipps ~~d) Otto Graham
+##755
+Who played the most seasons in a Browns' uniform?
+~~a) Clay Matthews ~~b) Don Cockroft **c) Lou Groza ~~d) Doug Dieken
+##756
+Who played the most games in a Browns' uniform?
+**a) Clay Matthews ~~b) Don Cockroft ~~c) Lou Groza ~~d) Doug Dieken
+##757
+Who is the Browns' all-time leading scorer?
+**a) Lou Groza ~~b) Don Cockroft ~~c) Jim Brown ~~d) Leroy Kelly
+##758
+What Browns quarterback completed the longest pass (97 yards) in franchise history?
+**a) Bernie Kosar ~~b) Brian Sipe ~~c) Mike Phipps ~~d) Otto Graham
+##759
+What Browns player caught the longest pass (97 yards) in franchise history?
+~~a) Gary Collins ~~b) Ozzie Newsome ~~c) Paul Warfield **d) Webster Slaughter
+##760
+Who is the Browns' all-time leading receiver?
+~~a) Gary Collins **b) Ozzie Newsome ~~c) Mac Speedie ~~d) Paul Warfield
+##761
+Who holds the Browns' record for receiving yards in a season?
+~~a) Gary Collins ~~b) Ozzie Newsome ~~c) Paul Warfield **d) Webster Slaughter
+##762
+Who is the Browns' all-time leader in touchdown receptions?
+**a) Gary Collins ~~b) Ozzie Newsome ~~c) Paul Warfield ~~d) Webster Slaughter
+##763
+Who is the Browns' all-time leader in interceptions?
+~~a) Warren Lahr ~~b) Clarence Scott **c) Thom Darden ~~d) Felix Wright
+##764
+What number did Browns quarterback Brian Sipe wear?
+~~a) 12 ~~b) 14 **c) 17 ~~d) 19
+##765
+How many games did the Browns lose during their four seasons in the All-America Football Conference (1946-1949)?
+~~a) 0 **b) 4 ~~c) 6 ~~d) 8
+##766
+What Browns player was nicknamed "The Toe"?
+~~a) Don Cockroft **b) Lou Groza ~~c) Matt Bahr ~~d) Jeff Jaeger
+##767
+Who holds the Browns' record for longest run (90 yards) from scrimmage?
+~~a) Greg Pruitt ~~b) Mike Pruitt ~~c) Jim Brown **d) Bobby Mitchell
+##768
+Who holds the Browns' record for most passing yards in a regular-season game?
+**a) Brian Sipe ~~b) Bernie Kosar ~~c) Frank Ryan ~~d) Otto Graham
+##769
+Who holds the Browns' record for most receiving yards in a regular-season game?
+~~a) Gary Collins **b) Ozzie Newsome ~~c) Paul Warfield ~~d) Webster Slaughter
+##770
+What Browns player kicked a 60-yard field goal, tied for the second-longest kick in NFL history?
+~~a) Lou Groza ~~b) Don Cockroft ~~c) Jeff Jaeger **d) Steve Cox
+##771
+What number did Browns running back Marion Motley wear?
+~~a) 22 ~~b) 33 **c) 76 ~~d) 77
+##772
+How many times did Jim Brown lead the NFL in rushing during his nine-year career?
+~~a) six ~~b) seven **c) eight ~~d) nine
+##773
+Where did Browns running back Jim Brown attend college?
+~~a) Penn State **b) Syracuse ~~c) St. John's ~~d) Ohio State
+##774
+Where did Browns quarterback Brian Sipe attend college?
+**a) San Diego State ~~b) San Francisco State ~~c) Arizona State ~~d) Oregon State
+##775
+Paul Brown won 115 games as the Browns' coach. Who ranks second on the club's all-time list?
+~~a) Marty Schottenheimer ~~b) Sam Rutigliano ~~c) Nick Shorich **d) Blanton Collier
+##776
+Who holds the Broncos' record for most seasons?
+~~a) Tom Jackson **b) John  Elway ~~c) Barney Chavous ~~d) Dennis Smith
+##777
+Who holds the Broncos' record for consecutive games?
+~~a) Tom Jackson ~~b) John Elway **c) Simon Fletcher ~~d) Ken Lanier
+##778
+Who is the Broncos' all-time leading rusher?
+~~a) Terrell Davis ~~b) Sammy Winder ~~c) John Elway **d) Floyd Little
+##779
+Who holds the Broncos' record for most rushing yards in a season by a rookie?
+**a) Bobby Humphrey ~~b) Terrell Davis ~~c) John Elway ~~d) Floyd Little
+##780
+Who is the Broncos' all-time leader in rushing touchdowns?
+~~a) Sammy Winder ~~b) Terrell Davis ~~c) John Elway **d) Floyd Little
+##781
+Who holds the Broncos' record for the longest run from scrimmage?
+~~a) Terrell Davis **b) Gene Mingo ~~c) Gerald Wilhite ~~d) Gaston Green
+##782
+Who holds the Broncos' record for most passing yards in a game?
+~~a) John Elway ~~b) Craig Morton **c) Frank Tripucka ~~d) Steve DeBerg
+##783
+Who is the Broncos' all-time leader in receptions?
+~~a) Vance Johnson ~~b) Riley Odoms ~~c) Floyd Little **d) Lionel Taylor
+##784
+Who holds the Broncos' record for receiving yards in a season?
+~~a) Lionel Taylor **b) Steve Watson ~~c) Shannon Sharpe ~~d) Anthony Miller
+##785
+Who is the Broncos' all-time leader in interceptions?
+**a) Steve Foley ~~b) Louis Wright ~~c) Dennis Smith ~~d) Tyrone Braxton
+##786
+Who is the Broncos' all-time leading scorer?
+~~a) Jason Elam **b) Jim Turner ~~c) Rich Karlis ~~d) David Treadwell
+##787
+Who is the Broncos' all-time leader in sacks?
+~~a) Karl Mecklenburg ~~b) Randy Gradishar ~~c) Rulon Jones **d) Simon Fletcher
+##788
+What number did Broncos quarterback Frank Tripucka wear?
+~~a) 7 ~~b) 12 ~~c) 14 **d) 18
+##789
+What number did Broncos running back Floyd Little wear?
+~~a) 32 **b) 44 ~~c) 45 ~~d) 48
+##790
+What college did Broncos running back Floyd Little attend?
+~~a) Florida ~~b) West Virginia **c) Syracuse ~~d) Kentucky
+##791
+What baseball team drafted Broncos quarterback John Elway in 1981?
+**a) Yankees ~~b) Mets ~~c) Orioles ~~d) Giants
+##792
+How many times has Broncos quarterback John Elway passed for 4,000 yards in a season?
+~~a) 0 **b) 1 ~~c) 2 ~~d) 4
+##793
+Who preceded John Elway as the Broncos' quarterback?
+**a) Steve DeBerg ~~b) Craig Morton ~~c) Norris Weese ~~d) Gary Kubiak
+##794
+Where did Broncos tight end Shannon Sharpe attend college?
+~~a) South Carolina ~~b) Illinois **c) Savannah State ~~d) Georgia Tech
+##795
+Broncos running back Terrell Davis attended the same high school as:
+~~a) Jim Brown **b) Marcus Allen ~~c) Floyd Little ~~d) Eric Dickerson
+##796
+Where did Broncos running back Terrell Davis attend college?
+~~a) Louisiana State ~~b) Tennessee ~~c) Alabama **d) Georgia
+##797
+What Broncos player equaled an NFL post-season record with 13 receptions in a playoff game?
+~~a) Rod Smith ~~b) Haven Moses ~~c) Steve Watson **d) Shannon Sharpe
+##798
+The Broncos were founded in 1960. In what year did they post their first winning record?
+**a) 1973 ~~b) 1974 ~~c) 1976 ~~d) 1977
+##799
+Dan Reeves holds the Broncos' record for coaching victories (117). Entering the 1998 season, who ranks second?
+~~a) Mike Shanahan ~~b) Wade Phillips **c) Red Miller ~~d) Jack Faulkner
+##800
+Where did Broncos coach Mike Shanahan attend college?
+~~a) Stanford **b) Eastern Illinois ~~c) Eastern Michigan ~~d) Central Michigan
+

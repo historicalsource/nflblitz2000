@@ -1,0 +1,15 @@
+-mhard-float
+-D__DJGPP__
+-fsigned-char
+-fno-builtin
+-g
+-mips4
+-fomit-frame-pointer
+-c
+-G 0
+-mcpu=r8000
+-nostdinc
+-I\video\include
+-Wall
+-MD
+-Wa,mips4

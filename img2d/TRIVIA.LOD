@@ -1,0 +1,16 @@
+HFILE> \video\nfl\include\trivia.h
+
+INPUT> trivia.wif
+OUTPUTXY> 256 256
+-----> triviabg
+EXECUTE> trivbk
+MAKEBAT> trivia.bat trivbk*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> trivia.wif
+OUTPUTXY> 256 128
+MIDST> ON 
+-----> plyr1,plyr2,plyr3,plyr4
+-----> correct,wrong,challeng,trivbox
+MIDST> OFF
+EXECUTE> trivia
+MAKEBAT> trivia.bat trivia*.tga texus -rn -mn -dn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

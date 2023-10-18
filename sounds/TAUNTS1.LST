@@ -1,0 +1,133 @@
+NFL Blitz 99 Video Game (c) 1998 Midway Games - DW (08/06/98 13:37:07) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: TAUNTS1.BNK
+
+Size of .BNK file including header: 119710 bytes ($1D39E bytes)
+
+Size of playlist table: 208 bytes ($D0 bytes)
+
+Size of playlist and sound data only: 119368 bytes ($1D248 bytes)
+
+Checksum: $0757
+
+Total number of playlists: 29 ($1D)
+
+Total number of sound files: 34 ($22)
+
+Average bit rate for bank: 18.9 kbits/sec
+
+Total linear amount of sound: 0:50.204 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       89.2   102.2  VP: Yeah Baby!
+  1    $0001   1       85.8    98.4  DF: Whoooooo!
+  2    $0002   1       69.5    79.7  VP: I'm so bad!
+  3    $0003   1       87.1    99.8  SD: I'm good ... I'm good!!
+
+  5    $0005   1       69.9    80.2  SD: Woo woo!!
+
+  10   $000a   1       76.6    87.8  VP: Whooaa! (running scared)
+  11   $000b   1       92.1   105.6  SD: Aaaahhhhh! (running scared)
+
+  15   $000f   1      154.4   177.1  SD: Hello ... can I get a little protection here?!
+  16   $0010   1      108.0   123.8  SD:  Someone's gotta turn around!
+  17   $0011   1      114.3   131.0  SD: Squeal like a pig #1
+
+  20   $0014   1       81.2    93.1  SD: I'll knock you into tomorrow!
+  21   $0015   1      100.5   115.2  SD: You mine boy ... you mine!!
+  22   $0016   1      121.8   139.7  SD: Nobody gets by me ... nobody!
+  23   $0017   1       74.9    85.9  VP: I kicked your butt good!!
+  24   $0018   1       85.4    97.9  SD: I kicked your ass!!
+  25   $0019   1       84.1    96.5  DF: How'd that dirt taste punk!
+  26   $001a   1      139.8   160.3  VP: Stay down suckah!
+  27   $001b   1       61.1    70.1  DF: Can I help you up?
+
+  31   $001f   1       56.1    64.3  DF: Come and get it!
+
+  35   $0023   1       60.7    69.6  DF: C'mon ... try!
+
+  40   $0028   1       43.9    50.4  DF: Oh maw!
+  41   $0029   1      142.3   163.2  DF: <Laugh> ... you know how stupid you look?
+ 
+NFL Blitz 99 Video Game (c) 1998 Midway Games - DW (08/06/98 13:37:07) page 2
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  42   $002a   1      143.1   164.2  SD: What a loser!
+
+  44   $002c   1      156.1   179.0  SD: What do you think you're doing you're nothing ...
+  45   $002d   1      114.7   131.5  DF: Get out of my face go back to mama
+
+  47   $002f   1      131.4   150.7  SD: Uh uh uh no way pal
+  48   $0030   1      133.9   153.6  DF: No no no you can't take me
+
+  50   $0032   1       82.5    94.6  SD: I'm gonna bust you up
+  51   $0033   1       59.0    67.7  RC: Oh my knee!!
+
+Total 29 Playlists
+ 
+NFL Blitz 99 Video Game (c) 1998 Midway Games - DW (08/06/98 13:37:07) page 3
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+DFCMNTRY         3096      145  0:01.114     22.24  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFCNTTAK         2992      160  0:01.229     19.48  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFCUMGET         3070      134  0:01.029     23.87  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFDRTPNK         2952      201  0:01.544     15.30  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFHELPUP         3020      163  0:01.252     19.30  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFLAFF3          2294      122  0:00.937     19.59  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFNONONO         2860      160  0:01.229     18.62  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFOHMAW          2144      105  0:00.806     21.27  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFOUTFCE         4158      274  0:02.104     15.81  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFSTPDLK         3358      218  0:01.674     16.05  HENRY -v7.00 -vb47 -vi7 -vt1 
+DFWHOOO          3896      205  0:01.574     19.80  HENRY -v7.00 -vb47 -vi7 -vt1 
+RCKNEE           2302      141  0:01.083     17.01  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDAAHH           5884      220  0:01.690     27.86  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDBUSTUP         2682      196  0:01.505     14.25  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDIMGOOD         2030      104  0:00.799     20.33  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDKCKASS         3108      204  0:01.567     15.87  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDLSRLAF         5868      342  0:02.627     17.87  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDNBDGTS         2768      184  0:01.413     15.67  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDNOBODY         1766      107  0:00.822     17.19  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDNOWYPL         2564      168  0:01.290     15.90  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDPRTHRE         7684      369  0:02.834     21.69  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDSQUEL1         5044      273  0:02.097     19.25  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDTHNKDG         1990      155  0:01.190     13.37  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDTMROW          3240      193  0:01.482     17.49  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDTRNARD         4752      258  0:01.981     19.19  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDUHUHUH         2372      146  0:01.121     16.92  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDUNTHN2         1660      109  0:00.837     15.86  HENRY -v7.00 -vb47 -vi7 -vt1 
+SDWOOOO          2442      167  0:01.283     15.23  HENRY -v7.50 -vb47 -vi7 -vt1 
+SDYMINE          3794      239  0:01.836     16.54  HENRY -v7.00 -vb47 -vi7 -vt1 
+VPKCKGUD         3112      179  0:01.375     18.11  HENRY -v7.00 -vb47 -vi7 -vt1 
+VPSOBAD          3134      166  0:01.275     19.67  HENRY -v7.00 -vb47 -vi7 -vt1 
+VPSTYDWN         6576      334  0:02.565     20.51  HENRY -v7.00 -vb47 -vi7 -vt1 
+VPWHOOAA         4616      183  0:01.405     26.28  HENRY -v7.00 -vb47 -vi7 -vt1 
+VPYABABY         5562      213  0:01.636     27.20  HENRY -v7.00 -vb47 -vi7 -vt1 
+ 
+NFL Blitz 99 Video Game (c) 1998 Midway Games - DW (08/06/98 13:37:07) page 4
+
+
+Summary
+
+Total Average Bitrate:  18.9 kbits/sec
+Total Time:             0:50.204 minutes
+Total Number of .CMP's: 34
+Total Size of .CMP's:   116.01 kbytes

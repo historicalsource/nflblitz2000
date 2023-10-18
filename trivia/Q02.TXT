@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##201
+What team did Falcons coach Dan Reeves play for?
+~~a) Broncos **b) Cowboys ~~c) Falcons ~~d) Giants
+##202
+What position did Falcons coach Dan Reeves play in college?
+~~a) running back ~~b) safety ~~c) receiver **d) quarterback
+##203
+Where did Falcons coach Dan Reeves attend college?
+**a) South Carolina ~~b) Georgia ~~c) Florida ~~d) North Carolina
+##204
+What position did Falcons coach Dan Reeves play in the pros?
+**a) running back ~~b) safety ~~c) receiver ~~d) quarterback
+##205
+Where did Falcons quarterback Chris Chandler attend college?
+~~a) Washington State ~~b) Arizona State **c) Washington ~~d) Arizona
+##206
+Where did Falcons running back Jamal Anderson attend college?
+~~a) Florida A&M ~~b) New Mexico **c) Utah ~~d) San Diego State
+##207
+What team drafted Falcons quarterback Chris Chandler?
+~~a) he wasn't drafted ~~b) Buccaneers ~~c) Cardinals **d) Colts
+##208
+Where did Falcons linebacker Jessie Tuggle attend college?
+**a) Valdosta State ~~b) Fort Valley State ~~c) Georgia Tech ~~d) Alabama State
+##209
+Who was the first player drafted by the Falcons?
+~~a) Steve Bartkowski **b) Tommy Nobis ~~c) Gary Barnes ~~d) Randy Johnson
+##210
+Who is the Falcons' all-time leading rusher?
+~~a) Williams Andrews **b) Gerald Riggs ~~c) Dave Hampton ~~d) Lynn Cain
+##211
+Who is the Falcons' all-time leading scorer?
+~~a) Morten Andersen ~~b) Norm Johnson ~~c) Gerald Riggs **d) Mick Luckhurst
+##212
+Who holds the Falcons' record for most points in a season?
+**a) Morten Andersen ~~b) Andre Rison ~~c) Norm Johnson ~~d) Mick Luckhurst
+##213
+Who holds the Falcons' record for most career touchdowns?
+~~a) Alfred Jenkins ~~b) Gerald Riggs **c) Andre Rison ~~d) William Andrews
+##214
+Who holds the Falcons' mark for most touchdowns in a season?
+**a) Andre Rison ~~b) William Andrews ~~c) Dave Hampton ~~d) Alfred Jenkins
+##215
+What kicker set a Falcons' record by making 26 consecutive field goals?
+~~a) Mick Luckhurst **b) Norm Johnson ~~c) Tim Mazzetti ~~d) Morten Andersen
+##216
+Who has kicked the five longest field goals in Falcons history?
+~~a) Mick Luckhurst ~~b) Norm Johnson ~~c) Paul McFadden **d) Morten Andersen
+##217
+What back set a Falcons' record by running 1,719 yards in a season?
+**a) Gerald Riggs ~~b) William Andrews ~~c) Dave Hampton ~~d) Jamal Anderson
+##218
+Who holds the Falcons' record for running yards (202) in a game?
+~~a) William Andrews ~~b) Dave Hampton ~~c) Lynn Cain **d) Gerald Riggs
+##219
+What player boasts the highest average per carry in the Falcons' history?
+~~a) Gerald Riggs ~~b) Jamal Anderson **c) William Andrews ~~d) Steve Broussard
+##220
+Who is the Falcons' all-time leader in passing yardage?
+**a) Steve Bartkowski ~~b) Chris Miller ~~c) Bobby Hebert ~~d) Jeff George
+##221
+Name the only Falcons passer to surpass 4,000 yards in a season:
+~~a) Steve Bartkowski ~~b) Chris Miller ~~c) Bobby Hebert **d) Jeff George
+##222
+Who holds the Falcons' record for passing yards (416) in a game?
+**a) Steve Bartkowski ~~b) Chris Miller ~~c) Bobby Hebert ~~d) Jeff George
+##223
+What Falcons player attempted 66 passes in a game, the third-highest total in NFL history?
+~~a) Steve Bartkowski **b) Chris Miller ~~c) Bobby Hebert ~~d) Jeff George
+##224
+Who holds the Falcons' record for most completions in a season?
+~~a) Steve Bartkowski ~~b) Chris Miller ~~c) Bobby Hebert **d) Jeff George
+##225
+Who set a Falcons' record by completing 13 consecutive passes?
+~~a) Steve Bartkowski ~~b) Chris Miller **c) Jeff George ~~d) Chris Chandler
+##226
+Who holds the Falcons' record for most career touchdown passes?
+~~a) Chris Miller ~~b) Chris Chandler ~~c) Jeff George **d) Steve Bartkowski
+##227
+What passer set a Falcons' record with 31 scoring tosses in a season?
+~~a) Jeff George **b) Steve Bartkowski ~~c) Chris Miller ~~d) Bob Berry
+##228
+What passer set a Falcons' record by attempting 197 passes without an interception?
+~~a) Chris Chandler ~~b) Jeff George **c) Steve Bartkowski ~~d) Chris Miller
+##229
+Who holds the Falcons' record for most career receptions?
+~~a) Bert Emanuel ~~b) Terance Mathis **c) Andre Rison ~~d) Alfred Jenkins
+##230
+Who holds the Falcons' record for most receptions in a season?
+~~a) Bert Emanuel **b) Terance Mathis ~~c) Andre Rison ~~d) Eric Metcalf
+##231
+Who holds the Falcons' record for most receptions (15) in a game?
+**a) William Andrews ~~b) Gerald Riggs ~~c) Alfred Jenkins ~~d) Andre Rison
+##232
+Who is the Falcons' all-time leader in career receiving yards?
+~~a) Andre Rison ~~b) Terance Mathis ~~c) Bert Emanuel **d) Alfred Jenkins
+##233
+Andre Rison totaled 193 receiving yards in a 1994 game. Whose club record did he equal?
+~~a) Alfred Jenkins **b) Alfred Jackson ~~c) Michael Haynbes ~~d) his club record
+##234
+Who is the Falcons' all-time leader in kickoff-return yardage?
+**a) Deion Sanders ~~b) Ron Smith ~~c) Billy (White Shoes) Johnson ~~d) Dave Hampton
+##235
+Who is the Falcons' all-time leader in punt-return yardage?
+~~a) Deion Sanders ~~b) Rolland Lawrence **c) Billy (White Shoes) Johnson ~~d) Eric Metcalf
+##236
+Who is the Falcons' career leader in interceptions?
+~~a) Scott Case ~~b) Deion Sanders ~~c) Bobby Butler **d) Rolland Lawrence
+##237
+Who holds the Falcons' record for most interceptions in a season?
+**a) Scott Case ~~b) Rolland Lawrence ~~c) Deion Sanders ~~d) Tom Pridemore
+##238
+Falcons linebacker Jessie Tuggle shares the NFL record for the most career:
+~~a) fumble recoveries ~~b) interceptions returned for touchdown **c) touchdowns on fumble recoveries ~~d) forced fumbles
+##239
+Who is the Falcons' all-time leader in seasons played (18)?
+~~a) Mike Kenn ~~b) Bobby Butler ~~c) Tommy Nobis **d) Jeff Van Note
+##240
+Who is the Falcons' all-time leader in games played?
+**a) Mike Kenn ~~b) Bobby Butler ~~c) Tommy Nobis ~~d) Jeff Van Note
+##241
+Where did the Falcons play their home games before they moved into the Georgia Dome?
+~~a) Yellow Jacket Stadium ~~b) Turner Field **c) Atlanta Fulton County Stadium ~~d) Athens Fieldhouse
+##242
+Where did long-time Falcons quarterback Steve Bartkowski attend college?
+~~a) Washington ~~b) UCLA ~~c) Pittsburgh **d) California
+##243
+Where did former Falcons running back Gerald Riggs attend college?
+**a) Arizona State ~~b) Michigan State ~~c) Colorado State ~~d) Florida State
+##244
+What quarterback set a Falcons' record by firing 5 touchdown passes in a game?
+~~a) Steve Bartkowski **b) Wade Wilson ~~c) Chris Miller ~~d) Jeff George
+##245
+Where did Falcons receiver Terance Mathis attend college?
+~~a) New Mexico State ~~b) Georgia **c) New Mexico ~~d) Georgia Tech
+##246
+Who holds the Falcons' record for longest run from scrimmage?
+~~a) Jamal Anderson **b) Mike Rozier ~~c) Steve Broussard ~~d) Eric Metcalf
+##247
+What player has made the two longest receptions in the Falcons' history?
+**a) Michael Haynes ~~b) Terance Mathis ~~c) Andre Rison ~~d) Alfred Jackson
+##248
+What number did former Falcons quarterback Steve Bartkowski wear?
+~~a) 8 ~~b) 12 ~~c) 14 **d) 10
+##249
+What number did former Falcons running back William Andrews wear?
+~~a) 32 **b) 31 ~~c) 30 ~~d) 28
+##250
+What current Falcons player grew up in Alaska?
+~~a) Bob Christian ~~b) Chris Chandler **c) Travis Hall ~~d) Todd Kinchen
+##251
+Panthers head coach Dom Capers served as an assistant with what team before coming to Carolina?
+~~a) Browns ~~b) Chiefs **c) Steelers ~~d) Bills
+##252
+What college did Panthers head coach Dom Capers attend?
+**a) Mount Union ~~b) Kent State ~~c) Tennessee ~~d) Ohio State
+##253
+What number did former Panthers linebacker Sam Mills wear?
+~~a) 50 **b) 51 ~~c) 52 ~~d) 56
+##254
+Who scored the first points in Panthers history?
+~~a) Wesley Walls ~~b) Randy Baldwin ~~c) John Kasay **d) Pete Metzelaars
+##255
+How many games did the Panthers win in their inaugural season?
+~~a) 4 **b) 7 ~~c) 8 ~~d) 12
+##256
+Who was the first college player drafted by the Panthers?
+~~a) Tyrone Poole ~~b) Tim Biakabutuka **c) Kerry Collins ~~d) Blake Brockermeyer
+##257
+Who was the Panthers' first 1,000-yard rusher?
+~~a) Tim Biakabutuka ~~b) Derrick Moore ~~c) Howard Griffith **d) Anthony Johnson
+##258
+Panthers kick returner Michael Bates won a bronze medal in what event at the 1992 Barcelona Olympics?
+~~a) 100 meters **b) 200 meters ~~c) long jump ~~d) 400 meters
+##259
+What college did Panthers tight end Wesley Walls attend?
+**a) Mississippi ~~b) Louisiana State ~~c) Georgia ~~d) South Carolina
+##260
+What number does Panthers linebacker Kevin Greene wear?
+~~a) 56 ~~b) 57 **c) 91 ~~d) 99
+##261
+How many NFL championships have the Bears won?
+~~a) 6 **b) 9 ~~c) 12 ~~d) 15
+##262
+Who is the Bears' all-time leader in career passing yards?
+**a) Sid Luckman ~~b) Jim McMahon ~~c) Erik Kramer ~~d) Jim Harbaugh
+##263
+What player holds the Bears' record for most Pro Bowl selections?
+~~a) Walter Payton ~~b) Dick Butkus **c) Mike Singletary ~~d) Bill George
+##264
+What player holds the Bears' career record for most games played (191)?
+~~a) Dan Hampton **b) Steve McMichael ~~c) Walter Payton ~~d) Gary Fencik
+##265
+How many seasons did Bears founder George Halas coach the team?
+~~a) 10 ~~b) 20 **c) 40 ~~d) 50
+##266
+Who is the Bears' all-time leader in career points?
+~~a) Walter Payton ~~b) George Blanda ~~c) Gale Sayers **d) Kevin Butler
+##267
+What Bears running back set an NFL rookie record by scoring 22 touchdowns in his first season?
+~~a) Walter Payton **b) Gale Sayers ~~c) Neal Anderson ~~d) Beattie Feathers
+##268
+Walter Payton tops the Bears' all-time rushing list with an NFL-record 16,726 yards. Who ranks second on the club's career rushing list?
+**a) Neal Anderson ~~b) Gale Sayers ~~c) Rick Casares ~~d) Bill Osmanski
+##269
+Who is the Bears' career leader in average yards per rushing attempt?
+~~a) Walter Payton ~~b) Gale Sayers ~~c) Neal Anderson **d) Bobby Douglass
+##270
+In 1934, the Bears' Beattie Feathers became the first NFL player to run for 1,000 yards in a season. What other league single-season mark did he set in 1934 that still stands?
+~~a) most fumbles ~~b) most carries **c) highest average per carry ~~d) most own fumbles recovered
+##271
+Who holds the Bears' record for career completions?
+**a) Jim Harbaugh ~~b) Sid Luckman ~~c) Jim McMahon ~~d) Erik Kramer
+##272
+What quarterback set a Bears' record by completing 14 consecutive attempts?
+~~a) Jim Harbaugh **b) Steve Walsh ~~c) Sid Luckman ~~d) Erik Kramer
+##273
+Who completed the longest pass (98 yards) ever by a Bears' quarterback?
+~~a) Jim McMahon ~~b) Sid Luckman **c) Bill Wade ~~d) Bobby Douglass
+##274
+Sid Luckman tops the Bears' career touchdown-pass list with 137. Who ranks second with 68?
+~~a) Erik Kramer ~~b) Jim Harbaugh **c) Bill Wade ~~d) Jim McMahon
+##275
+Who is the Bears' career leader in receptions?
+~~a) Mike Ditka **b) Walter Payton ~~c) Curtis Conway ~~d) Willie Gault
+##276
+Who is the Bears' career leader in receiving yards?
+~~a) Mike Ditka ~~b) Walter Payton ~~c) Willie Gault **d) Johnny Morris
+##277
+Who holds the Bears' record for most receiving yards in a season?
+**a) Jeff Graham ~~b) Curtis Conway ~~c) Willie Gault ~~d) Harlon Hill
+##278
+What player set a Bears' record with 214 receiving yards in a game?
+~~a) Jeff Graham ~~b) Curtis Conway ~~c) Willie Gault **d) Harlon Hill
+##279
+Who is the Bears' career leader in touchdown receptions?
+~~a) Curtis Conway **b) Ken Kavanaugh ~~c) Mike Ditka ~~d) Harlon Hihll
+##280
+Who is the Bears' career leader in interceptions?
+~~a) Doug Plank ~~b) Donnell Woolford **c) Gary Fencik ~~d) Mark Carrier
+##281
+What current NFL head coach set a Bears' record for most punt returns in a season that still stands?
+~~a) Mike Ditka **b) Jeff Fisher ~~c) Tom Coughlin ~~d) Tony Dungy
+##282
+Who holds the Bears' record for most sacks in a season?
+**a) Richard Dent ~~b) Dan Hampton ~~c) Steve McMichael ~~d) Mike Singletary
+##283
+What Bears player was known as the "Galloping Ghost"?
+~~a) Gale Sayers ~~b) Beattie Feathers **c) Red Grange ~~d) George Halas
+##284
+Bears founder George Halas briefly played outfield for which pro baseball team?
+**a) Yankees ~~b) Cubs ~~c) White Sox ~~d) Giants
+##285
+What team did the Bears defeat 73-0 to win the 1940 NFL title?
+~~a) Lions ~~b) Packers **c) Redskins ~~d) Giants
+##286
+How many victories did George Halas record as the Bears' coach?
+~~a) 294 ~~b) 304 ~~c) 314 **d) 324
+##287
+What number did Bears Hall of Fame quarterback Sid Luckman wear?
+~~a) 12 ~~b) 20 **c) 42 ~~d) 66
+##288
+What number did Bears Hall of Fame linebacker Dick Butkus wear?
+~~a) 50 **b) 51 ~~c) 55 ~~d) 58
+##289
+What Bears player returned a fumble 98 yards for a touchdown to set an NFL record that stood for nearly five decades?
+~~a) Red Grange ~~b) Jim Thorpe ~~c) Bronko Nagurski **d) George Halas
+##290
+The Bears set an NFL record for consecutive regular-season victories in 1933-34. How many games did they win in a row?
+~~a) 15 ~~b) 16 **c) 17 ~~d) 18
+##291
+What number did Bears Hall of Fame halfback Red Grange wear?
+~~a) 22 ~~b) 33 ~~c) 66 **d) 77
+##292
+Where did the Bears play their home games from 1921-1970?
+**a) Wrigley Field ~~b) Soldier Field ~~c) Comiskey Park ~~d) Northwestern Stadium
+##293
+The Bears played in the first indoor NFL game. What year did it take place?
+**a) 1932 ~~b) 1962 ~~c) 1964 ~~d) 1966
+##294
+On Thanksgiving Day, 1980, the Bears won the fastest overtime game in history (just 21 seconds). How did they score the winning touchdown?
+~~a) fumble return ~~b) run **c) kickoff return ~~d) interception return
+##295
+How many points did the Bears' defense surrender in the club's three post-season games en route to the 1985 NFL title?
+~~a) 0 **b) 10 ~~c) 14 ~~d) 24
+##296
+Name the only team to defeat the Bears during the 1985 regular season:
+~~a) Packers ~~b) 49ers ~~c) Rams **d) Dolphins
+##297
+Where did legendary Bears running back Walter Payton attend college?
+~~a) Penn State ~~b) Grambling **c) Jackson State ~~d) Houston
+##298
+What number did Hall of Fame running back Gale Sayers wear?
+~~a) 22 ~~b) 28 ~~c) 32 **d) 40
+##299
+What Bears player set a Soldier Field record with an 80-yard run?
+**a) Neal Anderson ~~b) Walter Payton ~~c) Gale Sayers ~~d) Lewis Tillman
+##300
+Who holds the Bears' record for most receptions in a game?
+~~a) Walter Payton **b) Jim Keane ~~c) Jeff Graham ~~d) Mike Ditka
+

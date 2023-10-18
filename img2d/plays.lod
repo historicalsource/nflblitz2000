@@ -1,0 +1,373 @@
+HFILE> \video\nfl\include\plays.h
+
+# Need mids to eliminate "black line" artifacting
+MIDST> ON
+
+#----------------------------------------
+# NEW OFFENSIVE PLAYS
+#----------------------------------------
+INPUT> plays_o.wif
+OUTPUTXY> 256 256
+#-----> offplay1
+-----> ps_gen_1
+-----> ps_gen_2
+-----> ps_gen_3
+-----> ps_gen_4
+-----> ps_gen_5
+-----> ps_gen_6
+EXECUTE> tp_off
+MAKEBAT> plays.bat tp_off*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+#----------------------------------------
+# NEW DEFENSIVE PLAYS
+#----------------------------------------
+INPUT> plays_d.wif
+OUTPUTXY> 256 256
+-----> defplay1,defplay2,defplay3
+-----> defplay4,defplay5,defplay6
+-----> defplay7,defplay8
+EXECUTE> tp_def
+MAKEBAT> plays.bat tp_def*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+#----------------------------------------
+# Arizona Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_ari_1
+-----> ps_ari_2
+-----> ps_ari_3
+EXECUTE> tp_ari
+MAKEBAT> plays.bat tp_ari*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#----------------------------------------
+# Atlanta Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_atl_1
+-----> ps_atl_2
+-----> ps_atl_3
+EXECUTE> tp_atl
+MAKEBAT> plays.bat tp_atl*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#----------------------------------------
+# Baltimore Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_bal_1
+-----> ps_bal_2
+-----> ps_bal_3
+EXECUTE> tp_bal
+MAKEBAT> plays.bat tp_bal*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#----------------------------------------
+# Buffalo Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_buf_1
+-----> ps_buf_2
+-----> ps_buf_3
+EXECUTE> tp_buf
+MAKEBAT> plays.bat tp_buf*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#----------------------------------------
+# Carolina Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_car_1
+-----> ps_car_2
+-----> ps_car_3
+EXECUTE> tp_car
+MAKEBAT> plays.bat tp_car*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#----------------------------------------
+# Chicago Team Plays
+#----------------------------------------
+INPUT> plays_t.wif
+OUTPUTXY> 256 128
+-----> ps_chi_1
+-----> ps_chi_2
+-----> ps_chi_3
+EXECUTE> tp_chi
+MAKEBAT> plays.bat tp_chi*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+##----------------------------------------
+## Cincinnati Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_cin_1
+#-----> ps_cin_2
+#-----> ps_cin_3
+#EXECUTE> tp_cin
+#MAKEBAT> plays.bat tp_cin*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Cleveland Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_cle_1
+#-----> ps_cle_2
+#-----> ps_cle_3
+#EXECUTE> tp_cle
+#MAKEBAT> plays.bat tp_cle*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Dallas Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_dal_1
+#-----> ps_dal_2
+#-----> ps_dal_3
+#EXECUTE> tp_dal
+#MAKEBAT> plays.bat tp_dal*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Denver Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_den_1
+#-----> ps_den_2
+#-----> ps_den_3
+#EXECUTE> tp_den
+#MAKEBAT> plays.bat tp_den*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Detroit Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_det_1
+#-----> ps_det_2
+#-----> ps_det_3
+#EXECUTE> tp_det
+#MAKEBAT> plays.bat tp_det*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Green Bay Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_gre_1
+#-----> ps_gre_2
+#-----> ps_gre_3
+#EXECUTE> tp_gre
+#MAKEBAT> plays.bat tp_gre*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Indianapolis Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_ind_1
+#-----> ps_ind_2
+#-----> ps_ind_3
+#EXECUTE> tp_ind
+#MAKEBAT> plays.bat tp_ind*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Jacksonville Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_jac_1
+#-----> ps_jac_2
+#-----> ps_jac_3
+#EXECUTE> tp_jac
+#MAKEBAT> plays.bat tp_jac*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Kansas City Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_kan_1
+#-----> ps_kan_2
+#-----> ps_kan_3
+#EXECUTE> tp_kan
+#MAKEBAT> plays.bat tp_kan*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Miami Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_mia_1
+#-----> ps_mia_2
+#-----> ps_mia_3
+#EXECUTE> tp_mia
+#MAKEBAT> plays.bat tp_mia*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Minnesota Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_min_1
+#-----> ps_min_2
+#-----> ps_min_3
+#EXECUTE> tp_min
+#MAKEBAT> plays.bat tp_min*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## New England Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_nen_1
+#-----> ps_nen_2
+#-----> ps_nen_3
+#EXECUTE> tp_nen
+#MAKEBAT> plays.bat tp_nen*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## New Orleans Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_nor_1
+#-----> ps_nor_2
+#-----> ps_nor_3
+#EXECUTE> tp_nor
+#MAKEBAT> plays.bat tp_nor*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## New York Giants Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_nyg_1
+#-----> ps_nyg_2
+#-----> ps_nyg_3
+#EXECUTE> tp_nyg
+#MAKEBAT> plays.bat tp_nyg*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## New York Jets Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_nyj_1
+#-----> ps_nyj_2
+#-----> ps_nyj_3
+#EXECUTE> tp_nyj
+#MAKEBAT> plays.bat tp_nyj*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Oakland Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_oak_1
+#-----> ps_oak_2
+#-----> ps_oak_3
+#EXECUTE> tp_oak
+#MAKEBAT> plays.bat tp_oak*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Philadelphia Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_phi_1
+#-----> ps_phi_2
+#-----> ps_phi_3
+#EXECUTE> tp_phi
+#MAKEBAT> plays.bat tp_phi*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Pittsburgh Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_pit_1
+#-----> ps_pit_2
+#-----> ps_pit_3
+#EXECUTE> tp_pit
+#MAKEBAT> plays.bat tp_pit*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## San Diego Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_snd_1
+#-----> ps_snd_2
+#-----> ps_snd_3
+#EXECUTE> tp_snd
+#MAKEBAT> plays.bat tp_snd*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## San Francisco Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_snf_1
+#-----> ps_snf_2
+#-----> ps_snf_3
+#EXECUTE> tp_snf
+#MAKEBAT> plays.bat tp_snf*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Seattle Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_sea_1
+#-----> ps_sea_2
+#-----> ps_sea_3
+#EXECUTE> tp_sea
+#MAKEBAT> plays.bat tp_sea*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## St. Louis Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_stl_1
+#-----> ps_stl_2
+#-----> ps_stl_3
+#EXECUTE> tp_stl
+#MAKEBAT> plays.bat tp_stl*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Tampa Bay Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_tam_1
+#-----> ps_tam_2
+#-----> ps_tam_3
+#EXECUTE> tp_tam
+#MAKEBAT> plays.bat tp_tam*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Tennessee Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_ten_1
+#-----> ps_ten_2
+#-----> ps_ten_3
+#EXECUTE> tp_ten
+#MAKEBAT> plays.bat tp_ten*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+#
+##----------------------------------------
+## Washington Team Plays
+##----------------------------------------
+#INPUT> plays_t.wif
+#OUTPUTXY> 256 128
+#-----> ps_was_1
+#-----> ps_was_2
+#-----> ps_was_3
+#EXECUTE> tp_was
+#MAKEBAT> plays.bat tp_was*.tga texus -rn -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

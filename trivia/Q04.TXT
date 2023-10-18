@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##401
+Who is the Packers' leader in career receiving yards?
+~~a) Boyd Dowler ~~b) Don Hutson **c) James Lofton ~~d) Sterling Sharpe
+##402
+Who holds the Packers' record for most receiving yards in a game?
+~~a) Sterling Sharpe **b) Bill Howton ~~c) Robert Brooks ~~d) James Lofton
+##403
+Legendary Packers receiver Don Hutson played 11 seasons. How many times did he lead the NFL in receptions?
+**a) 8 ~~b) 9 ~~c) 10 ~~d) 11
+##404
+Who was the "Alabama Antelope"?
+~~a) Sterling Sharpe ~~b) Bill Howton **c) Don Hutson ~~d) Carroll Dale
+##405
+Who is the Packers' leader in career interceptions?
+**a) Bobby Dillon ~~b) Willie Wood ~~c) Herb Adderley ~~d) Mark Lee
+##406
+Who is the Packers' leader in career points?
+~~a) Chester Marcol ~~b) Chris Jacke ~~c) Paul Hornung **d) Don Hutson
+##407
+Who is the Packers' leader in career touchdowns?
+~~a) Jim Taylor **b) Don Hutson ~~c) Sterling Sharpe ~~d) Paul Hornung
+##408
+Who returned an interception 50 yards to help blow open a close game in Super Bowl I?
+**a) Willie Wood ~~b) Herb Adderley ~~c) Bobby Dillon ~~d) Tom Brown
+##409
+Who intercepted a Cowboys' pass in the end zone to preserve the Packers' 34-27 victory in the 1966 NFL Championship Game?
+~~a) Willie Wood ~~b) Herb Adderley ~~c) Bobby Dillon **d) Tom Brown
+##410
+Two Packers players scored 2 touchdowns in Super Bowl I - Max McGee and:
+~~a) Jim Taylor ~~b) Bart Starr **c) Elijah Pitts ~~d) Carroll Dale
+##411
+The Packers joined the NFL in:
+~~a) 1920 **b) 1921 ~~c) 1922 ~~d) 1929
+##412
+Who scored the winning points for the Packers in the "Ice Bowl," the legendary 1967 NFL Championship Game?
+~~a) Jim Taylor **b) Bart Starr ~~c) Paul Hornung ~~d) Max McGee
+##413
+Who set a Super Bowl record with an 81-yard touchdown catch in the Packers' victory over New England in Super Bowl XXXI?
+~~a) Andre Rison ~~b) Robert Brooks **c) Antonio Freeman ~~d) Dorsey Levens
+##414
+Where did Packers coach Mike Holmgren attend college?
+~~a) San Francisco State ~~b) Stanford ~~c) California **d) Southern California
+##415
+Where did Packers quarterback Brett Favre attend college?
+**a) Southern Mississippi ~~b) Mississippi ~~c) Mississippi State ~~d) Louisiana State
+##416
+When was the last time the Packers defeated the Cowboys in the playoffs?
+~~a) 1966 **b) 1967 ~~c) 1982 ~~d) 1997
+##417
+Which Packers coach was one of the legendary "Seven Blocks of Granite" at Fordham?
+~~a) Curly Lambeau ~~b) Dan Devine **c) Vince Lombardi ~~d) Ray (Scooter) McLean
+##418
+What number did Packers quarterback Bart Starr wear?
+~~a) 4 ~~b) 7 ~~c) 12 **d) 15
+##419
+What team drafted Packers coach Mike Holmgren out of college?
+~~a) 49ers **b) Cardinals ~~c) Rams ~~d) Chiefs
+##420
+In what round did the Packers draft quarterback Bart Starr in 1956?
+~~a) first ~~b) tenth ~~c) fifteenth **d) seventeenth
+##421
+Who succeeded Vikings coach Dennis Green as Stanford's head coach in 1992?
+~~a) Tyrone Willingham ~~b) Jack Elway **c) Bill Walsh ~~d) Steve Mariucci
+##422
+Jim Marshall played 19 seasons for the Vikings.  Who ranks second on the club's all-time list for seasons played?
+~~a) Carl Eller ~~b) Ron Yary ~~c) Fred Cox **d) Mick Tingelhoff
+##423
+Who is the Vikings' leader in career points?
+~~a) Fuad Reveiz **b) Fred Cox ~~c) Chuck Foreman ~~d) Rick Danmeier
+##424
+Who holds the Vikings' record for touchdowns in a season?
+**a) Chuck Foreman ~~b) Cris Carter ~~c) Ahmad Rashad ~~d) Herschel Walker
+##425
+Who is the Vikings' leader in career touchdowns?
+~~a) Chuck Foreman ~~b) Cris Carter **c) Bill Brown ~~d) Anthony Carter
+##426
+Who holds the Vikings' record for longest field goal?
+~~a) Fred Cox ~~b) Fuad Reveiz ~~c) Chuck Nelson **d) Jan Stenerud
+##427
+Who is the Vikings' leader in career rushing yards?
+**a) Chuck Foreman ~~b) Bill Brown ~~c) Terry Allen ~~d) Ted Brown
+##428
+Who holds the Vikings' record for rushing yards in a game?
+~~a) Robert Smith ~~b) Terry Allen **c) Chuck Foreman ~~d) Ted Brown
+##429
+The expansion Vikings won their inaugural NFL game in 1961. What team did they defeat?
+~~a) 49ers **b) Bears ~~c) Cowboys ~~d) Steelers
+##430
+Who holds the Vikings' record for passing yards in a season?
+~~a) Fran Tarkenton ~~b) Wade Wilson ~~c) Tommy Kramer **d) Warren Moon
+##431
+Who caught Tommy Kramer's "Hail Mary" pass as time expired to lift the Vikings over the Browns in a 1980 game?
+~~a) Sammy White ~~b) Chuck Foreman **c) Ahmad Rashad ~~d) Gene Washington
+##432
+Fran Tarkenton is the Vikings' leader in career passing yards. Who ranks second?
+**a) Tommy Kramer ~~b) Wade Wilson ~~c) Warren Moon ~~d) Rich Gannon
+##433
+What quarterback led the Vikings to Super Bowl IV?
+~~a) Fran Tarkenton **b) Joe Kapp ~~c) Bob Lee ~~d) Gary Cuozzo
+##434
+What quarterback led the Vikings to an upset victory over the Rams in a 1977 NFC Divisional Playoff Game?
+~~a) Fran Tarkenton ~~b) Joe Kapp **c) Bob Lee ~~d) Tommy Kramer
+##435
+Who holds the Vikings' record for touchdown passes in a season?
+~~a) Fran Tarkenton ~~b) Joe Kapp ~~c) Tommy Kramer **d) Warren Moon
+##436
+What Vikings quarterback shares the NFL record for most touchdown passes (7) in a game?
+~~a) Fran Tarkenton **b) Joe Kapp ~~c) Tommy Kramer ~~d) Warren Moon
+##437
+Cris Carter is the Vikings' leader in career receptions. Who ranks second?
+~~a) Ahmad Rashad ~~b) Anthony Carter **c) Steve Jordan ~~d) Jake Reed
+##438
+Who holds the Vikings' record for most receptions in a game?
+~~a) Cris Carter ~~b) Chuck Foreman ~~c) Anthony Carter **d) Rickey Young
+##439
+Whose Vikings record did Cris Carter break when he recorded his seventh 50-reception season in 1997?
+~~a) Anthony Carter ~~b) Sammy White ~~c) Hassan Jones **d) Ahmad Rashad
+##440
+Whose Vikings record did Cris Carter break when he became the club's career leader in receiving yardage in 1997?
+**a) Anthony Carter ~~b) Sammy White ~~c) Steve Jordan ~~d) Ahmad Rashad
+##441
+Who holds the Vikings' record for most receiving yards in a regular-season game?
+~~a) Anthony Carter **b) Sammy White ~~c) Cris Carter ~~d) Ahmad Rashad
+##442
+Who holds the Vikings' record for most touchdown catches in a regular-season game?
+~~a) Anthony Carter ~~b) Sammy White ~~c) Cris Carter **d) Ahmad Rashad
+##443
+What Vikings player holds the NFL record for most opponents' fumbles recovered (29)?
+~~a) Paul Krause **b) Jim Marshall ~~c) Alan Page ~~d) Carl Eller
+##444
+Bud Grant coached the Vikings from 1967 to 1983, and again in 1985. Who coached the team in 1984?
+~~a) Jerry Burns ~~b) Marv Levy ~~c) Monte Clark **d) Les Steckel
+##445
+What Vikings kicker tied an NFL record with 7 field goals in a game?
+~~a) Fred Cox ~~b) Rick Danmeier **c) Rich Karlis ~~d) Fuad Reveiz
+##446
+Who holds the Vikings' record for rushing yards in a season?
+**a) Robert Smith ~~b) Terry Allen ~~c) Chuck Foreman ~~d) Herschel Walker
+##447
+What college did Vikings coach Dennis Green attend?
+~~a) Stanford ~~b) Northwestern **c) Iowa ~~d) Minnesota
+##448
+What number did Vikings quarterback Fran Tarkenton wear?
+~~a) 4 ~~b) 7 **c) 10 ~~d) 14
+##449
+What is the second career of former Vikings defensive tackle Alan Page?
+~~a) he invented Post-It notes ~~b) Vikings general manager **c) justice on the Minnesota Supreme Court ~~d) NFL Director of Player Programs
+##450
+What number did Vikings defensive tackle Alan Page wear?
+**a) 88 ~~b) 90 ~~c) 91 ~~d) 98
+##451
+Where did Vikings receiver Jake Reed attend college?
+~~a) Louisiana State **b) Grambling ~~c) Alabama ~~d) Tennessee
+##452
+From 1961 to 1981, the Vikings played in Metropolitan Stadium in:
+~~a) Minneapolis ~~b) St. Paul ~~c) Eden Prairie **d) Bloomington
+##453
+Who holds the Vikings' record for career interceptions?
+~~a) Bobby Bryant ~~b) Dewayne Washington **c) Paul Krause ~~d) Ed Sharockman
+##454
+Who holds the Vikings' record for sacks in a season?
+~~a) Keith Millard ~~b) Alan Page ~~c) John Randle **d) Chris Doleman
+##455
+Where did Vikings quarterback Brad Johnson attend college?
+~~a) North Carolina **b) Florida State ~~c) Georgia ~~d) Virginia
+##456
+Where Vikings defensive tackle John Randle attend college?
+~~a) Louisiana State ~~b) Texas A&M ~~c) Texas Tech **d) Texas A&I
+##457
+Randall McDaniel earned his ninth Pro Bowl selection in 1997, tying the Vikings' record held by:
+**a) Alan Page ~~b) Jim Marshall ~~c) Fran Tarkenton ~~d) Ron Yary
+##458
+The Vikings won the NFC Central Division every year from 1970 to 1978 except:
+~~a) 1971 **b) 1972 ~~c) 1976 ~~d) 1977
+##459
+The Vikings joined the NFL in 1961. In what year did they make their first playoff appearance?
+~~a) 1966 ~~b) 1967 **c) 1968 ~~d) 1969
+##460
+What NFL post-season record did Anthony Carter set in leading the Vikings to an upset of the 49ers in a 1987 NFC Divisional Playoff Game?
+**a) most receiving yards ~~b) most punt-return yards ~~c) most combined yards ~~d) all of the above
+##461
+What Saints player returned the opening kickoff 94 yards for a touchdown in the first regular-season game in franchise history?
+~~a) Dave Whitsell **b) John Gilliam ~~c) Danny Abramowicz ~~d) Don McCall
+##462
+Who holds the Saints' record for games played?
+~~a) Rickey Jackson ~~b) Frank Warren ~~c) Hoby Brenner **d) Morten Andersen
+##463
+Morten Andersen is the Saints' all-time leading scorer. Who ranks second?
+~~a) George Rogers ~~b) Chuck Muncie **c) Dalton Hilliard ~~d) Rueben Mayes
+##464
+Who is the Saints' leader in career touchdowns?
+**a) Dalton Hilliard ~~b) Eric Martin ~~c) George Rogers ~~d) Danny Abramowicz
+##465
+Who holds the Saints' record for most touchdowns in a season?
+**a) Dalton Hilliard ~~b) Eric Martin ~~c) George Rogers ~~d) Danny Abramowicz
+##466
+What Saints kicker set an NFL record with a 63-yard field goal?
+~~a) Morten Andersen **b) Tom Dempsey ~~c) Charlie Durkee ~~d) Doug Brien
+##467
+What number did Saints quarterback Bobby Hebert wear?
+**a) 3 ~~b) 9 ~~c) 12 ~~d) 13
+##468
+What position did Saints coach Mike Ditka play during his NFL career?
+~~a) defensive end ~~b) linebacker ~~c) center **d) tight end
+##469
+Where did Saints coach Mike Ditka attend college?
+~~a) Ohio State ~~b) Penn State **c) Pittsburgh ~~d) Michigan
+##470
+Who is the Saints' leader in career rushing yards?
+**a) George Rogers ~~b) Dalton Hilliard ~~c) Rueben Mayes ~~d) Chuck Muncie
+##471
+Who set a Saints' record by rushing for 1,674 yards in a season?
+**a) George Rogers ~~b) Dalton Hilliard ~~c) Rueben Mayes ~~d) Chuck Muncie
+##472
+Who set a Saints' record by rushing for 206 yards in a game?
+~~a) Ray Zellars ~~b) Dalton Hilliard **c) George Rogers ~~d) Rueben Mayes
+##473
+Who set a Saints' record by carrying 35 times in a game?
+~~a) George Rogers ~~b) Dalton Hilliard ~~c) Rueben Mayes **d) Earl Campbell
+##474
+Who is the Saints' leader in career rushing average?
+~~a) George Rogers **b) Archie Manning ~~c) Hokie Gajan ~~d) Dalton Hilliard
+##475
+Who is the Saints' leader in career receptions?
+~~a) Danny Abramowicz ~~b) Tony Galbreath **c) Eric Martin ~~d) Hoby Brenner
+##476
+Who set a Saints' record by catching 85 passes in a season?
+**a) Eric Martin ~~b) Quinn Early ~~c) Tony Galbreath ~~d) Michael Haynes
+##477
+Who set a Saints' record by catching 14 passes in a game?
+~~a) Eric Martin ~~b) Quinn Early **c) Tony Galbreath ~~d) Michael Haynes
+##478
+Who holds the Saints' record for most receiving yards in a season?
+~~a) Michael Haynes **b) Eric Martin ~~c) Tony Galbreath ~~d) Quinn Early
+##479
+Who topped the Saints in receptions in 1997?
+~~a) Ray Zellars ~~b) Torrance Small **c) Randal Hill ~~d) Michael Haynes
+##480
+Who holds the Saints' record for most receiving yards (205) in a game?
+~~a) Eric Martin ~~b) Torrance Small ~~c) Floyd Turner **d) Wes Chandler
+##481
+Who was the Saints' first quarterback?
+~~a) Zeke Bratkowski **b) Billy Kilmer ~~c) Babe Parilli ~~d) George Blanda
+##482
+Archie Manning is the Saints' all-time leader in passing yards. Who ranks second?
+~~a) Jim Everett ~~b) Dave Wilson **c) Bobby Hebert ~~d) Billy Kilmer
+##483
+Who holds the Saints' record for most passing yards in a season?
+**a) Jim Everett ~~b) Archie Manning ~~c) Bobby Hebert ~~d) Dave Wilson
+##484
+Who holds the Saints' record for most passing yards (377) in a game?
+~~a) Jim Everett **b) Archie Manning ~~c) Bobby Hebert ~~d) Billy Kilmer
+##485
+Who holds the Saints' record for most sacks in a season?
+~~a) Frank Warren ~~b) Rickey Jackson ~~c) Wayne Martin **d) Pat Swilling
+##486
+Who set a Saints' record by recovering 26 opponents' fumbles during his career?
+**a) Rickey Jackson ~~b) Sam Mills ~~c) Pat Swilling ~~d) Gene Atkins
+##487
+What is the Saints' record for most points in a game?
+~~a) 49 **b) 51 ~~c) 52 ~~d) 61
+##488
+What Hall of Fame receiver was the first head coach of the Saints?
+~~a) Dante Lavelli ~~b) Elroy (Crazylegs) Hirsch **c) Tom Fears ~~d) Don Hutson
+##489
+How many winning seasons did the Saints have before Jim Mora became head coach in 1986?
+**a) 0 ~~b) 1 ~~c) 2 ~~d) 4
+##490
+What year did the Louisiana Superdome open?
+~~a) 1967 **b) 1975 ~~c) 1977 ~~d) 1980
+##491
+Center Mel Hein played 15 seasons (1931-1945), the most ever by a Giants' player. Who later equaled that record?
+~~a) Lawrence Taylor ~~b) George Martin **c) Phil Simms ~~d) Charlie Conerly
+##492
+Who is the Giants' leader in career points?
+~~a) Frank Gifford **b) Pete Gogolak ~~c) Joe Morris ~~d) Joe Danelo
+##493
+Who holds the Giants' record for most touchdowns in a season?
+**a) Joe Morris ~~b) Rodney Hampton ~~c) Frank Gifford ~~d) Ottis Anderson
+##494
+Who is the Giants' leader in career field goals?
+~~a) Pat Summerall ~~b) Joe Danelo ~~c) Raul Allegre **d) Pete Gogolak
+!!495
+Who was the last Giants player to lead the NFL in rushing?
+~~a) Rodney Hampton ~~b) Joe Morris ~~c) Eddie Price ~~d) Tuffy Leemans
+##496
+Who holds the Giants' record formost rushing attempts in a game?
+~~a) Rodney Hampton ~~b) Joe Morris **c) Butch Woolfolk ~~d) Tuffy Leemans
+##497
+Who set a Giants' record by rushing for 1,516 yards in a season?
+~~a) Rodney Hampton **b) Joe Morris ~~c) Alex Webster ~~d) Frank Gifford
+##498
+Who holds the Giants' record for most rushing yards in a game?
+**a) Gene Roberts ~~b) Joe Morris ~~c) Bill Paschal ~~d) Rodney Hampton
+##499
+Who is the Giants' all-time leading rusher?
+~~a) Joe Morris **b) Rodney Hampton ~~c) Frank Gifford ~~d) Alex Webster
+##500
+Who is the Giants' leader in career average per rushing attempt?
+~~a) Joe Morris ~~b) Rodney Hampton **c) Frank Gifford ~~d) Alex Webster
+

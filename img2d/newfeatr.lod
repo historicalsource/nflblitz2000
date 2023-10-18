@@ -1,0 +1,29 @@
+#
+# Load file made by Composit version 0.9990R on Tue Jun 02 12:06:29 1998.
+#
+
+#
+# The following is a definition for newfeatr.wif and its images.
+#
+HFILE> \video\nfl\include\newfeatr.h
+
+#
+# Images.
+#
+
+INPUT> newfeatr.wif
+-----> nf_bg
+EXECUTE> featbk
+MAKEBAT> newfeatr.bat featbk*.tga texus -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#INPUT> newfeatr.wif
+#MIDST> ON
+#-----> nf_creat,nf_fire,nf_gmply,nf_imprv
+#-----> nf_more,nf_more2,nf_on,nf_play,nf_plays
+#-----> nf_rostr,nf_stadi,nf_updat
+##-----> nf_4,nf_creat,nf_fire,nf_game,nf_gmply,nf_imprv
+##-----> nf_insta,nf_more,nf_more2,nf_on,nf_play,nf_plays,nf_plyrs
+##-----> nf_repla,nf_rostr,nf_stadi,nf_trivi,nf_updat
+#MIDST> OFF
+#EXECUTE> featur
+#MAKEBAT> newfeatr.bat featur*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

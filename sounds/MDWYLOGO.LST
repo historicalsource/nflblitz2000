@@ -1,0 +1,54 @@
+Midway Logo (08/26/97 15:27:50) page 1
+
+PLBUILD version 3.0F
+
+Bank Information
+----------------
+
+Bank name: LOGO.BNK
+
+Size of .BNK file including header: 83386 bytes ($145BA bytes)
+
+Size of playlist table: 4 bytes ($4 bytes)
+
+Size of playlist and sound data only: 83248 bytes ($14530 bytes)
+
+Checksum: $AAC7
+
+Total number of playlists: 1 ($1)
+
+Total number of sound files: 1 ($1)
+
+Average bit rate for bank: 92.2 kbits/sec
+
+Total linear amount of sound: 0:07.219 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1      393.4   451.2  Midway Logo by Vince
+
+Total 1 Playlists
+ 
+Midway Logo (08/26/97 15:27:50) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+LOGOVP          83224      940  0:07.219     92.23  HENRY -v2.75 -vb111 -vi7 -vr95 
+ 
+Midway Logo (08/26/97 15:27:50) page 3
+
+
+Summary
+
+Total Average Bitrate:  92.2 kbits/sec
+Total Time:             0:07.219 minutes
+Total Number of .CMP's: 1
+Total Size of .CMP's:    81.27 kbytes

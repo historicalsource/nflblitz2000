@@ -1,0 +1,54 @@
+HFILE> \video\nfl\include\plyrinfo.h
+
+#
+# All this stuff needs to be loaded in during gameplay
+#
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 256 64
+MIDST> ON 
+-----> arrow_blue,arrow_red,arrow_green,arrow_yellow
+-----> arrow_num1,arrow_num2,arrow_num3,arrow_num4
+-----> big1,big2,big3,big4
+MIDST> OFF
+EXECUTE> arrows
+MAKEBAT> plyrinfo.bat arrows*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 256 256
+#-----> Bast7_dn,Bast7_up
+MIDST> ON
+-----> gameclock
+MIDST> OFF
+-----> TB_EMPTY,TB_CREDITS,TB_INSERT,TB_JOIN,TB_PLEASE,TB_PRESS,TB_FREE
+#-----> L_shad
+-----> TB_BLUE,TB_RED,TB_YELLOW,TB_GREEN
+-----> k_box,k_bar,k_ball,k_marker,k_windtext,k_windarrow,play_tab
+-----> p_meter, aud_menu
+
+INPUT> ScPlate.wif
+-----> SP_logoback,SP_Bar,SP_End,SP_Clock,SP_Logo
+-----> SP_1st,SP_2nd,SP_3rd,SP_4th
+-----> SP_Trns
+-----> SP_Trnsend
+-----> SP_Qtr,SP_OT
+MIDST> ON
+-----> playresult
+MIDST> OFF
+
+INPUT> ScPla_LR.wif
+-----> SP_Bar_LR,SP_Clock_LR,SP_End_LR
+-----> SP_Qtr_LR,SP_OT_LR
+-----> SP_1st_LR,SP_2nd_LR,SP_3rd_LR,SP_4th_LR
+
+#INPUT> flash.wif
+#-----> sparkd01,sparkd02,sparkd03,sparkd04,sparkd05
+#-----> sparkd06,sparkd07,sparkd08,sparkd09,sparkd10
+EXECUTE> ingame
+MAKEBAT> plyrinfo.bat ingame*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> firebar.wif
+-----> firbar01,firbar02,firbar03,firbar04,firbar05,firbar06,firbar07,firbar08
+-----> firbar09,firbar10,firbar11,firbar12,firbar13,firbar14,firbar15
+EXECUTE> firebr
+MAKEBAT> plyrinfo.bat firebr*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

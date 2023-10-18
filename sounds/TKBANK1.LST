@@ -1,0 +1,292 @@
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: TKBANK1.BNK
+
+Size of .BNK file including header: 414890 bytes ($654AA bytes)
+
+Size of playlist table: 660 bytes ($294 bytes)
+
+Size of playlist and sound data only: 414096 bytes ($65190 bytes)
+
+Checksum: $4FC8
+
+Total number of playlists: 98 ($62)
+
+Total number of sound files: 102 ($66)
+
+Average bit rate for bank: 26.1 kbits/sec
+
+Total linear amount of sound: 2:06.213 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       46.9    53.8  TK: ... pummels 'im!
+  1    $0001   1       77.0    88.3  TK: Really gets hammerred!
+  2    $0002   1       77.0    88.3  TK: ... with the take-down!
+  3    $0003   1       93.8   107.5  TK: ... with the bone crushing hit!
+  4    $0004   1      113.8   130.6  TK: Oh my #1
+  5    $0005   1       69.1    79.2  TK: Took him out!
+  6    $0006   1      104.2   119.5  TK: Up close and personal!
+  7    $0007   1       48.1    55.2  TK: Hammered him!
+  8    $0008   1      101.3   116.2  TK: He really nails 'im
+  9    $0009   1      108.0   123.8  TK: He nearly took his head off!
+  10   $000a   1       60.7    69.6  TK: Cripples him!
+  11   $000b   1       90.0   103.2  TK: With the facial
+  12   $000c   1       59.4    68.2  TK: ... with the sack!
+  13   $000d   1       88.3   101.3  TK: ... takes out the quarterback! (?)
+  14   $000e   1       72.4    83.0  TK: He goes flying!
+  15   $000f   1       92.9   106.6  TK: Oh the shoestring tackle
+
+  22   $0016   1       52.3    60.0  TK: Fades back ...
+  23   $0017   1       43.9    50.4  TK: ... scrambling ...
+
+  25   $0019   1       50.2    57.6  TK: ... rolls left ...
+  26   $001a   1       48.6    55.7  TK: ... rolls right ...
+
+  28   $001c   1       50.2    57.6  TK: ... is sacked ...
+  29   $001d   1       46.0    52.8  TK: ... again!
+  30   $001e   1       96.3   110.4  TK: ... sacked for a big loss!
+  31   $001f   1       59.9    68.6  TK: He should've passed
+  32   $0020   1       60.7    69.6  TK: ... the lob pass ... #2
+  33   $0021   1       90.0   103.2  TK: Bad Pass!
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 2
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  34   $0022   1      130.2   149.3  TK: The Hail Mary!
+
+  36   $0024   1       59.0    67.7  TK: No pressure ... #1
+
+  39   $0027   1       58.6    67.2  TK: ... and gets it off!
+  40   $0028   1       54.8    62.9  TK: ... unleashes!
+  41   $0029   1       82.5    94.6  TK: Oooooohhhh ....
+  42   $002a   1       72.4    83.0  TK: ... throws downfield ...
+  43   $002b   1       43.1    49.4  TK: ... unloads ...
+  44   $002c   1       40.6    46.6  TK: ... looking ... (#1)
+  45   $002d   1       46.9    53.8  TK:  ... with time ...
+  46   $002e   1       29.3    33.6  TK: ... dishes ...
+  47   $002f   1       48.6    55.7  TK: ... the screen pass ...
+  48   $0030   1       65.3    74.9  TK: ... jumps and fires! ...
+  49   $0031   1       61.1    70.1  TK: ... jumps and fires it! ...
+  50   $0032   1       32.6    37.4  TK: ... fires ...
+  51   $0033   1       61.9    71.0  TK: ... a bullet pass ...
+  52   $0034   1       29.7    34.1  TK: ... wings it ...
+  53   $0035   1       70.7    81.1  TK: ... has a man downfield ...
+  54   $0036   1       98.8   113.3  TK: ... he's wiiide open ... (pumped)
+
+  57   $0039   1       97.9   112.3  TK: ... he's got a man downfield ... (pumped)
+  58   $003a   1       72.4    83.0  TK: ... going looonng!! ... (pumped)
+  59   $003b   1       77.0    88.3  TK: ... going deep!! ... (pumped)
+  60   $003c   1      165.3   189.6  TK: What a truly pathetic display!
+  61   $003d   1       61.9    71.0  TK: What a debacle!
+  62   $003e   1       96.3   110.4  TK: Bad Decision!
+  63   $003f   1       52.7    60.5  TK: What was he thinking?
+  64   $0040   1       64.0    73.4  TK: Who called that play?
+
+  67   $0043   1       56.9    65.3  TK: I could be wrong
+  68   $0044   1       39.3    45.1  TK: ... or not ...
+
+  70   $0046   1       54.4    62.4  TK: Bingo!
+  71   $0047   1       96.3   110.4  TK: Unbelievable!
+  72   $0048   1       94.6   108.5  TK: That was Sensational!
+  73   $0049   1       85.4    97.9  TK: ... with the beautiful move!
+  74   $004a   1       63.2    72.5  TK: What a Play !!
+  75   $004b   1       47.7    54.7  TK: Kaboom!! (#3)
+
+  87   $0057   1       90.0   103.2  TK: Oh Great Catch!!
+  88   $0058   1       97.1   111.4  TK: Ooooh whatta catch!!!
+  89   $0059   1       87.5   100.3  TK: ... the circus catch!!
+  90   $005a   1      105.1   120.5  TK: ... with the circus catch!
+  91   $005b   1       97.5   111.8  TK: ... somehow comes up with it!
+  92   $005c   1       76.6    87.8  TK: Nails the receiver!
+
+  100  $0064   1       93.3   107.0  TK: You can put it on the board!
+
+  102  $0066   1       79.1    90.7  TK: Tacks on the extra point
+  103  $0067   1       81.6    93.6  TK: Looks like they're going for two
+
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 3
+
+  111  $006f   1       62.8    72.0  TK: It's a blowout!
+
+  120  $0078   1       92.1   105.6  TK: That was the final straw
+  121  $0079   1      131.4   150.7  TK: The Fat Lady is singing
+
+  131  $0083   1       59.4    68.2  TK: ... goes nowhere
+  132  $0084   1       39.3    45.1  TK: ... broken up ...
+
+  137  $0089   1       43.1    49.4  TK: Big Play ...
+  138  $008a   1       94.2   108.0  TK: This is a big play
+
+  140  $008c   1       53.2    61.0  TK:  Is that Legal?!?
+  141  $008d   1       81.2    93.1  TK: He is out of control!
+  142  $008e   1       72.4    83.0  TK: He's going crazy!
+  143  $008f   1       66.6    76.3  TK: He's foaming at the mouth!
+  144  $0090   1       82.0    94.1  TK: What the <bleep> is he doing?!?
+  145  $0091   1       69.9    80.2  TK: What the <bleep>?!?
+  146  $0092   1       64.5    73.9  TK: I love it!!
+  147  $0093   1      157.8   181.0  TK: That was uncalled for ... but fun to watch
+  148  $0094   1       83.3    95.5  TK: Holy <bleep>'in <bleep>!!
+  149  $0095   1      109.7   125.8  TK: That was completely unneccessary!
+  150  $0096   1       32.6    37.4  TK: ... spins! ...
+  151  $0097   1       40.2    46.1  TK: ... the stiffie ...
+  152  $0098   1       61.1    70.1  TK: ... shedding tacklers ...
+  153  $0099   1       50.2    57.6  TK: ... busts through! ...
+  154  $009a   1       69.1    79.2  TK: ... he goes up and over!
+  155  $009b   1       35.6    40.8  TK: ... hurdles ...
+  156  $009c   1       33.9    38.9  TK: ... jukes ...
+
+  160  $00a0   1       61.1    70.1  TK: He's at the 30 ...
+  161  $00a1   1       35.2    40.3  TK: ... the 20 ...
+  162  $00a2   1       35.6    40.8  TK: ... the 10 ...
+  163  $00a3   1       39.8    45.6  TK: the 5 ...
+  164  $00a4   1       57.8    66.2  TK: ... he's going all the way ...
+
+Total 98 Playlists
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 4
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+BLEEP1           1562       62  0:00.476     26.24  HENRY -v5.00 -vb79 -vi7 -vt3 
+TKAGAIN          2566      110  0:00.845     24.30  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKALLWAY         3962      137  0:01.052     30.12  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKAT30           3260      140  0:01.075     24.26  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBADDEC         5738      230  0:01.766     25.99  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBADPSS         4452      205  0:01.574     22.62  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBCRSHT         5302      223  0:01.713     24.77  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBEAUMV         4412      203  0:01.559     22.64  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBIGPLY         2456      103  0:00.791     24.84  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBINGO          2720      130  0:00.998     21.79  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBLLTPS         3244      148  0:01.137     22.83  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBLWOUT         3610      150  0:01.152     25.07  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBRKNUP         2046       94  0:00.722     22.67  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKBSTSTH         2338      120  0:00.922     20.30  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKCLDWRG         3242      136  0:01.044     24.83  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKCMPUNN         6976      262  0:02.012     27.74  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKCRCSCH         6046      250  0:01.920     25.19  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKCRCUS3         5568      209  0:01.605     27.75  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKCRPPLS         3102      145  0:01.114     22.28  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKDEBCLE         3466      148  0:01.137     24.39  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKDISHES         1870       70  0:00.538     27.83  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFATLDY         7340      314  0:02.412     24.35  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFDBACK         2590      124  0:00.952     21.76  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFIRES2         2246       78  0:00.599     29.99  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFKISDG         3004      112  0:00.860     27.94  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFKNSH          1066       33  0:00.253     33.65  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFNLSTW         5436      220  0:01.690     25.74  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFOAMIN         4140      159  0:01.221     27.12  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKFUNWTH         4822      192  0:01.475     26.16  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGITOFF         3512      140  0:01.075     26.13  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGLONG3         5614      173  0:01.329     33.80  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGOCRZY         4664      173  0:01.329     28.08  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGOFLYN         4204      173  0:01.329     25.31  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGOIDP2         4448      184  0:01.413     25.18  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGONOWH         3916      142  0:01.091     28.73  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKGOTDFL         6464      234  0:01.797     28.77  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKHLMARY         9272      311  0:02.388     31.06  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKHMMRHM         2702      115  0:00.883     24.47  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKHOLYFS         2656       92  0:00.707     30.07  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKHRDLES         2192       85  0:00.653     26.86  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKILUVIT         4420      154  0:01.183     29.90  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKISLGL          3680      127  0:00.975     30.18  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKISSCKD         3082      120  0:00.922     26.75  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKJMPFIR         4128      146  0:01.121     29.45  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKJMPFR2         4372      156  0:01.198     29.19  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKJUKES          1496       81  0:00.622     19.24  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKKBOOM3         3302      114  0:00.876     30.17  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKLKING1         2392       97  0:00.745     25.69  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKLKLK2          4908      194  0:01.490     26.35  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKLOBPS2         3324      145  0:01.114     23.88  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKMAFCL          4454      214  0:01.644     21.68  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 5
+
+
+Region Table (continued)
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TKMDWNFD         4716      169  0:01.298     29.07  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKNAILRC         4802      182  0:01.398     27.48  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKNAILSM         6796      241  0:01.851     29.37  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKNOPRSS         3248      141  0:01.083     24.00  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKOGRTCH         5554      215  0:01.651     26.91  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKOHMY1          7142      271  0:02.081     27.45  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKOOOCTH         6424      232  0:01.782     28.84  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKOOOH1          6122      197  0:01.513     32.37  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKORNOT          2390       94  0:00.722     26.48  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKOUTCTL         5320      194  0:01.490     28.57  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKPMLSIM         2850      111  0:00.852     26.75  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKPONBRD         5470      223  0:01.713     25.55  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKPTHTIC         7268      394  0:03.026     19.22  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKRGHMMR         4704      184  0:01.413     26.63  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKROLLSL         2736      119  0:00.914     23.95  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKROLLSR         2780      115  0:00.883     25.18  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSCRBLG         2448      104  0:00.799     24.52  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSCRPSS         2578      116  0:00.891     23.15  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSHDING         3706      146  0:01.121     26.44  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSHDPSS         3164      143  0:01.098     23.05  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSHOSTR         5534      222  0:01.705     25.97  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSKBLSS         5592      229  0:01.759     25.44  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSMHOW1         5970      232  0:01.782     26.80  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSNSTNL         6134      226  0:01.736     28.27  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSPINS1         1510       78  0:00.599     20.17  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSTIFFI         2324       96  0:00.737     25.22  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHE10          2036       84  0:00.645     25.25  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHE20          1996       83  0:00.637     25.05  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHE5           2562       94  0:00.722     28.39  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHNKNG         2916      126  0:00.968     24.11  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHRDFL         4694      173  0:01.329     28.26  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTHSBPL         5422      225  0:01.728     25.10  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTKEXPT         5028      188  0:01.444     27.86  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTOKHED         7526      258  0:01.981     30.39  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTOOK1          4106      165  0:01.267     25.92  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTOUTQB         5278      210  0:01.613     26.18  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUNBLVE         6278      230  0:01.766     28.43  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUNCLLD         4492      185  0:01.421     25.29  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUNLDS          2636      103  0:00.791     26.66  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUNLSHS         3614      131  0:01.006     28.74  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUPCLOS         5706      249  0:01.912     23.87  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKUPNOVR         4604      165  0:01.267     29.07  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWDOPN2         6976      236  0:01.812     30.79  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWHOCLL         3388      153  0:01.175     23.07  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWHTPLY         4000      151  0:01.160     27.59  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWHTTH2          890       52  0:00.399     17.83  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWHTTHE         1778      115  0:00.883     16.11  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWNGSIT         1720       71  0:00.545     25.23  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWSACK          3164      141  0:01.083     23.37  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWTIME          2754      112  0:00.860     25.61  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKWTKDWN         3638      183  0:01.405     20.71  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 6
+
+ 
+NFL Blitz Video Game (c) 1997 Midway Games - DWF (10/04/97 13:08:29) page 7
+
+
+Summary
+
+Total Average Bitrate:  26.1 kbits/sec
+Total Time:             2:06.213 minutes
+Total Number of .CMP's: 102
+Total Size of .CMP's:   402.61 kbytes

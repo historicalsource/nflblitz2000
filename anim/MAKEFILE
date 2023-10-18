@@ -1,0 +1,88 @@
+#-------------------------------------------------------------------------------------------------------------------
+#
+# Top level Makefile for NFL Animation
+#
+# $Revision: 1 $
+#
+# List of sequences MUST be called SEQS, because the <seq2ani> program
+# reads this makefile and looks for the list there.
+#
+# Keep all qb runs in a contiguous block, starting with qbrunf and ending with
+# qbrunb.
+#
+#-------------------------------------------------------------------------------------------------------------------
+
+ifeq ($(TARGET_SYS), SEATTLE)
+	SEQ_FILE = seattle.mak
+else
+	SEQ_FILE = vegas.mak
+endif
+
+include $(SEQ_FILE)
+
+OUTS =	$(WANS:.wan=.out)
+
+#-------------------------------------------------------------------------------------------------------------------
+# Target basename & associated suffixes
+#-------------------------------------------------------------------------------------------------------------------
+BASE =	genseq
+SFXS =	.ani .dbg .equ .h
+
+PROJ =	$(addprefix $(BASE),$(SFXS))
+
+#-------------------------------------------------------------------------------------------------------------------
+# Phony make targets that don't want any implicit dependencies
+#-------------------------------------------------------------------------------------------------------------------
+.PHONY:	all prompt chk_tools clean clobber rebuild_msg rebuild
+
+
+#-------------------------------------------------------------------------------------------------------------------
+# What we are going to build
+#-------------------------------------------------------------------------------------------------------------------
+all:
+	@echo \VIDEO\NFL\ANIM
+	@$(MAKE) --no-print-directory $(OUTS)
+	@$(MAKE) --no-print-directory $(PROJ)
+	@echo \VIDEO\NFL\ANIM DONE
+
+#-------------------------------------------------------------------------------------------------------------------
+# Dependencies and rules
+#-------------------------------------------------------------------------------------------------------------------
+$(PROJ):	$(OUTS)
+	@echo CREATING `$(BASE).ANI' AND INCLUDE FILES
+	@seq2ani $(BASE) $(SEQ_FILE) >$(BASE).log
+
+%.out:	%.wan
+	@echo $< to $@
+	@wan2seq -s 0.12898 $< -p > $@
+
+#-------------------------------------------------------------------------------------------------------------------
+# How to clean
+#-------------------------------------------------------------------------------------------------------------------
+clean:
+	@echo \VIDEO\NFL\ANIM CLEAN
+	@$(MAKE) --no-print-directory clobber
+	@if EXIST *.out attrib -r *.out
+	@if EXIST *.out del *.out
+	@if EXIST *.seq attrib -r *.seq
+	@if EXIST *.seq del *.seq
+	@echo \VIDEO\NFL\ANIM CLEAN DONE
+
+#-------------------------------------------------------------------------------------------------------------------
+# How to clobber
+#-------------------------------------------------------------------------------------------------------------------
+clobber:
+	@echo \VIDEO\NFL\ANIM CLOBBER
+	@if EXIST $(BASE).* del $(BASE).*
+	@echo \VIDEO\NFL\ANIM CLOBBER DONE
+
+#-------------------------------------------------------------------------------------------------------------------
+# How to rebuild
+#-------------------------------------------------------------------------------------------------------------------
+rebuild:
+	@echo \VIDEO\NFL\ANIM REBUILD
+	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory all
+	@echo \VIDEO\NFL\ANIM REBUILD DONE
+
+#--------------------------------------------------------------------------------------------------------------[EOF]

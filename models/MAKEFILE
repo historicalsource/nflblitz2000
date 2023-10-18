@@ -1,0 +1,96 @@
+#
+# $Revision: $
+#
+all:
+	@echo \VIDEO\NFL\MODELS TOP LEVEL
+	@$(MAKE) --no-print-directory -f models.mak all
+	@echo \VIDEO\NFL\MODELS TOP LEVEL DONE
+
+clobber:
+	@echo \VIDEO\NFL\MODELS CLOBBER
+
+	@if exist plyr266.h attrib -r plyr266.h
+	@if exist plyr266.h del plyr266.h
+	
+	@if EXIST plyr266f.h attrib -r plyr266f.h
+	@if EXIST plyr266f.h del plyr266f.h
+	
+	@if EXIST plyr498.h attrib -r plyr498.h
+	@if EXIST plyr498.h del plyr498.h
+	
+	@if EXIST plyr498f.h attrib -r plyr498f.h
+	@if EXIST plyr498f.h del plyr498f.h
+	
+	@if EXIST loball.h attrib -r loball.h
+	@if EXIST loball.h del loball.h
+	
+	@if EXIST medball.h	attrib -r medball.h
+	@if EXIST medball.h	del medball.h
+	
+	@if EXIST loball2.h attrib -r loball2.h
+	@if EXIST loball2.h del loball2.h
+	
+	@if EXIST medball2.h attrib -r medball2.h
+	@if EXIST medball2.h del medball2.h
+	
+	@if EXIST ballshad.h attrib -r ballshad.h
+	@if EXIST ballshad.h del ballshad.h
+	
+	@if EXIST helmet.h attrib -r helmet.h
+	@if EXIST helmet.h del helmet.h
+	
+	@if EXIST logo.h attrib -r logo.h
+	@if EXIST logo.h del logo.h
+	
+	@if EXIST plyslct.h attrib -r plyslct.h
+	@if EXIST plyslct.h del plyslct.h
+	
+	@if EXIST nums_3d.h attrib -r nums_3d.h
+	@if EXIST nums_3d.h del nums_3d.h
+	
+	@if EXIST field.h attrib -r field.h
+	@if EXIST field.h del field.h
+	
+	@if EXIST stadium.h attrib -r stadium.h
+	@if EXIST stadium.h del stadium.h
+	
+	@if EXIST spfx.h attrib -r spfx.h
+	@if EXIST spfx.h del spfx.h
+	
+#	@if EXIST xheads.h attrib -r xheads.h
+#	@if EXIST xheads.h del xheads.h
+	
+#	@if EXIST xheads2.h attrib -r xheads2.h
+#	@if EXIST xheads2.h del xheads2.h
+	
+#	@if EXIST xheads3.h attrib -r xheads3.h
+#	@if EXIST xheads3.h del xheads3.h
+	
+	@if EXIST stadium2.h attrib -r stadium2.h
+	@if EXIST stadium2.h del stadium2.h
+	
+	@if EXIST field2.h attrib -r field2.h
+	@if EXIST field2.h del field2.h
+	
+	@if EXIST head.h attrib -r head.h
+	@if EXIST head.h del head.h
+	
+	@if EXIST helm.h attrib -r helm.h
+	@if EXIST helm.h del helm.h
+	
+	@if EXIST stadpie.h attrib -r stadpie.h
+	@if EXIST stadpie.h del stadpie.h
+
+	@echo \VIDEO\NFL\MODELS CLOBBER DONE
+
+
+clean:
+	@echo \VIDEO\NFL\MODELS CLEAN
+	@$(MAKE) --no-print-directory clobber
+	@echo \VIDEO\NFL\MODELS CLEAN DONE
+
+rebuild:
+	@echo \VIDEO\NFL\MODELS REBUILD
+	@$(MAKE) --no-print-directory clean
+	@$(MAKE) --no-print-directory all
+	@echo \VIDEO\NFL\MODELS REBUILD DONE

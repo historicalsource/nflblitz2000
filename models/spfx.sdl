@@ -1,0 +1,309 @@
+DEFINITION	/* ALIAS SDL File Version 7.5.1 */
+			/* Apparently from wire file '/usr/people/luis/user_data/demo/wire/FBPOLY/2662_biggernumb'. */
+	version = 7.51;
+
+	xleft  = 0;
+	xright = 399;
+	ylow   = 0;
+	yhigh  = 399;
+	resolution = 400 400;
+	aalevelmin   = 0;
+	aalevelmax   = 12;
+	aathreshold  = 0.6;
+	post_filter   = OFF;
+	post_center   = 8;    /* Values for a bartlet filter. */
+	post_adjacent = 1;
+	post_diagonal = 1;
+
+	composite_rendering = OFF;
+	invisible_objects_cast_shadows = OFF;
+	image_format = ALIAS;
+	jitter       = ON;
+	reduced_samples = OFF;
+	textures_active    = ON;
+
+	clamp_bumpsize = 0.0;
+
+	up = yaxis;
+
+	motion_blur_on = OFF;
+	shutter_angle  = 144.0;
+	animation  = ON;
+	startframe      = 0.0;
+	endframe        = 100.0;
+	byframe         = 1.0;
+
+	extensionsize  = 3;
+	fields          = FALSE;
+	odd             = FALSE;
+	even            = FALSE;
+	odd_field_first = TRUE;
+
+	triple Camera#2_view(0.0, 0.0, 0.0);
+	triple Camera#2_up(0.0, 0.0, 0.0);
+
+	subdivision_recursion_limit = 2;
+	grid_cache = 4000;
+	bbox_memory = FULL;
+	rt_voxel_res_type = AUTOMATIC;
+
+	max_reflections             = 10;
+	max_refractions             = 10;
+	max_shadow_level            = 10;
+	preview_ray_trace           = OFF;
+
+	scalar pixel_aspect ( 1.0 );
+	hline_to_fill_color  = FALSE;
+	hline_fill_color     = (255.0, 255.0, 255.0);
+	hline_line_color     = (0.0, 255.0, 255.0);
+	hline_isoparam_u     = 0;
+	hline_isoparam_v     = 0;
+
+	show_particles       = TRUE;
+	simulation_substeps  = 1;
+	simulation_frames_per_second = 30;
+
+triple Lightview(0.0, 0.0, 0.0);
+triple Lightup(0.0, 0.0, 0.0);
+
+light Light ( model = ambient,
+	active = ON,
+	exclusive = FALSE,
+	light_emission = ON,
+	color = (255.0, 255.0, 255.0),
+	shadow_color = (0.0, 0.0, 0.0),
+	intensity = 1.0,
+	force_type = OFF,
+	force_intensity = 1.0,
+	warp = OFF,
+	glow_type = OFF,
+	halo_type = OFF,
+	fog_type = OFF,
+	flare = OFF,
+	psys_emission = OFF,
+	shadow = FALSE,
+	soft_shadows = FALSE,
+	light_radius = 1.0,
+	shadow_samples = 2.0,
+	use_shadow_map = 0.0,
+	ambient_shade = 0.0
+);
+
+texture File#10 (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/user_data/demo/pix/spfx/smoke.1",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 1.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = OFF,
+        vwrap = OFF,
+        invert = OFF
+);
+
+shader SPFX ( model = lambert,
+        diffuse = 0.8,
+        color = File#10,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+polyset Polyset (
+	active = ON,
+	motion_blur = ON,
+	smooth = ON,
+	doublesided = OFF,
+	opposite = OFF,
+	shader = (SPFX ),
+	casts_shadow = TRUE,
+	vertices = ((cv((-1.0, 1.0, 0.0), 1)),
+			(cv((1.0, 1.0, 0.0), 1)),
+			(cv((1.0, -1.0, 0.0), 1)),
+			(cv((-1.0, -1.0, 0.0), 1))	),
+	texture_vertices = (
+			st( 0.000000, 0.000000 ),
+			st( 0.000000, 1.000000 ),
+			st( 1.000000, 1.000000 ),
+			st( 1.000000, 0.000000 ) ),
+	polygons = (
+		polygon ((0, 1, 2),(0, 1, 2), 0 ),
+		polygon ((0, 2, 3),(0, 2, 3), 0 )
+	)
+); /* end of polyset 'Polyset' */
+
+ENVIRONMENT
+background ( 
+        color = (0.0, 0.0, 0.0)
+);
+shader_glow ( 
+,
+        glow_type =  LINEAR_GLOW,
+        halo_type =  LINEAR_GLOW,
+        auto_exposure = ON,
+        quality = 0.5,
+        threshold = 0.0,
+        glow_color = (100.0, 100.0, 100.0),
+        glow_intensity = 1.0,
+        glow_spread = 0.05,
+        glow_eccentricity = 0.1,
+        glow_radial_noise = 0.0,
+        glow_star_level = 0.0,
+        glow_opacity = 0.0,
+        halo_color = (100.0, 100.0, 100.0),
+        halo_intensity = 1.0,
+        halo_spread = 0.3,
+        halo_eccentricity = 0.1,
+        halo_radial_noise = 0.0,
+        halo_star_level = 0.0,
+        halo_lens_flare = 0.0,
+        rotation = 0.0,
+        radial_noise_frequency = 0.5,
+        star_points = 4.0
+);
+photo_effects ( 
+,
+        film_grain = 0.0,
+        filter = (255.0, 255.0, 255.0)
+);
+master_light ( 
+,
+        intensity = 1.0,
+        light_color = (255.0, 255.0, 255.0)
+);
+dynamics ( 
+,
+        gravity = 1.0,
+        air_density = 0.05,
+        Floor = ON,
+        floor_offset = 0.0,
+        ceiling = OFF,
+        ceiling_offset = 20.0,
+        left = OFF,
+        left_offset = -10.0,
+        right = OFF,
+        right_offset = 10.0,
+        front = OFF,
+        front_offset = -10.0,
+        back = OFF,
+        back_offset = 10.0,
+        wall_friction = 0.0,
+        wall_elasticity = 0.707,
+        turbulence_intensity = 0.0,
+        turbulence_spread = 0.5,
+        turbulence_persistence = 5.0,
+        turbulence_animated = ON,
+        turbulence_space_resolution =  16,
+        turbulence_time_resolution =  16,
+        turbulence_roughness = 0.5,
+        turbulence_variability = 0.5,
+        turbulence_granularity = 0.0
+);
+
+MODEL
+/* Only expression assignments should appear above this line and below the MODEL directive. */
+/* Placing any other commands in the above section will produce incorrect expression behaviour. */
+{
+	instance Polyset();
+}
+{
+	trn(0.0, 0.0, 12.0);
+	{
+		inst Light();
+	}
+	{
+		trn(-2.0, -2.0, 0.0);
+		Lightview = current_position(( 0.0,  0.0,  0.0));
+	}
+	{
+		trn(0.0, 10.0, 0.0);
+		Lightup = current_position(( 0.0,  0.0,  0.0));
+	}
+}
+{
+}
+{
+	{
+		trn(0.78068, 20.692057, 20.004826);
+		camera (
+			perspective = TRUE,
+			eye   = ( 0.0,  0.0,  0.0),
+			active = ON,
+			pix   = "pix/spfx",
+			view  = Camera#2_view,
+			up  = Camera#2_up,
+			aov = 55.0,
+			filmaperture_x = 0.4,
+			filmaperture_y = 0.285,
+			filmoffset_x = 0.0,
+			filmoffset_y = 0.0,
+			placement_fit_code = 0,
+			placement_shift = 0.0,
+			aspect   = pixel_aspect,
+			aspect_ratio_pixel = pixel_aspect,
+			near = 0.1,
+			far = 200.0,
+			depth_of_field = 0.0,
+			scaling_factor = 1.0,
+			f_stop = 3.5,
+			focal_distance = 12.0,
+			auto_focus = OFF,
+			motion_blur = 0.0
+		);
+	}
+	{
+		trn(-1.153125, 13.2055, 10.828108);
+		Camera#2_view = current_position( (0, 0, 0) );
+	}
+	{
+		trn(0.652024, 21.473558, 19.394352);
+		Camera#2_up = current_position( (0, 0, 0) );
+	}
+}
+

@@ -1,0 +1,130 @@
+HFILE> \video\nfl\include\winmsg.h 
+OUTPUTXY> 256 128
+INPUT> winteams.wif
+-----> win_win
+EXECUTE> win_win.tga
+MAKEBAT> winmsg.bat win_win.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_49r
+EXECUTE> win_49r.tga 
+MAKEBAT> winmsg.bat win_49r.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_bea
+EXECUTE> win_bea.tga
+MAKEBAT> winmsg.bat win_bea.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_ben
+EXECUTE> win_ben.tga
+MAKEBAT> winmsg.bat win_ben.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_bil
+EXECUTE> win_bil.tga
+MAKEBAT> winmsg.bat win_bil.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_bro
+EXECUTE> win_bro.tga
+MAKEBAT> winmsg.bat win_bro.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_buc
+EXECUTE> win_buc.tga
+MAKEBAT> winmsg.bat win_buc.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_cha
+EXECUTE> win_cha.tga
+MAKEBAT> winmsg.bat win_cha.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_gia
+EXECUTE> win_gia.tga
+MAKEBAT> winmsg.bat win_gia.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_pat
+EXECUTE> win_pat.tga
+MAKEBAT> winmsg.bat win_pat.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_ste
+EXECUTE> win_ste.tga
+MAKEBAT> winmsg.bat win_ste.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_cow
+EXECUTE> win_cow.tga
+MAKEBAT> winmsg.bat win_cow.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_lio
+EXECUTE> win_lio.tga
+MAKEBAT> winmsg.bat win_lio.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_rav
+EXECUTE> win_rav.tga
+MAKEBAT> winmsg.bat win_rav.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_col
+EXECUTE> win_col.tga
+MAKEBAT> winmsg.bat win_col.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_jet
+EXECUTE> win_jet.tga
+MAKEBAT> winmsg.bat win_jet.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_ram
+EXECUTE> win_ram.tga
+MAKEBAT> winmsg.bat win_ram.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_chi
+EXECUTE> win_chi.tga
+MAKEBAT> winmsg.bat win_chi.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_jag
+EXECUTE> win_jag.tga
+MAKEBAT> winmsg.bat win_jag.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_rai
+EXECUTE> win_rai.tga
+MAKEBAT> winmsg.bat win_rai.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_vik
+EXECUTE> win_vik.tga
+MAKEBAT> winmsg.bat win_vik.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_eag
+EXECUTE> win_eag.tga
+MAKEBAT> winmsg.bat win_eag.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_pac
+EXECUTE> win_pac.tga
+MAKEBAT> winmsg.bat win_pac.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_sai
+EXECUTE> win_sai.tga
+MAKEBAT> winmsg.bat win_sai.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_car
+EXECUTE> win_car.tga
+MAKEBAT> winmsg.bat win_car.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_fal
+EXECUTE> win_fal.tga
+MAKEBAT> winmsg.bat win_fal.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_pan
+EXECUTE> win_pan.tga
+MAKEBAT> winmsg.bat win_pan.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_sea
+EXECUTE> win_sea.tga
+MAKEBAT> winmsg.bat win_sea.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_dol
+EXECUTE> win_dol.tga
+MAKEBAT> winmsg.bat win_dol.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_tit
+EXECUTE> win_tit.tga
+MAKEBAT> winmsg.bat win_tit.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_red
+EXECUTE> win_red.tga
+MAKEBAT> winmsg.bat win_red.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+INPUT> winteams.wif
+-----> win_brw
+EXECUTE> win_brw.tga
+MAKEBAT> winmsg.bat win_brw.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

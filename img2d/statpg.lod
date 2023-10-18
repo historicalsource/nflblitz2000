@@ -1,0 +1,14 @@
+#
+# Load file made by Composit version 0.9820R on Tue Feb 04 17:48:23 1997.
+#
+HFILE> \video\nfl\include\statpg.h
+
+INPUT> halfstat.wif
+-----> halfstat finalstat
+EXECUTE> statpg
+MAKEBAT> statpg.bat statpg*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#INPUT> halfstat.wif
+#-----> halfstat_LR finalstat_LR
+#EXECUTE> statlr
+#MAKEBAT> statpg.bat statlr*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

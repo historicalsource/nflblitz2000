@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[models.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/models", XEFAAAAA

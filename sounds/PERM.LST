@@ -1,0 +1,74 @@
+NFL Football Video Game (c) 1997 Midway Games - DW (08/05/97 01:06:33) page 1
+
+PLBUILD version 3.0F
+
+Bank Information
+----------------
+
+Bank name: PERM.BNK
+
+Size of .BNK file including header: 89306 bytes ($15CDA bytes)
+
+Size of playlist table: 44 bytes ($2C bytes)
+
+Size of playlist and sound data only: 89128 bytes ($15C28 bytes)
+
+Checksum: $0C96
+
+Total number of playlists: 11 ($B)
+
+Total number of sound files: 11 ($B)
+
+Average bit rate for bank: 70.9 kbits/sec
+
+Total linear amount of sound: 0:10.038 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1      105.9   121.4  Pre-Intro #1
+  1    $0001   1       35.6    40.8  FX: Yes/No Toggle Cursor
+  2    $0002   1       51.1    58.6  FX: Initials Cursor
+  3    $0003   1       36.0    41.3  FX: Pick an Initial
+  4    $0004   1       55.7    63.8  FX: Team and Yes/No Selected
+  5    $0005   1        4.6     5.3  FX: Attract Mode Advance Tick
+  6    $0006   1       48.1    55.2  FX: Coin Sound
+  7    $0007   1       14.2    16.3  FX: Start Button
+  8    $0008   1       43.9    50.4  FX: Full Game Bought Slide
+  9    $0009   1       49.4    56.6  FX: Full Game Bought Hit
+  10   $000a   1      105.9   121.4  Pre-Intro #2
+
+Total 11 Playlists
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (08/05/97 01:06:33) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+CURSOR12          414       10  0:00.077     43.13  HENRY -v4.00 -vb95 -vi7 -vt0 
+CURSOR13         3338       84  0:00.645     41.39  HENRY -v4.00 -vb95 -vi7 -vr79 -vt0 
+CURSOR29         5052      121  0:00.929     43.49  HENRY -v4.50 -vb95 -vi7 -vr79 -vt0 
+GULP1            1416       34  0:00.261     43.38  HENRY -v4.00 -vb95 -vi7 -vt3 
+PREINTR1        19110      253  0:01.943     78.68  HENRY -v3.50 -vb111 -vi7 -vr95 -vt0 
+PREINTR2        20644      253  0:01.943     85.00  HENRY -v3.50 -vb111 -vi7 -vr95 -vt0 
+RANDHIT1         7988      132  0:01.014     63.04  HENRY -v4.00 -vb95 -vi7 -vr79 -vt0 
+SELECT1          8830      114  0:00.876     80.68  HENRY -v4.00 -vb95 -vi7 -vt0 
+SELECT7          5998       85  0:00.653     73.50  HENRY -v4.00 -vb95 -vi7 -vt0 
+WHLGAMHT         8214      117  0:00.899     73.13  HENRY -v4.00 -vb95 -vi7 -vr79 -vt0 
+WHLGAMSD         7926      104  0:00.799     79.39  HENRY -v4.00 -vb95 -vi7 -vt0 
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (08/05/97 01:06:33) page 3
+
+
+Summary
+
+Total Average Bitrate:  70.9 kbits/sec
+Total Time:             0:10.038 minutes
+Total Number of .CMP's: 11
+Total Size of .CMP's:    86.85 kbytes

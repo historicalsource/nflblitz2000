@@ -1,0 +1,21 @@
+-mhard-float
+-D__DJGPP__
+-fsigned-char
+-fno-builtin
+-g
+-mips4
+-fomit-frame-pointer
+-c
+-G 0
+-mcpu=r8000
+-nostdinc
+-I\video\include
+-Wall
+-W
+-Wshadow
+-Wpointer-arith
+-Wmissing-prototypes
+-Wredundant-decls
+-MD
+-Wa,mips4
+-Wno-unused

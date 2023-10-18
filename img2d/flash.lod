@@ -1,0 +1,129 @@
+HFILE> \video\nfl\include\flash.h
+
+OUTPUTXY> 128 128
+
+INPUT> flash.wif 
+MIDST> ON
+-----> sparkc01,sparkc02,sparkc03,sparkc04,sparkc05
+-----> sparkc06,sparkc07,sparkc08,sparkc09,sparkc10
+MIDST> OFF
+EXECUTE> flash
+MAKEBAT> flash.bat flash*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#OUTPUTXY> 256 256
+#INPUT> flash.wif
+#MIDST> ON
+#-----> mflash01,mflash02,mflash03,mflash04,mflash05
+#-----> mflash06,mflash07,mflash08,mflash09,mflash10
+#MIDST> OFF
+#EXECUTE> mflash
+#MAKEBAT> flash.bat mflash*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+OUTPUTXY> 256 128
+
+INPUT> nflgrafx.wif
+-----> msg_tdn
+EXECUTE> msg_tdn
+MAKEBAT> flash.bat msg_tdn*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_trn
+-----> msg_ond
+EXECUTE> msg_trn
+MAKEBAT> flash.bat msg_trn*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_saf
+EXECUTE> msg_saf
+MAKEBAT> flash.bat msg_saf*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_2pt
+EXECUTE> msg_2pt
+MAKEBAT> flash.bat msg_2pt*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_4d2
+EXECUTE> msg_4dn
+MAKEBAT> flash.bat msg_4dn*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_gd
+EXECUTE> msg_gd
+MAKEBAT> flash.bat msg_gd*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_1dn
+EXECUTE> msg_1dn
+MAKEBAT> flash.bat msg_1dn*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_fum
+EXECUTE> msg_fum
+MAKEBAT> flash.bat msg_fum*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_int
+EXECUTE> msg_int
+MAKEBAT> flash.bat msg_int*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_ngd
+EXECUTE> msg_ngd
+MAKEBAT> flash.bat msg_ngd*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_blk
+EXECUTE> msg_blk
+MAKEBAT> flash.bat msg_blk*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+-----> msg_ovr
+EXECUTE> msg_ovr
+MAKEBAT> flash.bat msg_ovr*.tga texus -mn -t argb4444 -o  $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+OUTPUTXY> 256 256
+
+INPUT> nflgrafx.wif
+-----> msg_qtr
+-----> msg_end,msg_1st,msg_2nd,msg_3rd
+EXECUTE> m_end
+MAKEBAT> flash.bat m_end*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#Transition plates
+
+OUTPUTXY> 256 256
+
+INPUT> nflgrafx.wif
+MIDST> ON
+------> doorsm
+MIDST> OFF
+EXECUTE> trans1
+MAKEBAT> flash.bat trans1.tga texus -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+MIDST> ON
+------> doornfl
+MIDST> OFF
+EXECUTE> trans2
+MAKEBAT> flash.bat trans2.tga texus -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> nflgrafx.wif
+MIDST> ON
+------> doormid
+MIDST> OFF
+EXECUTE> trans3
+MAKEBAT> flash.bat trans3.tga texus -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+OUTPUTXY> 256 256
+
+INPUT> tipspg.wif
+-----> cheerpg1
+-----> cheerpg2
+-----> cheerpg3
+-----> cheerpg4
+-----> cheerpg5
+-----> cheerpg6
+-----> cheerpg7
+EXECUTE> cheer
+MAKEBAT> flash.bat cheer*.tga texus -dn -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

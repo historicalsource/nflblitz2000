@@ -1,0 +1,63 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 22:18:51) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: INTRO1.BNK
+
+Size of .BNK file including header: 184940 bytes ($2D26C bytes)
+
+Size of playlist table: 12 bytes ($C bytes)
+
+Size of playlist and sound data only: 184794 bytes ($2D1DA bytes)
+
+Checksum: $8C04
+
+Total number of playlists: 3 ($3)
+
+Total number of sound files: 8 ($8)
+
+Average bit rate for bank: 78.8 kbits/sec
+
+Total linear amount of sound: 0:18.739 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1          -       -  First Intro Tune
+  1    $0001   1       36.4    41.8  FX: Picking Game Cursor
+  2    $0002   1      125.1   143.5  FX: Game Picked Sound
+
+Total 3 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 22:18:51) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+INTCRS1          4006       86  0:00.660     48.52  HENRY -v5.00 -vb95 -vi7 -vr79 -vt0 
+INTRO10A        22076      274  0:02.104     83.93  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO10B        21800      276  0:02.120     82.28  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO11         20966      273  0:02.097     80.00  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO12         42194      549  0:04.216     80.06  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO13         39684      546  0:04.193     75.71  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO14         11162      138  0:01.060     84.25  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+PICKGAM2        22778      298  0:02.289     79.62  HENRY -v3.00 -vb111 -vi7 -vr95 -vt0 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 22:18:51) page 3
+
+
+Summary
+
+Total Average Bitrate:  78.8 kbits/sec
+Total Time:             0:18.739 minutes
+Total Number of .CMP's: 8
+Total Size of .CMP's:   180.34 kbytes

@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##801
+Who played the most seasons in a Colts' uniform?
+~~a) Eugene Daniel **b) Johnny Unitas ~~c) Raymond Berry ~~d) Gino Marchetti
+##802
+Who is the Colts' all-time leading scorer?
+~~a) Lenny Moore ~~b) Lou Michaels **c) Dean Biasucci ~~d) Steve Myhra
+##803
+Who holds the Colts' record for most points in a season?
+~~a) Lenny Moore ~~b) Dean Biasucci ~~c) Raul Allegre **d) Cary Blanchard
+##804
+The Colts' record for touchdowns in a game is 4. What player did it three times?
+~~a) Lydell Mitchell **b) Lenny Moore ~~c) Raymond Berry ~~d) Eric Dickerson
+##805
+Lenny Moore is the Colts' all-time leader in touchdowns. Who ranks second?
+**a) Raymond Berry ~~b) Don McCauley ~~c) Tom Matte ~~d) Alan Ameche
+##806
+Who holds the Colts' record for most touchdowns in a season by a rookie?
+~~a) Alan Ameche ~~b) Marshall Faulk **c) Curtis Dickey ~~d) Lenny Moore
+##807
+Who is the Colts' all-time leading rusher?
+**a) Lydell Mitchell ~~b) Lenny Moore ~~c) Marshall Faulk ~~d) Eric Dickerson
+##808
+Who holds the Colts' record for rushing yards in a season?
+~~a) Lydell Mitchell ~~b) Lenny Moore ~~c) Marshall Faulk **d) Eric Dickerson
+##809
+Who holds the Colts' record for rushing yards in a game?
+~~a) Lydell Mitchell ~~b) Lenny Moore **c) Norm Bulaich ~~d) Alan Ameche
+##810
+Who holds the Colts' record for longest run (80 yards) from scrimmage?
+~~a) Alan Ameche **b) Tom Matte ~~c) Lenny Moore ~~d) Eric Dickerson
+##811
+Johnny Unitas is the Colts' all-time leader in passing yards. Who ranks second?
+~~a) Jim Harbaugh ~~b) Earl Morrall **c) Bert Jones ~~d) Jeff George
+##812
+Who holds the Colts' record for passing yards in a season?
+~~a) Jim Harbaugh **b) Johnny Unitas ~~c) Bert Jones ~~d) Jeff George
+##813
+Who holds the Colts' record for passing yards in a game?
+~~a) Jim Harbaugh **b) Johnny Unitas ~~c) Bert Jones ~~d) Jeff George
+##814
+Johnny Unitas and Bert Jones rank first and second on the Colts' list for career touchdown passes. Who ranks third?
+**a) Jim Harbaugh ~~b) Jack Trudeau ~~c) Jeff George ~~d) Mike Pagel
+##815
+Who completed the longest pass (90 yards) in history of the Colts?
+~~a) Johnny Unitas ~~b) Jim Harbaugh **c) Bert Jones ~~d) Jeff George
+##816
+Raymond Berry is the Colts' all-time leader in receptions. Who ranks second?
+~~a) Sean Dawkins ~~b) Lenny Moore ~~c) Lydell Mitchell **d) Bill Brooks
+##817
+Who holds the Colts' record for most receptions in a season?
+~~a) Lenny Moore ~~b) Raymond Berry **c) Reggie Langhorne ~~d) Marvin Harrison
+##818
+Lydell Mitchell shares the Colts' record for most receptions (13) in a game with:
+~~a) Raymond Berry **b) Joe Washington ~~c) Marshall Faulk ~~d) John Mackey
+##819
+Raymond Berry is the Colts' all-time leader in receiving yards. Who ranks second?
+**a) Lenny Moore ~~b) Jimmy Orr ~~c) Lydell Mitchell ~~d) Bill Brooks
+##820
+Who holds the Colts' record for receiving yards in a season?
+~~a) Marvin Harrison ~~b) Bill Brooks ~~c) Sean Dawkins **d) Raymond Berry
+##821
+Who holds the Colts' record for receiving yards in a game?
+~~a) Marvin Harrison ~~b) Bill Brooks ~~c) Roger Carr **d) Raymond Berry
+##822
+What Colts player caught the longest pass (90 yards) in franchise history?
+~~a) Marvin Harrison ~~b) Bill Brooks **c) Roger Carr ~~d) Raymond Berry
+##823
+Who is the Colts' all-time leader in interceptions?
+~~a) Eugene Daniel **b) Bobby Boyd ~~c) Rick Volk ~~d) Jerry Logan
+##824
+Where did Colts quarterback Johnny Unitas attend college?
+~~a) Pittsburgh ~~b) Missouri **c) Louisville ~~d) Alabama
+##825
+What number did Colts defensive end Gino Marchetti wear?
+~~a) 70 **b) 89 ~~c) 98 ~~d) 99
+##826
+Who is the Colts' winningest coach?
+~~a) Don Shula ~~b) Weeb Ewbank **c) Ted Marchibroda ~~d) Ron Meyer
+##827
+Where did Colts receiver Raymond Berry attend college?
+~~a) TCU **b) SMU ~~c) Texas A&M ~~d) Texas
+##828
+What number did Colts receiver Raymond Berry wear?
+~~a) 21 ~~b) 22 ~~c) 25 **d) 82
+##829
+What number did Colts running back Lenny Moore wear?
+~~a) 20 **b) 24 ~~c) 28 ~~d) 34
+##830
+Who scored the Colts' lone touchdown in Super Bowl III?
+~~a) Tom Matte ~~b) Johnny Unitas ~~c) Raymond Berry **d) Jerry Hill
+##831
+What college did Tom Coughlin coach before joining the Jaguars?
+~~a) Northwestern **b) Boston College ~~c) Boston University ~~d) Rutgers
+##832
+Who was the first college player ever drafted by the Jaguars?
+~~a) Mark Brunell ~~b) James Stewart **c) Tony Boselli ~~d) Tony Brackens
+##833
+What college team did Jaguars quarterback Mark Brunell lead to a share of the 1991 national title?
+~~a) Miami ~~b) Georgia Tech ~~c) Washington State **d) Washington
+##834
+What Jaguars player scored the first touchdown in franchise history?
+**a) Randy Jordan ~~b) Steve Beuerlein ~~c) Mark Brunell ~~d) James Stewart
+##835
+Where did Jaguars coach Tom Coughlin attend college?
+~~a) Boston College ~~b) Notre Dame **c) Syracuse ~~d) Pittsburgh
+##836
+Where did Jaguars receiver Keenan McCardell attend college?
+~~a) BYU ~~b) Utah ~~c) Northern Arizona **d) Nevada-Las Vegas
+##837
+Where did Jaguars receiver Jimmy Smith attend college?
+~~a) Grambling **b) Jackson State ~~c) Alcorn State ~~d) Southern
+##838
+What team did the Jaguars defeat in a 1996 AFC Wild Card Game, their first playoff game ever?
+~~a) Broncos ~~b) Chiefs **c) Bills ~~d) Chargers
+##839
+Where did Jaguars linebacker Bryce Paup attend college?
+~~a) Iowa ~~b) Wisconsin ~~c) Michigan State **d) Northern Iowa
+##840
+Who led the Jaguars in sacks in both 1996 and 1997?
+~~a) Tony Brackens **b) Clyde Simmons ~~c) Jeff Lageman ~~d) Kevin Hardy
+##841
+In what city were the Chiefs founded in 1960?
+~~a) San Antonio **b) Dallas ~~c) Austin ~~d) Houston
+##842
+What was the Chiefs' original nickname?
+~~a) Rangers ~~b) Cowboys ~~c) Longhorns **d) Texans
+##843
+Who scored the winning points in the Chiefs' victory over the Oilers in the 1962 AFL Championship Game?
+~~a) Abner Haynes ~~b) Otis Taylor **c) Tommy Brooker ~~d) Len Dawson
+##844
+How many American Football League titles did the Chiefs win?
+~~a) 1 ~~b) 2 **c) 3 ~~d) 4
+##845
+What Chiefs player started Super Bowl I at linebacker and Super Bowl IV at center?
+~~a) Dave Robinson **b) E.J. Holub ~~c) Ed Budde ~~d) Curley Culp
+##846
+Who scored the clinching touchdown for the Chiefs in Super Bowl IV?
+~~a) Mike Garrett ~~b) Len Dawson ~~c) Curtis McClinton **d) Otis Taylor
+##847
+What Chiefs coach won the most games?
+**a) Hank Stram ~~b) Marty Schottenheimer ~~c) Marv Levy ~~d) John Mackovic
+##848
+Who holds the Chiefs' record for most seasons?
+~~a) Len Dawson **b) Jerrel Wilson ~~c) Nick Lowery ~~d) Jan Stenerud
+##849
+Who holds the Chiefs' record for most games played?
+~~a) Len Dawson ~~b) Jerrel Wilson **c) Nick Lowery ~~d) Jan Stenerud
+##850
+Who is the Chiefs' all-time leading scorer?
+~~a) Pete Stoyanovich ~~b) Marcus Allen **c) Nick Lowery ~~d) Jan Stenerud
+##851
+Who holds the Chiefs' record for career touchdowns?
+~~a) Marcus Allen **b) Otis Taylor ~~c) Abner Haynes ~~d) Chris Burford
+##852
+Who holds the Chiefs' record for most touchdowns in a season?
+~~a) Marcus Allen ~~b) Otis Taylor **c) Abner Haynes ~~d) Chris Burford
+##853
+Name the only Chiefs player to score 5 touchdowns in a game:
+~~a) Marcus Allen ~~b) Otis Taylor **c) Abner Haynes ~~d) Chris Burford
+##854
+Who is the only Chiefs player to lead the NFL in rushing?
+~~a) Marcus Allen **b) Christian Okoye ~~c) Ed Podolak ~~d) Mike Garrett
+##855
+Who is the only Chiefs player to rush for 200 yards in a game?
+~~a) Christian Okoye ~~b) Marcus Allen ~~c) Ed Podolak **d) Barry Word
+##856
+Who is the Chiefs' all-time rushing leader?
+**a) Christian Okoye ~~b) Marcus Allen ~~c) Abner Haynes ~~d) Ed Podolak
+##857
+Who holds the Chiefs' record for longest run (84 yards) from scrimmage?
+~~a) Ed Podolak ~~b) Joe Delaney **c) Ted McKnight ~~d) Christian Okoye
+##858
+Who holds the Chiefs' record passing yards in a game?
+**a) Len Dawson ~~b) Steve Bono ~~c) Joe Montana ~~d) Bill Kenney
+##859
+Who completed the longest pass (93 yards) ever by a Chiefs' player?
+~~a) Len Dawson **b) Mike Livingston ~~c) Elvis Grbac ~~d) Steve DeBerg
+##860
+Len Dawson is the Chiefs' all-time leader in touchdown passes. Who ranks second?
+~~a) Steve DeBerg ~~b) Joe Montana **c) Bill Kenney ~~d) Steve Bono
+##861
+Who is the Chiefs' all-time leader in career receptions?
+~~a) Otis Taylor ~~b) Chris Burford ~~c) Carlos Carson **d) Henry Marshall
+##862
+Who set a Chiefs' record by catching 80 passes in a season?
+~~a) Otis Taylor ~~b) Chris Burford **c) Carlos Carson ~~d) Henry Marshall
+##863
+Who holds the Chiefs' record for most receptions in a game?
+~~a) Chris Burford **b) Ed Podolak ~~c) Kimble Anders ~~d) Otis Taylor
+##864
+Who is the Chiefs' all-time leader in receiving yards?
+**a) Otis Taylor ~~b) Chris Burford ~~c) Carlos Carson ~~d) Henry Marshall
+##865
+Who holds the Chiefs' record for receiving yards in a season?
+~~a) Otis Taylor ~~b) Chris Burford **c) Carlos Carson ~~d) Henry Marshall
+##866
+What Chiefs player set an NFL record (later broken) with 309 receiving yards in a game?
+~~a) Otis Taylor **b) Stephone Paige ~~c) Carlos Carson ~~d) Ed Podolak
+##867
+Who is the Chiefs' all-time leader in touchdown receptions?
+**a) Otis Taylor ~~b) Chris Burford ~~c) Carlos Carson ~~d) Henry Marshall
+##868
+Who is the Chiefs' all-time leader in interceptions?
+**a) Emmitt Thomas ~~b) Johnny Robinson ~~c) Albert Lewis ~~d) Kevin Ross
+##869
+Who holds the Chiefs' record for most touchdown receptions in a season?
+~~a) Otis Taylor **b) Chris Burford ~~c) Carlos Carson ~~d) Henry Marshall
+##870
+Who holds the Chiefs' record for interceptions in a season?
+**a) Emmitt Thomas ~~b) Johnny Robinson ~~c) Albert Lewis ~~d) Kevin Ross
+##871
+What number did Chiefs quarterback Len Dawson wear?
+~~a) 3 ~~b) 7 ~~c) 12 **d) 16
+##872
+What number did Chiefs kicker Jan Stenerud wear?
+**a) 3 ~~b) 7 ~~c) 12 ~~d) 16
+##873
+What number did Chiefs running back Abner Haynes wear?
+~~a) 20 ~~b) 22 **c) 28 ~~d) 30
+##874
+What number did Chiefs defensive tackle Buck Buchanan wear?
+~~a) 63 ~~b) 78 **c) 86 ~~d) 98
+##875
+What number did Chiefs linebacker Bobby Bell wear?
+~~a) 63 **b) 78 ~~c) 86 ~~d) 98
+##876
+What number did Chiefs linebacker Willie Lanier wear?
+**a) 63 ~~b) 78 ~~c) 86 ~~d) 98
+##877
+Who scored the Chiefs' lone touchdown in Super Bowl I?
+~~a) Otis Taylor ~~b) Mike Garrett **b) Curtis McClinton ~~d) Abner Haynes
+##878
+What team did the Chiefs defeat in the 1969 AFL Championship Game to advance to Super Bowl IV?
+~~a) Jets ~~b) Oilers **c) Raiders ~~d) Bills.
+##879
+What team did the Chiefs defeat in the 1966 AFL Championship Game to advance to Super Bowl I?
+~~a) Jets ~~b) Oilers ~~c) Raiders **d) Bills
+##880
+What team drafted Chiefs coach Marty Schottenheimer?
+~~a) Chiefs ~~b) Browns ~~c) Steelers **d) Bills
+##881
+What position did Dolphins coach Jimmy Johnson play in college?
+~~a) linebacker ~~b) center ~~c) tight end **d) defensive tackle
+##882
+Dolphins coach Jimmy Johnson began his college coaching career at what school?
+~~a) Miami **b) Oklahoma State ~~c) Arkansas ~~d) Sam Houston State
+##883
+As a player, Dolphins coach Jimmy Johnson helped what college team win the 1964 national title?
+~~a) Miami ~~b) Oklahoma State **c) Arkansas ~~d) Missouri
+##884
+Dan Marino played his fifteenth season in 1997, tying the Dolphins' record held by:
+**a) Bob Kuechenberg ~~b) Bob Griese ~~c) Nat Moore ~~d) Don Strock
+##885
+Who holds the Dolphins' record for games played?
+~~a) Bob Kuechenberg **b) Dan Marino ~~c) Vern Den Herder ~~d) Garo Yepremian
+##886
+Who holds the Dolphins' record for consecutive starts?
+~~a) Bob Kuechenberg ~~b) Dan Marino ~~c) Jim Langer **d) Richmond Webb
+##887
+Dan Marino holds the Dolphins' record with nine Pro Bowl selections. Who ranks second with seven?
+~~a) Bob Griese ~~b) Jim Langer **c) Richmond Webb ~~d) Larry Csonka
+##888
+Who is the Dolphins' all-time leading scorer?
+**a) Garo Yepremian ~~b) Pete Stoyanovich ~~c) Uwe von Schamann ~~d) Mark Clayton
+##889
+What island was Dolphins kicker Garo Yepremian from?
+~~a) Malta **b) Cyprus ~~c) Elba ~~d) Corsica
+##890
+Who holds the Dolphins' record for points in a season?
+~~a) Garo Yepremian **b) Pete Stoyanovich ~~c) Uwe von Schamann ~~d) Mark Clayton
+##891
+Who holds the Dolphins' record for career touchdowns?
+~~a) Nat Moore ~~b) Mark Duper ~~c) Larry Csonka **d) Mark Clayton
+##892
+Mark Ingram caught 4 touchdown passes in a 1994 game to tie the Dolphins' record held by:
+~~a) Mark Duper ~~b) Mark Clayton **c) Paul Warfield ~~d) Nat Moore
+##893
+Who is the Dolphins' all-time leading rusher?
+**a) Larry Csonka ~~b) Mercury Morris ~~c) Tony Nathan ~~d) Jim Kiick
+##894
+Who holds the Dolphins' record for rushing yards in a season?
+~~a) Larry Csonka ~~b) Mercury Morris **c) Delvin Williams ~~d) Karim Abdul-Jabbar
+##895
+Who holds the Dolphins' record for rushing yards in a game?
+~~a) Larry Csonka **b) Mercury Morris ~~c) Tony Nathan ~~d) Jim Kiick
+##896
+Keith Byars's 77-yard run in 1993 equaled the Dolphins' record held by:
+~~a) Mercury Morris ~~b) Delvin Williams **c) Leroy Harris ~~d) Benny Malone
+##897
+Dan Marino and Bob Griese rank first and second on the Dolphins' list for career passing yards. Name the only other Dolphins quarterback with more than 5,000 passing yards:
+~~a) Don Strock **b) David Woodley ~~c) Earl Morrall ~~d) Scott Mitchell
+##898
+Who completed the Dolphins' longest pass (86 yards) ever?
+~~a) Dan Marino ~~b) David Woodley **c) Bob Griese ~~d) Don Strock
+##899
+Who caught the Dolphins' longest pass ever?
+~~a) Mark Duper ~~b) Mark Clayton ~~c) Nat Moore **d) Paul Warfield
+##900
+Who is the Dolphins' all-time leader in receptions?
+~~a) Mark Duper **b) Mark Clayton ~~c) Nat Moore ~~d) Paul Warfield
+

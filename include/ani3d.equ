@@ -1,0 +1,117 @@
+# animation commands
+
+		.equ	ANI_NOP,		0x00		# nothing( void )
+		.equ	ANI_END,		0x81		# end of script( void )
+		.equ	ANI_NEWSEQ,		0x82		# change sequences( word )
+		.equ	ANI_SKIPFRAMES,	0x83		# skip n frames in sequence( byte )
+		.equ	ANI_SETMODE,	0x84		# set animode( word )
+		.equ	ANI_GOTO,		0x85		# jump( word )
+		.equ	ANI_WAITTRUE,	0x86		# wait until function returns true( word )
+		.equ	ANI_CODE,		0x87		# call function with 3 args( word, word, word )
+		.equ	ANI_ZEROVELS,	0x88		# zero velocities( void )
+		.equ	ANI_SETPLYRMODE,0x89		# set player mode( byte )
+		.equ	ANI_SETFLAG,	0x8A		# or (word) with player flags
+		.equ	ANI_CLRFLAG,	0x8B		# andn (word) with player flags
+		.equ	ANI_INTTOSEQ,	0x8C		# (char)ticks to sequence(word), frame(char)
+		.equ	ANI_RNDWAIT,	0x8D		# wait (on whatever frame) for (byte) ticks
+		.equ	ANI_RUNTOEND,	0x8E		# run rest of sequence, at (byte) ticks per frame
+		.equ	ANI_WAITHITGND,	0x8F		# wait until y=0
+		.equ	ANI_WAITTMINUS,	0x90		# wait until BYTE ticks from impact
+		.equ	ANI_INTSTREAM,	0x91		# interpolate to cover next (byte) frames in (byte) ticks
+		.equ	ANI_ZEROXZVELS,	0x92		# clear x and z velocities
+		.equ	ANI_SETVELS,	0x93		# set x, y, and z vels.  Takes three word arguments
+		.equ	ANI_SETYVEL,	0x94		# set y velocity (one word)
+		.equ	ANI_RUNTOFRAME,	0x95		# run to frame X (inclusive) at Y ticks per frame. (bytes)
+		.equ	ANI_SOUNDCALL,	0x96		# run sound call, 4 integer arguments
+		.equ	ANI_SETFRICTION,0x97		# set pobj friction value to (float)X.
+		.equ	ANI_SETCAMBOT,	0x98		# set cambot mode using table ptr (word)
+		.equ	ANI_SET_FACE_REL_VEL,0x99	# sets the players velocity (x or z) based on collided players facing direction
+		.equ	ANI_STREAMTOEND,0x9A		# run rest of sequence at (float) ticks per frame.
+		.equ	ANI_BZ,			0x9B		# branch to address (word1) if MODE_ZERO bit set
+		.equ	ANI_BNZ,		0x9C		# branch to address (word1) if MODE_ZERO bit not set
+		.equ	ANI_JIFSEQ,		0x9D		# if any of word(0)...word(n-1) matches current seq, branch to word(n)
+		.equ	ANI_JIFNSEQ,	0x9E		# if none of word(0)...word(n-1) matches current seq, branch to word(n)
+		.equ	ANI_JIFMODE,	0x9F		# if (animode&(word1)), branch to (word2)
+		.equ	ANI_PREP_XITION,0xA0		# set MODE_INTXITION flag, set vcount to (word1) and vframe to (word2)
+		.equ	ANI_ATTACK_ON,	0xA1		# bytes attmode, joint1, joint2, floats ext1, ext2, radius
+		.equ	ANI_ATTACK_OFF,	0xA2		# turn off attack mode
+		.equ	ANI_TURNHACK,	0xA3		# set MODE_TURNHACK bit and set hackval to (word1)
+		.equ	ANI_SHAKER,		0xA4		# set camera shaker at level (byte) for (word) ticks
+		.equ	ANI_LEAPATT,	0xA5		# hit player (word1) in limb (word2) after (word3) ticks, with a point
+											# offset (float4), (float5), (float6) from attacker's center.
+		.equ	ANI_CODE_BNZ,	0xA6		# ANI_CODE and then ANI_BNZ sort of rammed together.
+		.equ	ANI_LEAPAT_BALL,0xA7		# jump at ball, max xz vel (float1), min xz vel (float2)
+		.equ	ANI_CODE_BZ,	0xA8		# ANI_CODE and then ANI_BZ sort of rammed together.
+		.equ	ANI_LEAPAT_TGTX,0xA9		# jump at ball tx, max xz vel (float1), min xz vel (float2)
+		.equ	ANI_RUNTOFRAME32, 0xAA		# run to frame X (inclusive) at Y ticks per frame. (WORDS)
+
+
+# anim script tag.  precede every script with one of these.
+		.equ	SCRIPT,			0x80		# will execute as ANI_NOP
+
+# anim block indices -- duplicated in ani3D.h
+		.equ	ASB_GENSEQ,		0x00000		# shift left 16 bits
+		.equ	ASB_NOTUSED,	0x10000
+		.equ	ASB_LAST,		0
+
+# special arguments to various ANI commands -- duplicated in ani3D.h
+		.equ	AA_PROPFRAME,	-1			# frame index argument to ANI_INTTOSEQ.
+											# interpolate to proportional frame in
+											# new sequence.
+
+		.equ	AA_VAR_FRAME,	-2			# frame index argument to ANI_INTTOSEQ.
+											# get frame index from pani->vframe, which
+											# can be an actual count, or any AA_ value
+											# except AA_VAR_FRAME, which isn't checked.
+
+		.equ	AA_VAR_COUNT,	-1			# tick count argument to ANI_INTTOSEQ.
+											# get tick count from pani->vcount, which
+											# has to be a nonnegative integer.
+
+		.equ	AA_TOGROUND,	-1			# frame count argument to ANI_INTSTREAM.
+											# compute time to impact based on current
+											# velocity & gravity and stretch the stream
+											# until landing.
+
+		.equ	AA_TOEND,		-2			# frame count argument to ANI_INSTREAM.
+											# run all remaining frames in the sequence
+											# at float frames per tick. NOTE that the
+											# ticks argument, usually a byte, is a
+											# float in this case.
+
+		.equ	AA_RAND,		-1			# frame count argument to ANI_SKIPFRAMES.
+											# followed by two bytes.  Skip rand(byte1) +
+											# byte2 frames.
+
+		.equ	AA_TGT_CARRIER,		-1		# victim argument to ANI_LEAPATT
+											# aim at ball carrier
+
+		.equ	AA_TGT_TARGET,		-2		# victim argument to ANI_LEAPATT
+											# aim at ppdata.throw_target
+
+# mode bits and masks -- duplicated in ani3D.h
+
+		.equ	MODE_END,			0x0001
+		.equ	MODE_UNINT,			0x0002
+		.equ	MODE_TWOPART,		0x0004
+		.equ	MODE_INTSTREAM,		0x0008
+		.equ	MODE_INTXITION,		0x0010
+        .equ    MODE_ROTONLY,       0x0020
+		.equ	MODE_ZERO,			0x0040
+		.equ	MODE_REACTING,		0x0080
+		.equ	MODE_CANBLOCK,		0x0100
+		.equ	MODE_NOCYL,			0x0200
+		.equ	MODE_STIFF_ARM,		0x0400
+		.equ	MODE_NOCATCH,		0x0800
+		.equ	MODE_RUNNING_PUSH,	0x1000
+
+		.equ	MODE_ANCHORY,		0x00010000
+		.equ	MODE_ANCHORXZ,		0x00020000
+		.equ	MODE_ANCHOR,		(MODE_ANCHORY|MODE_ANCHORXZ)
+
+		.equ	MODE_SECONDARY,		0x00040000
+		.equ	MODE_INTERP,		0x00080000
+		.equ	MODE_ANIDEBUG,		0x00100000
+		.equ	MODE_TURNHACK,		0x00200000
+		.equ	MODE_PUPPETEER,		0x00400000
+		.equ	MODE_PUPPET,		0x00800000

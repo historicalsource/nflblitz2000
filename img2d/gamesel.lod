@@ -1,0 +1,45 @@
+HFILE> \video\nfl\include\gamesel.h
+
+INPUT> gamesel.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> bs_selpg
+MIDST> OFF
+EXECUTE> gs_bg
+MAKEBAT> gamesel.bat gs_bg*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> gamesel.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> bs_lcovr,bs_rcovr
+MIDST> OFF
+EXECUTE> gs_fg
+MAKEBAT> gamesel.bat gs_fg*.tga texus -rn -mn -de -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> gamesel.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> bs_blitz,bs_show
+MIDST> OFF
+EXECUTE> gs_lg
+MAKEBAT> gamesel.bat gs_lg*.tga texus -rn -mn -de -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> gamesel.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> pw_blitz, pw_show
+MIDST> OFF
+EXECUTE> gs_pw
+MAKEBAT> gamesel.bat gs_pw*.tga texus -rn -mn -de -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> gamesel.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> gselfl01, gselfl02, gselfl03, gselfl04, gselfl05
+-----> gselfl06, gselfl07, gselfl08, gselfl09, gselfl10
+-----> gselfl11, gselfl12, gselfl13, gselfl14, gselfl15
+MIDST> OFF
+EXECUTE> gs_fl
+MAKEBAT> gamesel.bat gs_fl*.tga texus -mn -de -t argb1555 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

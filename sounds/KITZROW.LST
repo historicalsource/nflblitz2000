@@ -1,0 +1,56 @@
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: KITZROW.BNK
+
+Size of .BNK file including header: 4058 bytes ($FDA bytes)
+
+Size of playlist table: 8 bytes ($8 bytes)
+
+Size of playlist and sound data only: 3916 bytes ($F4C bytes)
+
+Checksum: $0483
+
+Total number of playlists: 2 ($2)
+
+Total number of sound files: 2 ($2)
+
+Average bit rate for bank: 26.2 kbits/sec
+
+Total linear amount of sound: 0:01.183 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       30.1    34.6  TK: (Tim) Kitzrow ... #1 (the announcer)
+  1    $0001   1       34.3    39.4  TK: (Tim) Kitzrow ... #2
+
+Total 2 Playlists
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TMKTZRW1         1780       72  0:00.553     25.75  HENRY -v6.75 -vb47 -vi7 -vt1 
+TMKTZRW2         2100       82  0:00.630     26.68  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 3
+
+
+Summary
+
+Total Average Bitrate:  26.2 kbits/sec
+Total Time:             0:01.183 minutes
+Total Number of .CMP's: 2
+Total Size of .CMP's:     3.79 kbytes

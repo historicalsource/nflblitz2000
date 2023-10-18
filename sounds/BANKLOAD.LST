@@ -1,0 +1,160 @@
+BANKLOAD (08/27/97, 12:36:40)
+
+Bank Name     Playlists   Data Size
+---------     ---------   ---------
+
+PATRIOTS.BNK           5     17.9 kB
+
+RAIDERS.BNK           5     15.7 kB
+
+RAMS.BNK              5     18.3 kB
+
+RAVENS.BNK            5     17.8 kB
+
+REDSKINS.BNK           5     19.7 kB
+
+SAINTS.BNK            5     16.6 kB
+
+SEAHAWKS.BNK           5     18.9 kB
+
+STEELERS.BNK           5     17.2 kB
+
+VIKINGS.BNK           5     19.0 kB
+
+INTRO.BNK            13    397.5 kB
+
+
+Total Sound Calls: 58
+
+Total Data Size: 558.5 kB
+
+
+PATRIOTS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+     0 $0000   -          -       -  STOP ALL SOUND
+
+     1 $0001   1       39.8    45.6  TK: New England ... (down by - leads by - etc.)
+     2 $0002   1       50.6    58.1  TK: The Patriots ... (down by - lead by - etc.)
+     3 $0003   1       73.7    84.5  TK: The New England Patriots ... (first position)
+     4 $0004   1      104.6   120.0  TK: ... the New England Patriots (second position)
+    11 $000B   1       35.2    40.3  TK: Harbaugh ...
+
+
+RAIDERS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    12 $000C   1       34.7    39.8  TK: Oakland ... (down by - leads by - etc.)
+    13 $000D   1       47.7    54.7  TK: The Raiders ... (down by - lead by - etc.)
+    14 $000E   1       59.4    68.2  TK: The Oakland Raiders ... (first position)
+    15 $000F   1       81.6    93.6  TK: ... the Oakland Raiders (second position)
+    22 $0016   1       35.2    40.3  TK: Harbaugh ...
+
+
+RAMS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    23 $0017   1       49.0    56.2  TK: St. Louis ... (down by - leads by - etc.)
+    24 $0018   1       41.0    47.0  TK: The Rams ... (down by - lead by - etc.)
+    25 $0019   1       77.0    88.3  TK: The St. Louis Rams ... (first position)
+    26 $001A   1       92.9   106.6  TK: ... the St. Louis Rams (second position)
+    33 $0021   1       35.2    40.3  TK: Harbaugh ...
+
+
+RAVENS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    34 $0022   1       43.9    50.4  TK: Baltimore ... (down by - leads by - etc.)
+    35 $0023   1       36.4    41.8  TK: The Ravens ... (down by - lead by - etc.)
+    36 $0024   1       85.4    97.9  TK: The Baltimore Ravens ... (first position)
+    37 $0025   1       85.8    98.4  TK: ... the Baltimore Ravens (second position)
+    44 $002C   1       44.4    50.9  TK: Testaverde ...
+
+
+REDSKINS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    45 $002D   1       45.6    52.3  TK: Washington ... (down by - leads by - etc.)
+    46 $002E   1       51.9    59.5  TK: The Redskins ... (down by - lead by - etc.)
+    47 $002F   1       82.5    94.6  TK: The Washington Redskins ... (first position)
+    48 $0030   1      105.5   121.0  TK: ... the Washington Redskins (second position)
+    55 $0037   1       35.2    40.3  TK: Harbaugh ...
+
+
+SAINTS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    56 $0038   1       38.5    44.2  TK: New Orleans ... (down by - leads by - etc.)
+    57 $0039   1       41.9    48.0  TK: The Saints ... (down by - lead by - etc.)
+    58 $003A   1       65.3    74.9  TK: The New Orleans Saints ... (first position)
+    59 $003B   1       82.0    94.1  TK: ... the New Orleans Saints (second position)
+    66 $0042   1       35.2    40.3  TK: Harbaugh ...
+
+
+SEAHAWKS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    67 $0043   1       35.6    40.8  TK: Seattle ... (down by - leads by - etc.)
+    68 $0044   1       53.6    61.4  TK: The Seahawks ... (down by - lead by - etc.)
+    69 $0045   1       78.3    89.8  TK: The Seattle Seahawks ... (first position)
+    70 $0046   1       95.4   109.4  TK: ... the Seattle Seahawks (second position)
+    77 $004D   1       35.2    40.3  TK: Harbaugh ...
+
+
+STEELERS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    78 $004E   1       33.9    38.9  TK: Pittsburgh ... (down by - leads by - etc.)
+    79 $004F   1       51.1    58.6  TK: The Steelers ... (down by - lead by - etc.)
+    80 $0050   1       86.2    98.9  TK: The Pittsburgh Steelers ... (first position)
+    81 $0051   1       99.6   114.2  TK: ... the Pittsburgh Steelers (second position)
+    88 $0058   1       35.2    40.3  TK: Harbaugh ...
+
+
+VIKINGS.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+    89 $0059   1       43.1    49.4  TK: Minnesota ... (down by - leads by - etc.)
+    90 $005A   1       47.3    54.2  TK: The Vikings ... (down by - lead by - etc.)
+    91 $005B   1       82.0    94.1  TK: The Minnesota Vikings ... (first position)
+    92 $005C   1       97.5   111.8  TK: ... the Minnesota Vikings (second position)
+    99 $0063   1       35.2    40.3  TK: Harbaugh ...
+
+
+INTRO.BNK: DCS 3.0G NFL Football Video Game (c) 1997 Midway Games - DWF
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+   100 $0064   1          -       -  Intro Music with Groove
+   101 $0065   1          -       -  Intro Groove only
+   102 $0066   1       81.2    93.1  TK: Midway presents ... 
+   103 $0067   1      104.6   120.0  TK: NFL Blitz #1
+   104 $0068   1       85.8    98.4  TK: NFL Blitz #2
+   105 $0069   1       95.0   109.0  TK: Are you ready for ...
+   106 $006A   1      189.6   217.4  TK: Midway presents NFL Blitz!! (#1) 
+   107 $006B   1      193.0   221.3  TTK: Are you ready for NFL Blitz!! (#2)
+   108 $006C   1          -       -  Intro Music with with Pre-Intro #1
+   109 $006D   1          -       -  Intro Music with with Pre-Intro #2
+   110 $006E   1       58.6    67.2  TK: Today's Matchup ...
+   111 $006F   1       36.4    41.8  TK: ... versus ... #2
+   112 $0070   1       36.4    41.8  TK: ... take on ... #1
+

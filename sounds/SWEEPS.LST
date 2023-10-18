@@ -1,0 +1,56 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/09/99 15:57:01) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: SWEEPS.BNK
+
+Size of .BNK file including header: 71466 bytes ($1172A bytes)
+
+Size of playlist table: 8 bytes ($8 bytes)
+
+Size of playlist and sound data only: 71324 bytes ($1169C bytes)
+
+Checksum: $A9B9
+
+Total number of playlists: 2 ($2)
+
+Total number of sound files: 2 ($2)
+
+Average bit rate for bank: 81.5 kbits/sec
+
+Total linear amount of sound: 0:06.996 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1      199.2   228.5  Win Sweepstakes
+  1    $0001   1      182.9   209.8  Lose Sweepstakes
+
+Total 2 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/09/99 15:57:01) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+SAFETY          35324      436  0:03.348     84.39  HENRY -v3.00 -vb95 -vi7 -vt0 
+WINSWEEP        35958      475  0:03.648     78.86  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/09/99 15:57:01) page 3
+
+
+Summary
+
+Total Average Bitrate:  81.5 kbits/sec
+Total Time:             0:06.996 minutes
+Total Number of .CMP's: 2
+Total Size of .CMP's:    69.61 kbytes

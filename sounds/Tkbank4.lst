@@ -1,0 +1,492 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: TKBANK4.BNK
+
+Size of .BNK file including header: 646798 bytes ($9DE8E bytes)
+
+Size of playlist table: 996 bytes ($3E4 bytes)
+
+Size of playlist and sound data only: 645668 bytes ($9DA24 bytes)
+
+Checksum: $90A7
+
+Total number of playlists: 172 ($AC)
+
+Total number of sound files: 175 ($AF)
+
+Average bit rate for bank: 22.8 kbits/sec
+
+Total linear amount of sound: 3:45.723 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       81.6    93.6  B2K TK: Oooh That had to hurt!
+  1    $0001   1      113.4   130.1  B2K TK: Oh somebody call the meat wagon!
+  2    $0002   1       75.3    86.4  TKN: Takes him down!
+  3    $0003   1       54.0    61.9  B2K TK: Oh Yeah!
+  4    $0004   1      132.3   151.7  TKN: Oww somebody peel him off the turf
+  5    $0005   1       56.5    64.8  B2K TK: De-cleated!
+  6    $0006   1      124.7   143.0  TKN: Awww he just ate him for lunch!
+  7    $0007   1      136.5   156.5  B2K TK: Oooh somebody scrape that guy off the field!
+  8    $0008   1      101.3   116.2  TK: He really nails 'im
+  9    $0009   1      108.0   123.8  TK: He nearly took his head off!
+  10   $000a   1       58.6    67.2  TKN: Mangles him!!
+  11   $000b   1       99.2   113.8  TK: Aawww he just levels him!
+  12   $000c   1       78.3    89.8  TKN: Throws him for a loss!
+  13   $000d   1       88.3   101.3  TKN: Flattens the Quarterback!!
+  14   $000e   1      103.8   119.0  TKN: Knocks him back into yesterday!
+  15   $000f   1       85.4    97.9  TKN: Just barely gets him!
+
+  22   $0016   1       52.3    60.0  TK: Fades back ...
+  23   $0017   1       46.9    53.8  TKN: ... backpedals ...
+  24   $0018   1       45.2    51.8  TKN: ... back from center
+  25   $0019   1       48.6    55.7  TKN: ... rolling left ...
+  26   $001a   1       42.7    49.0  TKN: ... rolling right ...
+
+  28   $001c   1       60.7    69.6  TKN: ... gets sacked!! (#2)
+  29   $001d   1       44.4    50.9  TKN: ... again!! (#2)
+  30   $001e   1      159.9   183.4  TK: ... has to eat the ball ... can't taste good
+  31   $001f   1       59.9    68.6  TK: He should've passed
+  32   $0020   1       28.9    33.1  TKN: ... lobs it ...
+  33   $0021   1       69.1    79.2  TKN: Terrible pass!!
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 2
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  34   $0022   1      139.0   159.4  TKN: The Hail Mary!! (#2)
+
+  36   $0024   1       44.8    51.4  TK: No pressure #2 ... 
+  37   $0025   1       83.7    96.0  TK: With the Rainbow! #2
+
+  39   $0027   1       38.1    43.7  B2K TK: ... lofts it ...
+  40   $0028   1       34.7    39.8  TKN: ... fires it!
+  41   $0029   1       82.5    94.6  TK: Oooooohhhh ....
+  42   $002a   1       70.3    80.6  TK: ... fires downfield ...
+  43   $002b   1       39.8    45.6  B2K TK: ... puts it up ...
+  44   $002c   1       40.6    46.6  TK: ... looking ... (#1)
+  45   $002d   1       46.9    53.8  TK:  ... with time ...
+  46   $002e   1       38.5    44.2  TK: ... laterals ...
+  47   $002f   1       39.8    45.6  TK: ... the screen ...
+  48   $0030   1       65.7    75.4  TK: ... jumps and throws! ...
+  49   $0031   1       63.6    73.0  B2K TK: ... jumps ... fires ...
+  50   $0032   1       44.4    50.9  TK: ... he fires!!
+  51   $0033   1       49.8    57.1  B2K TK: ... fires a rope ...
+  52   $0034   1       29.7    34.1  B2K TK: ... drills it ...
+  53   $0035   1       53.6    61.4  TK: ... he's got a man ...
+  54   $0036   1       62.4    71.5  TK: ... wide open #1 ... (pumped)
+  55   $0037   1       78.3    89.8  TKN: Too much on that pass
+  56   $0038   1       53.6    61.4  TKN: Underthrown
+  57   $0039   1       72.4    83.0  TK: ... he's opeennn!! (pumped)
+  58   $003a   1       62.4    71.5  TK: ... he's going loonnggg!! ... (pumped)
+  59   $003b   1       77.0    88.3  TK: ... going deep!! ... (pumped)
+  60   $003c   1      140.2   160.8  B2K TK: Wow that was even embarassing to watch!
+  61   $003d   1       84.1    96.5  TKN: Oh I can't believe it!
+  62   $003e   1      131.4   150.7  B2K TK: A truly disgusting play!
+  63   $003f   1       93.3   107.0  TKN: That was pathetic! (#2)
+  64   $0040   1       91.2   104.6  TK: I don't think he knew what play he called
+  65   $0041   1      108.8   124.8  B2K TK: Oh that was a terrible play!
+
+  70   $0046   1       47.3    54.2  TK: Kaboom!!
+  71   $0047   1       94.6   108.5  TKN: That's the Bomb! (#1)
+  72   $0048   1       78.7    90.2  TKN: Oh Baby!!
+  73   $0049   1       95.4   109.4  TKN: I love this game!
+  74   $004a   1      111.3   127.7  TKN: Oh my #1
+
+  77   $004d   1       67.8    77.8  TK: That was pure luck
+  78   $004e   1       68.6    78.7  TKN: Strong as a bull!
+  79   $004f   1       75.3    86.4  TKN: Carrying defenders!
+
+  82   $0052   1      111.8   128.2  TKN: That was a huge play!
+  83   $0053   1       87.1    99.8  TK: ... with the huge gain!
+  84   $0054   1       42.7    49.0  B2K TK: ... right there!
+  85   $0055   1       57.8    66.2  TKN: Makes the grab! (#2)
+  86   $0056   1       57.8    66.2  TKN: ... reels it in!
+  87   $0057   1       75.3    86.4  TKN: Right on the numbers
+  88   $0058   1       64.5    73.9  TKN: Makes the catch! (#1)
+  89   $0059   1       28.9    33.1  B2K TK: Yess!
+  90   $005a   1       72.4    83.0  TKN: Beautiful catch!!
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 3
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  91   $005b   1      100.5   115.2  TKN: Oh he caught the ball!!
+  92   $005c   1       92.5   106.1  TKN: Tattoos the receiver!
+
+  96   $0060   1       40.2    46.1  TKN: Incomplete
+  97   $0061   1       59.9    68.6  TKN: Can't come up with it!
+  98   $0062   1       36.0    41.3  TK: ... juggles it ...
+  99   $0063   1       95.4   109.4  TKN: Oh it was right there!
+  100  $0064   1       93.3   107.0  TK: You can put it on the board!
+  101  $0065   1       98.4   112.8  TKN: And he splits the uprights
+  102  $0066   1       79.1    90.7  TK: Tacks on the extra point
+  103  $0067   1       66.6    76.3  TK: They're goin' for two!
+
+  105  $0069   1       54.4    62.4  TK: ... no good!
+
+  109  $006d   1       54.8    62.9  TK: That sucked!
+
+  111  $006f   1       74.5    85.4  TK: They're lining up for the field goal
+
+  113  $0071   1       51.5    59.0  TK: The kick is up #1
+  114  $0072   1       98.4   112.8  TKN: And he splits the uprights
+  115  $0073   1       66.6    76.3  TK: ... and its good
+  116  $0074   1       54.4    62.4  TK: ... no good!
+  117  $0075   1       62.8    72.0  TKN: Terrible Kick!
+  118  $0076   1       41.4    47.5  TKN: It's blocked!!
+
+  122  $007a   1       61.5    70.6  TKN: The kick is blocked!!
+
+  126  $007e   1      122.6   140.6  B2K TK: Oh boy this is getting ugly!
+  127  $007f   1       97.1   111.4  TKN: They are really rubbing it in!
+
+  130  $0082   1       96.3   110.4  TK: That was a dagger!
+  131  $0083   1      122.2   140.2  TK: The nail in the coffin!
+
+  133  $0085   1       49.4    56.6  B2K TK: ... nothing there ...
+  134  $0086   1       39.3    45.1  TK: ... broken up ...
+
+  137  $0089   1       68.6    78.7  TKN: The pressure's on #2
+  138  $008a   1      115.1   132.0  TKN: This is a huge play (#1)
+  139  $008b   1       66.6    76.3  TKN: This is critical
+  140  $008c   1       72.8    83.5  B2K TK: What an idiot!
+  141  $008d   1      166.6   191.0  B2K TK: Get down party people ... get down!
+  142  $008e   1       55.7    63.8  B2K TK: He can't do that!
+  143  $008f   1       77.9    89.3  B2K TK: What the heck was that!?!
+  144  $0090   1      138.5   158.9  B2K TK: Call the paddy wagon this guy's out of control!
+  145  $0091   1      103.8   119.0  B2K TK: The total spaz move!
+  146  $0092   1      108.4   124.3  B2K TK: Now that was just mean!
+  147  $0093   1       64.9    74.4  B2K TK: What a spaz!
+  148  $0094   1       83.3    95.5  TK: Holy <bleep>'in <bleep>!!
+  149  $0095   1       48.6    55.7  B2K TK: Raucous!
+  150  $0096   1       32.6    37.4  TK: ... spins! ...
+  151  $0097   1       49.0    56.2  TK: ... the stiff arm ...
+  152  $0098   1       79.1    90.7  TK: ... just blows through!
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 4
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  153  $0099   1       50.2    57.6  TK: ... busts through! ...
+  154  $009a   1       61.9    71.0  TK: What a Move!!
+  155  $009b   1       40.2    46.1  TK: ... leaping ...
+  156  $009c   1       33.9    38.9  TK: ... jukes ...
+
+  160  $00a0   1       68.2    78.2  TKN: He ...
+  161  $00a1   1       32.6    37.4  TKN: ... go ...
+  162  $00a2   1       33.9    38.9  TKN: ... all ...
+  163  $00a3   1       77.4    88.8  TKN: ... the way!
+
+  165  $00a5   1      194.6   223.2  TKN: Decapitated him!! (#2) ... not really but ... 
+  166  $00a6   1      114.3   131.0  B2K TK: Decapitated him ... I think
+
+  170  $00aa   1       69.5    79.7  TKN: I would've passed it there
+  171  $00ab   1       72.8    83.5  TKN: They should've run the ball
+
+  175  $00af   1       73.7    84.5  TKN: He's making a run for it!
+  176  $00b0   1       70.3    80.6  TKN: ... decides to run ...
+  177  $00b1   1       44.4    50.9  TKN: Takes off!
+  178  $00b2   1       52.7    60.5  TKN: He's running with it!
+  179  $00b3   1       43.5    49.9  TKN: He's running ...
+  180  $00b4   1       97.1   111.4  TKN: He is burning up the field!
+  181  $00b5   1       91.2   104.6  TK: He is on fire!!! (#2)
+  182  $00b6   1       80.8    92.6  B2K TK: They're on a rampage!
+  183  $00b7   1       89.6   102.7  TKN: I can feel the heat up here!
+  184  $00b8   1       58.2    66.7  TKN: They're heating up
+  185  $00b9   1       83.7    96.0  TKN: They are on fire!
+  186  $00ba   1       91.2   104.6  TKN: They are unstoppable!
+
+  190  $00be   1       55.7    63.8  TK: Interception!!
+  191  $00bf   1       45.6    52.3  TKN: It's Picked off!! #1 ...
+  192  $00c0   1       94.2   108.0  TKN: ... and he's going the other way!
+
+  194  $00c2   1       42.7    49.0  TK: ... deflected ...
+  195  $00c3   1       22.6    25.9  TK: ... tipped ...
+  196  $00c4   1       34.3    39.4  TK: Fumble #2
+  197  $00c5   1       54.8    62.9  TKN: Loose ball!
+
+  200  $00c8   1       67.4    77.3  TK:  Touchdown #2
+
+  202  $00ca   1       63.2    72.5  TK: What a mongie!
+
+  204  $00cc   1       67.0    76.8  TKN: They're running out of time
+  205  $00cd   1       87.5   100.3  TKN: Time is winding down
+  206  $00ce   1       64.9    74.4  TK: Just seconds left
+
+  210  $00d2   1       55.7    63.8  TKN: He's got daylight!
+  211  $00d3   1       61.1    70.1  TKN: He's got room! #2
+
+  215  $00d7   1      106.3   121.9  TKN: This one is underway!
+
+  217  $00d9   1       56.9    65.3  TKN: That's teamwork
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 5
+
+
+Playlist Table (continued)
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+
+  219  $00db   1       67.8    77.8  B2K TK: They are going for it
+  220  $00dc   1       63.6    73.0  B2K TK: ... a risky call
+  221  $00dd   1       88.3   101.3  TKN: I like this play calling
+  222  $00de   1       59.9    68.6  TKN: What are they thinking?!?
+
+  230  $00e6   1      104.6   120.0  B2K TK: Oh he's gonna feel that one! #2
+  231  $00e7   1       49.0    56.2  TKN: Pounds him!!
+  232  $00e8   1       55.2    63.4  TKN: Flattens him!!
+  233  $00e9   1       49.0    56.2  TKN: Tattoos 'im!! (#2)
+
+  235  $00eb   1       92.5   106.1  TKN: Stiff-arms with the ball!!
+  236  $00ec   1      108.0   123.8  TKN: Oooh the ball to the face!!
+
+  240  $00f0   1       81.6    93.6  TKN: Ooooh lights out!!
+  241  $00f1   1       82.0    94.1  TKN: Knocks him senseless!
+
+  245  $00f5   1       38.5    44.2  TKN: Dodges him
+  246  $00f6   1       30.6    35.0  TKN: ... ducks
+  247  $00f7   1       61.9    71.0  TKN: Eludes the defender!
+  248  $00f8   1       59.0    67.7  TKN: Whatta move!! (#2)
+
+Total 172 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 6
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+2KCANTDO         3200      133  0:01.021     25.06  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KDECAP2         4874      273  0:02.097     18.60  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KDECLTD         2860      135  0:01.037     22.07  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KDRILLS         1566       71  0:00.545     22.98  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KEMBRSS         6406      335  0:02.573     19.92  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KFRROPE         2626      119  0:00.914     22.99  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KGETDWN         7760      398  0:03.057     20.31  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KGNFEE2         5742      250  0:01.920     23.93  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KGNGFRT         3496      162  0:01.244     22.48  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KHADHRT         4448      195  0:01.498     23.76  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KJMPFIR         2722      152  0:01.167     18.65  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KJSMEAN         5970      259  0:01.989     24.01  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KLOFTIT         1788       91  0:00.699     20.47  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KMWAGON         6090      271  0:02.081     23.41  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KNTHTHR         2372      118  0:00.906     20.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KOBGTUG         5548      292  0:02.243     19.79  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KOHYEAH         3336      129  0:00.991     26.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KPADDYW         7704      331  0:02.542     24.24  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KPUTSIU         2100       95  0:00.730     23.03  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KRAUCUS         1864      115  0:00.883     16.88  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KRGTTHR         2158      102  0:00.783     22.04  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KRISKY          3034      152  0:01.167     20.79  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KRMPAGE         4514      193  0:01.482     24.36  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KSCRPFF         6752      326  0:02.504     21.57  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KSPZMOV         5050      248  0:01.905     21.21  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KTRLDSG         6594      314  0:02.412     21.88  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KTRRBLP         5320      260  0:01.997     21.31  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KWHTHCK         3944      186  0:01.428     22.09  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KWIDIOT         3424      174  0:01.336     20.50  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KWSPAZ          3312      155  0:01.190     22.26  HENRY -v7.50 -vb47 -vi7 -vt3 
+2KYESS           1014       68  0:00.522     15.53  HENRY -v7.50 -vb47 -vi7 -vt3 
+BLEEP1           1562       62  0:00.476     26.24  HENRY -v5.00 -vb79 -vi7 -vt3 
+KZAGAIN2         2354      106  0:00.814     23.13  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZALL            2136       81  0:00.622     27.47  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZATELCH         6988      298  0:02.289     24.43  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBCKFRC         2078      108  0:00.829     20.04  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBCKPDL         2108      112  0:00.860     19.61  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBEAUCH         3976      173  0:01.329     23.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBLLFAC         5696      258  0:01.981     23.00  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBOMB1          4832      226  0:01.736     22.27  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZBRNUPF         4760      231  0:01.774     21.46  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZCARDFD         3656      180  0:01.382     21.16  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZCNTBEL         4732      200  0:01.536     24.65  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZCNTCUM         3006      143  0:01.098     21.90  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZCOULD          1870       72  0:00.553     27.05  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZCRTCAL         3316      159  0:01.221     21.72  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZDCDRUN         4010      168  0:01.290     24.86  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZDCP001         5112      247  0:01.897     21.56  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZDCPTA2         4638      208  0:01.597     23.23  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZDGSHIM         1992       92  0:00.707     22.55  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZDUCKS          1222       72  0:00.553     17.68  HENRY -v7.50 -vb47 -vi7 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 7
+
+
+Region Table (continued)
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+KZELUDFR         3306      148  0:01.137     23.27  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZFEELHT         4726      213  0:01.636     23.11  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZFLATQB         4116      211  0:01.620     20.32  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZFLTTNS         2176      131  0:01.006     17.30  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZFRESIT         2006       82  0:00.630     25.48  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZGNGOWY         5988      225  0:01.728     27.72  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZGO             1956       78  0:00.599     26.12  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZGOTDAY         3428      133  0:01.021     26.85  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZGOTRM2         3100      146  0:01.121     22.12  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZGTSSC2         2786      145  0:01.114     20.01  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHE             1786       70  0:00.538     26.58  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHEATUP         3578      139  0:01.068     26.81  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHERNNG         2340      104  0:00.799     23.44  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHGEPLY         6324      275  0:02.112     23.95  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHMARY2         9156      332  0:02.550     28.73  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZHUGPLY         6224      267  0:02.051     24.28  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZINCMP2         1952       96  0:00.737     21.18  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZITBLKD         1950       99  0:00.760     20.52  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZJBRLGT         4260      204  0:01.567     21.75  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZKCKBLK         2910      147  0:01.129     20.62  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZKNKSNS         4242      196  0:01.505     22.54  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZLIKPCL         3814      210  0:01.613     18.92  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZLOBSIT         1526       69  0:00.530     23.04  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZLOOSBL         2976      130  0:00.998     23.85  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZLUVGAM         5292      227  0:01.743     24.28  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZMCHPSS         3670      187  0:01.436     20.44  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZMKCTH1         3602      154  0:01.183     24.36  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZMKGRB2         3220      138  0:01.060     24.31  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZMKGRUN         3786      176  0:01.352     22.41  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZMNGLES         3102      140  0:01.075     23.08  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZOHBABY         4576      188  0:01.444     25.35  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZOHCTBL         6172      239  0:01.836     26.90  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZOHMY1          7530      266  0:02.043     29.49  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZONNMBR         4406      180  0:01.382     25.50  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZOOLOUT         4526      195  0:01.498     24.18  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZPCKOF2         2298      109  0:00.837     21.96  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZPLOFFT         6646      316  0:02.427     21.91  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZPOUNDS         2460      117  0:00.899     21.90  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZPRSSO2         3582      164  0:01.260     22.75  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRGHTTH         5486      228  0:01.751     25.06  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRLLNGL         2366      116  0:00.891     21.25  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRLLNGR         2428      101  0:00.776     25.04  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRLSIN          3338      137  0:01.052     25.38  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRNNGWT         3122      126  0:00.968     25.81  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRUBIN          5322      232  0:01.782     23.90  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZRUNTIM         3542      160  0:01.229     23.06  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZSAWBL2         4420      221  0:01.697     20.83  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZSHLDRN         3766      174  0:01.336     22.55  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZSPLTUR         4482      235  0:01.805     19.87  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZSTRBLL         3472      164  0:01.260     22.05  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTAKOFF         2602      106  0:00.814     25.57  HENRY -v7.50 -vb47 -vi7 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 8
+
+
+Region Table (continued)
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+KZTATOO2         2464      117  0:00.899     21.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTATOOR         4630      221  0:01.697     21.82  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTHEWAY         4862      185  0:01.421     27.38  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTHRLSS         4276      187  0:01.436     23.82  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTHROFR         4406      200  0:01.536     22.95  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTIMWND         5082      209  0:01.605     25.33  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTKIMDN         4268      180  0:01.382     24.70  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTMWRK1         2484      135  0:01.037     19.17  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTRBLKK         2900      149  0:01.144     20.27  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZTRBLPS         3124      165  0:01.267     19.72  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZUNDRTH         2880      128  0:00.983     23.44  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZUNDRW2         6080      254  0:01.951     24.93  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZUNSTOP         4790      218  0:01.674     22.89  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZWASPT2         3554      223  0:01.713     16.60  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZWHTMV2         3110      141  0:01.083     22.98  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZWHTTHK         2836      143  0:01.098     20.66  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZWLDPAS         3552      166  0:01.275     22.29  HENRY -v7.50 -vb47 -vi7 -vt3 
+KZYSTRDY         5398      247  0:01.897     22.76  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKBLWSTH         3520      189  0:01.452     19.40  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKBRKNUP         1808       94  0:00.722     20.04  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKBSTSTH         1922      120  0:00.922     16.68  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKDAGGER         4048      230  0:01.766     18.33  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKDFLCTD         1846      102  0:00.783     18.85  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKEATBLL         4118      176  0:01.352     24.37  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKFDBACK         2310      124  0:00.952     19.41  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKFKNSH           938       33  0:00.253     29.61  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKFMBLE2         1890       82  0:00.630     24.01  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKFRDWNF         3924      168  0:01.290     24.33  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKGLONG2         4200      149  0:01.144     29.36  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKGNGFR2         3256      159  0:01.221     21.33  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKGOIDP2         4034      184  0:01.413     22.84  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKGOTMAN         3254      128  0:00.983     26.48  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKHEFIRE         2298      106  0:00.814     22.58  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKHESOPN         4378      173  0:01.329     26.36  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKHOLYFS         2266       92  0:00.707     25.66  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKIDTHKW         4412      218  0:01.674     21.08  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKINTRCN         3232      133  0:01.021     25.31  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKITGOOD         3452      158  0:01.213     22.76  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKJGGLES         1986       86  0:00.660     24.06  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKJMPTHR         3614      157  0:01.206     23.98  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKJSTSCD         2932      155  0:01.190     19.70  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKJUKES          1190       81  0:00.622     15.30  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKKBOOM          2272      113  0:00.868     20.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKKCKUP1         2814      122  0:00.937     24.03  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKLATRLS         1758       92  0:00.707     19.90  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKLEAPNG         1930       96  0:00.737     20.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKLKING1         2064       97  0:00.745     22.16  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKLNNGFG         3478      178  0:01.367     20.35  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKLVLHIM         5780      236  0:01.812     25.51  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKMONGIE         3250      151  0:01.160     22.42  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKNAILIN         6880      292  0:02.243     24.54  HENRY -v7.50 -vb47 -vi7 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 9
+
+
+Region Table (continued)
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TKNAILSM         6086      241  0:01.851     26.31  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKNOGOOD         2884      129  0:00.991     23.29  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKNOPRS2         2056      107  0:00.822     20.02  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKONFIR2         4916      218  0:01.674     23.49  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKOOOH1          5566      197  0:01.513     29.43  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKPONBRD         4804      223  0:01.713     22.44  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKPURLCK         3176      162  0:01.244     20.42  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKRAINB2         3784      200  0:01.536     19.71  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKSHDPSS         2712      143  0:01.098     19.76  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKSPINS1         1280       78  0:00.599     17.09  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKSTFFRM         2252      117  0:00.899     20.05  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKSUCKED         2336      131  0:01.006     18.58  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTD2            3842      161  0:01.236     24.86  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTHSCRN         1912       95  0:00.730     20.96  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTIPPED          880       54  0:00.415     16.98  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTKEXPT         4412      188  0:01.444     24.45  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTOKHED         6672      258  0:01.981     26.94  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTSTGUD         4190      186  0:01.428     23.47  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKWHTMOV         3042      148  0:01.137     21.41  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKWIDOPN         3472      149  0:01.144     24.27  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKWTHHUG         4682      208  0:01.597     23.45  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKWTIME          2346      112  0:00.860     21.82  HENRY -v7.50 -vb47 -vi7 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/12/99 00:20:59) page 10
+
+
+Summary
+
+Total Average Bitrate:  22.8 kbits/sec
+Total Time:             3:45.723 minutes
+Total Number of .CMP's: 175
+Total Size of .CMP's:   627.46 kbytes

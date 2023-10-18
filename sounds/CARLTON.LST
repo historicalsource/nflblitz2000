@@ -1,0 +1,56 @@
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: CARLTON.BNK
+
+Size of .BNK file including header: 5042 bytes ($13B2 bytes)
+
+Size of playlist table: 8 bytes ($8 bytes)
+
+Size of playlist and sound data only: 4900 bytes ($1324 bytes)
+
+Checksum: $2708
+
+Total number of playlists: 2 ($2)
+
+Total number of sound files: 2 ($2)
+
+Average bit rate for bank: 27.1 kbits/sec
+
+Total linear amount of sound: 0:01.436 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       37.3    42.7  TK: Carlton ... #1
+  1    $0001   1       41.0    47.0  TK: Carlton ... #2
+
+Total 2 Playlists
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TMCRLTN1         2246       89  0:00.684     26.29  HENRY -v6.75 -vb47 -vi7 -vt1 
+TMCRLTN2         2618       98  0:00.753     27.83  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 3
+
+
+Summary
+
+Total Average Bitrate:  27.1 kbits/sec
+Total Time:             0:01.436 minutes
+Total Number of .CMP's: 2
+Total Size of .CMP's:     4.75 kbytes

@@ -1,0 +1,610 @@
+Blitz 2000 "To Do List" 
+
+09/21/99
+
+Code
+----
+	HIGH Priority
+	-------------
+FIXED		- Defense Audibles menu doesn't time out
+FIXED		- In NBA, Game Select timeout, transition comes on, goes off to NBA movie, but then comes back & stays!
+NOT IN 99	- NFL "Best of" icons on initialed player stats are broke; Grand Champ icon as well
+DONE		- NFL initialed player stats headers shows # of "30", needs to be "31"
+			- NBA initialed player stats headers are broke; ex. "Record" header not there
+
+			- Check & Do the SEATTLE Version! Needs to happen in next 1-2 weeks
+FIXED		- Fog powerup not being handled properly by Customize Game setting
+			- NOT FIXED: "To Join In" "Press Start" when game had just ended?
+DONE		- Fix sweeps glitch
+FIXED		- Fade Glitch from NFLPA Screen into Movie!
+WAIVED		- Showtime Audits are all messed up! Not tallied! Due to shared adj. stuff?
+			- Make it harder to block FG's
+			- Jets uniform is almost white - causes proble against white tms - fix?
+			- Brian & Paulo claim a crash-reboot while coining during an EXEC for the other game;
+				field test also reports resets but cause unknown
+
+DONE		- Reset Wide Camera powerup & make Customize setting overide it
+FIXED		- Customize Game Wide Camera doesn't seem to work
+WAY COOL NOW- Cap field goal odds to stop wild kicks
+DONE		- Audible Selectinon Sound
+FIXED		- Create a Play timing-out still doesn't exit properly
+FIXED		- Defensive play overlays (2 player mode only?) crash Audibles Selection in create a play
+MUCH BETTER	- Field goals need to be easier - drones too
+FIXED?		- Interception in the air @ sideline, shows msg, former offense knocks OB before
+				before he lands, another msg, Incomplete msg minus msg box, CRASH!
+FIXED		- 2 player NBA to NFL select crashes NFL with no active plyr (with NBA plyr 2)
+DONE		- 2 player lores/text/sprite positioning needs to be checked!
+FIXED		- 2 player NFL Final Stats don't line up
+FIXED		- Attract Volume changes to & stays Game Volume during NFL attract gameplay
+FIXED		- NBA & NFL Volume/Attract Volume can be different
+FIXED		- Most Customize Game settings are cleared again going into VS screen
+FIXED		- Titans v. Colts & Bears jerseys
+FIXED		- Denver v. Detriot uniforms too similar
+FIXED?		- Defensive audibles can't really be selected against offensive drones (humans too?);
+				auto-hike times out for drones (what about human offensive hike overriding too?)
+
+FIXED		- FG % display numbers are messed up; whole FG odds system thrashed/incomplete!
+DONE		- New end game winning screen (2d) and text
+
+DONE		- sprinkle camera move from help up puppet and ez celebrations into other seqs.
+RESOLVED	- Ask Bill D. about the ADD_HIDDEN_ADJUST() in NBA
+FIXED		- Adjust field selection for attract/game
+
+DONE		- Fix turbo double tap for Audibles
+FIXED		- Remove delay on button for field goal and punt
+
+FIXED		- Lores Powerup text positions got messed up somehow!!
+DONE		- Added trivial reject to player shadow draw to (oughta) prevent game-time crashes
+DONE		- Fix unique randoms function
+DONE		- Announcer says "xxx WINS THE GAME" but for many teams he never gets to the "WINS THE GAME" part
+				^-- JESSIE CODE!f
+DONE		- Customize Game settings don't WANT priority (except Field & Fog)
+DONE		- Design Team credits page
+FIXED		- If date is incremented to January 1, 2000, Blitz "Date of Manufacture" responds
+				as just 100. (Y2K Compliant!)
+
+	MID Priority
+	------------
+			- "4th" string in clock box in upper left turns green
+DONE		- Random Playselect
+			- Fix guy trying to cross line of scrimmage before snap (db_unhappiness problem?)
+DONE		- Sprinkle end of play camera path calls to all new seqs. - look at other seqs that use it
+				they are currently very consistent - add some randomness
+			- Add audit tracking for sweeeps winners / losers
+DONE		- Animation Scripts
+FIXED		- Field Goals seem WAY to easy to make; adjust?
+			- Let's talk about a couple of drone things to fix - including DB alignment at start of a play
+			- Delay in punt anim for possible blockage
+DONE		- Arguments after plays when run into each other (puppet move)
+WAIVED		- Second man in motion logic and play scripts
+
+
+WAIVED		- Reload game_bnk during halftime to mix it up a bit
+WAIVED		- Buyin AFTER Halftime stats needs Buyin music (right now it plays coaching tip music)
+DONE		- Final stats page use game_over.bnk stuff!! (which is not being used currently!)
+
+
+	LOW Priority
+	------------
+			- Might want Show Audibles to be player-by-player instead of global
+WAIVED		- New camera paths for kick-offs etc
+ITS FIXED!	- VS screen bkgrnd/helmets/city names/city logos STILL vanish for no apparent reason;
+				they do all share the same obj ID but no del1c() is occuring
+
+Forden
+------
+FIXED		- Halftime tune has a high pitch/whine at start for several seconds
+FIXED		- Cursor snds louder on pick gm scrn
+FIXED		- Buyin tune needs base
+FIXED		- Final stats page is kinda sad
+
+Completed
+---------
+
+FIXED		- Full game plate appeared on top of wipe after I selected NFL
+DONE		- Make team play overlays 8 bit (232 ?)
+FIXED		- Some powerup icons on VS screen have ghosting in Lores
+FIXED		- Defensive audibles can't really be selected against offensive drones (humans too?);
+				auto-hike times out for drones (what about human offensive hike overriding too?)
+DONE		- NBA Sweeps need sparkles on number entry
+DONE		- Check taunt tables in taunt_speech
+FIXED		- No need for ALL DEFENDERS to glitch for an OFFENSIVE audible
+EXPLAINED	- Glitch on guys during lineup on defense
+DONE		- On pushed in back seq, make the velocity random
+DONE		- Fix set relative facing vel stuff in seqs.
+FIXED		- Customize Game settings don't get priority (except Field & Fog)
+DONE		- Add shadow box behind create a play exit text
+FIXED		- Defensive audibles bug if Punt Return or Block FG are audibled
+DONE		- Put back in the powerup to select extra plays - it can override the customize menu
+DONE		- Align powerup text on VS page that slides off edge of screen
+FIXED		- Sparkles left on Game Confirguration screen from Blitz logo on Team Select
+ON PURPOSE!	- No playselect powerup makes audibles unavailable (probably not updating "picked"
+				play in audibles table)
+DONE		- Ground sound hit on fall roll move
+
+FIXED		- NOLINE debug method stopped working
+DONE		- Taunts3 and Taunts4 new calls at end (4 in each) sound calls 50-53
+				for new touchdown or celebration stuff
+DONE		- Fix glitches in transitions in ATTRACT (NFL and NBA)
+DONE		- flash audible hint box, or add a big sparkle over the entire box to help
+				communicate that something new should be read
+
+
+DONE		- Blitz Midway Logo movie doesn't have sound
+FIXED		- If preferred team captain buys in during play, messes up audibles his teammate had going
+FIXED?		- Maybe change the timing of puff clouds that appear on heating up WR at line of scrimmage 
+DONE		- Need Default Audibles
+FIXED		- Customize game play menu times out if "Use up all credits" message had appeared; team select had other problems too!
+DONE		- Fade down rest of scrn before showing Customize game menu?
+DONE		- Add dust clouds to many seqs.
+DONE		- Game Select/Lockout logic
+DONE		- Full game plates want to work when switching games
+DONE		- Play Select Audits
+DONE		- Customize setting for Show Audibles needs to override combo selection
+DONE		- Activate all old endzone celebrations
+
+
+
+FIXED		- Play select yardage / team score text sorts above plates
+WORKS		- NBA load goes to a black screen - broken I guess
+DONE		- Maybe start wipe sooner after a game has been chosen?
+DONE		- Start wipe sooner after selecting option on 1,2,3 scrn
+DONE		- Fix bogus team stats that show 0
+DONE		- Fix helmet/header on attract Show Team Info page
+DONE		- Timer on Customize Game screen wants to SHOW more of the countdown
+FIXED		- VS screen shows wrong stadium when one is selected on Customize Game
+DONE		- Fix Safe Cover defenders to follow offensive audible
+FIXED		- Check/fix Lores Halftime screen;
+				Lores Final Stats bogus also
+FIXED		- Fake field goal shows up on "Free" point page in play select
+FIXED		- More friction on "Snow" field
+FIXED		- Bug if Original Play was custom & other Audibles were custom
+FIXED		- Announcer says "Blitz 99 trivia challenge"!
+DONE		- add flash to "Gold Edition" graphic on title page
+DONE		- add flash to "YES / NO" of Customize page
+FIXED		- Game Configuration buy-in crashes things!
+DONE		- Game Configuration item options menu wants current selection to flash
+FIXED		- Game Configuration needs to default to NO on timeout
+FIXED		- Japple boxes flick off & on when Customize Gameplay is selected
+FIXED		- Created Plays Info box in Initials entry has common ID's
+DONE		- Primary Receiver - In Game percentage table bumps
+FIXED		- What to do about Custom Play Audibles at the same time as "NO CUSTOM PLAYS"
+DONE		- Game Configuration Screen (between Team Select and Versus)
+DONE		- Game Configuration Screen needs some selection sounds (?)
+DONE		- Update both boot string information for B2K info
+
+DONE		- Add Winning / Losing tunes to Sweeps
+DONE		- Make sure we turn clock back on in CAP
+DONE		- Customize game scrn times out way too fast
+DONE		- Add show audible names as powerup
+DONE		- FG appeared at extra point time at end of 1st half
+DONE		- Ashphalt and dark is hard on the eyes - lighten
+DONE		- Linemen - no repeat lineups
+DONE		- Receivers - no repeat lineups
+DONE		- "Secret Plays" page powerup removed
+DONE		- Clear team play overlay when Extra Pt is displayed
+DONE		- active stick advances timer on option screen
+REMOVED		- Fix? Secret Play combos
+DONE		- "Show Audibles" powerup
+
+DONE		- New Features brought up to date for b2k
+DONE		- Team Specific plays 2d play select portion
+
+DONE		- Audible lineups only reset on the given team that is
+				call the audible
+DONE		- Put transition into NBA game select
+DONE		- Move up timeout numbers
+DONE		- Make flash go up and back down
+DONE		- Fix transition out of NBA game select TO NBA
+DONE		- put flashes into NFL
+DONE		- Reduce team select flashes by 30%
+DONE		- Put a bit more of a delay in Game selection sound and the transition
+				swoosh
+DONE		- put delay before game selection input
+DONE		- Add start_enable(TRUE) to credits_page
+DONE		- Cursors2 has audible menu sounds
+
+DONE		- Remove N64 text from CAP.C
+DONE		- Fix Transitions with "Please Wait" screens
+DONE		- Sweepstakes put into NBA and rewritten with new artwork
+DONE		- Remove Mug shot Images from IMG2D Make and all pointer references
+DONE		- Game Select Screen Pulse Cursor, Sparkles on cursor
+DONE		- Timeout on Game Select Screen
+DONE (JTA)	- Roster Update
+DONE (JTA)	- Show Field Goal Percentage not working
+DONE (JTA)	- Fix Camera after field goals.  Camera should return to player if
+				Successful..  Now it just holds on the uprights
+DONE (JTA)	- Add winning numbers to sweeps.txt file
+DONE (JTA)	- Audible Help Screen
+DONE (JTA)	- Audible Menu and Up / Down interface. (In game)
+DONE (JTA)	- Audible Working for 2player and 4 player.  Allow captian
+				to call audibles
+DONE (JTA)	- Field goal meter
+DONE (JTA)	- Front End - stick only read from who has coined in
+
+Art
+---
+
+			- Get new font for team select
+
+DONE		- Lighten grid_box artwork on Team Select screen
+DONE		- Sweepstakes artwork
+DONE		- Game configuration screen
+DONE		- New Features stuff
+			- 2d of custom plays for each team
+DONE		- NFL / NBA Switching background and "Loading, Please Wait..."
+				stuff
+DONE		- Highscore screens
+DONE		- End game screen
+DONE		- Field textures
+DONE		- Fix asphalt texture (too much gold)
+
+DONE (JH)	- Audible in-game box
+DONE		- Remove N64 from copyright notice in bkgnd.wif -> nfllegal
+DONE		- Cheerleader pics (clean up and put in 3 more cheerleaders)
+DONE (JH)	- Quarterback name / numbers for team select
+DONE (JH)	- Roster name / numbers for in game
+
+
+
+Misc
+----
+			- Camera paths
+DONE		- movie / new soundbank synching
+			- sound banks
+
+
+
+===========================================================================
+To Do List - 7/27/98  
+
+
+******** FIRE RULES ARE SPELLED OUT AT BOTTOM OF FILE
+******** ADD ALL NEW STUFF HERE FOR EVERYONE:
+
+			- auto-Tourney after 20 wins in NFL.C was all wrong;
+			    FIXED but make sure we want this rule as it currently stands
+			- run-time restart of "Text section is trashed" check in ATTRACT.C looks bogus:
+			    file name, start address
+			- alert player that play is saved when cap times out
+			- The sound gets all static like sometimes!  Like a blown speaker - multiple sightings
+			- Nintendo wants "Controller PAK" or "Controller PACK"?
+			- definitely have to fix the arm wave slide while white bug.
+			- turned fire off snd needs to play later so you can hear it
+DONE		- don't do bitch slap QB move when he is jumping in the air!
+DONE		- hear the huh huh huh monkey snd all the time when defense is on fire!
+			- miss the bowling pin snd sometimes - when it is a forward stiff arm
+			- fix goal line def from 20 yd line in - turbo on, adjust assignments
+			- fix bog - get Mike to look at this debug 5 yard line bog
+MAYBE		- vs page was just a black screen!
+			- drone QB is too spastic.  His passes get deflected 50% of time, we
+				should have a different deflect % for drone passes
+			- put the s back into credit: - the word freeplay needs all the space I was
+				trying to save, so why not let credits:00 overlap balls too.
+MAYBE		- when on fire and you get tackled, the ball carrier hits the ground but can be
+				pushed, slid, cylindered further down the field - like 5-10 yards further.
+				We need a play over when the tackle happens.
+DONE		- move team logos/city name further to the right in amode mugshot display
+DONE		- move right hand side names over to the left on same page
+DONE		- lateral from info whack out at kickoff start
+			- stay alert for bad tm color matchups and fix them in teamdata.c
+DONE		- play editor text as dictated by Nintendo - N64 controller pack - not memory card
+			- snds are getting cut off
+DONE		- stiff arm snd is weak - when ball is used?
+			- don't turn on fire for your cpu teammate.  Not needed.
+DONE		- heard tacks on xtra point speech for f.g.
+DONE		- play 2 explosion snds at same time
+DONE		- when DB pushes down WR, it is silent or real quiet
+DONE		- make getups faster - interceptions, etc.
+			
+
+##################################################################################################
+JASON
+##################################################################################################
+			- figure out why so many passes are missing
+			- in 2v2, make sure second human lines up over human receiver
+			- have drone QB hurdle away in a different direction than attacker
+			- drone QB is too spastic on quick passes
+			- guys on punt stand by ball and don't pick it up
+			- had a fumble into opponents endzone, touchback, but it doesn't register it as a lost
+				fumble
+			- longer passing range when on-fire?  Does this work?
+			- WR jumped OB for a catch
+			- need to address run around the corner against the drones
+			- need to address two human team getting guy on fire in a drone game - go knock
+				heating up guy down sometimes!
+			- when interception lands ob, the incomplete box appears on screen without a plate
+				old bug from first game - maybe new id stuff Jason did will solve it?
+			- I fumbled, my guys wouldn't go for loose ball, and I couldn't switch players
+				to try taking anyone over so I could go get it.  Lots of guys right nearby!
+				check if in lockup ? unint ? maybe break out of it
+			- strengthen goal line def, suicide blitz, etc.
+			- put in season rating feature like N64 Blitz
+			- improve drone QB - logic overall
+			- raidens hat is back side culled
+			- goal line defense has human controlled guy all the way to one side of screen (no lockup in red zone ?)
+			- PASSES GO OUT OF BOUNDS
+			- with new formations, and create a play, the man covering the man in motion glitches badly
+            - get drones into position for lateral from another drone!  If they are in trouble,
+				look for a dish off possibility (at point of contact...if drone open... lateral to him..handicap)
+			- Allow onside kicks at start of 2nd half
+            - get rid of saw tooth motion on QB
+            - make drones harder if human is on a >=4 game win streak!  Does this work?
+            - when a drone is running up field, even with blockers in front of him, he tends to
+                go to the sidelines, sometimes give him a wild hair and cut inside, this may cause a
+                bowling pin move, but even if it doesn't, it would be good variety!
+            - have drone WR stiff arm cheap shot DB when DB is trying to tackle him when ball is in air
+			- Have drones try to get on fire, and break up heating up WR's on other team
+			- audits for new plays - low priority
+DONE		- optimize CPU bog
+DONE		- don't do hurdle passes 100% of time - drones
+DONE		- guys can't pick up ball at their feet!  Happens in amode if you watch long enough...
+DONE		- allow drone WR's to push DB's - at least at line of scrimmage
+DONE		- make sure fifo check works for old hardware on streaming audio movie
+DONE		- 5 wins doesn't let me design more plays
+DONE		- automatic change player on QB when WR catches pass fwd of LOS and QB is offscreen
+DONE		- fire gets turned off when you do an onside kick
+DONE		- team on fire lost ball on downs but stayed on fire
+DONE		- powerup field selection stuff
+DONE		- sometimes the WR's don't highlight - 7/30/98
+DONE		- changing players from QB to go help block doesn't switch my guy to a teammate
+				downfield near the action - maybe the change player butn doesn't work while pass
+				is in air from QB -  that's when you want to change!
+
+##################################################################################################
+JEFF
+##################################################################################################
+DONE		- you can double lateral
+DONE		- enter a dash on create a play and you can't get plays during the game!
+			- put in new explosions art for on fire mode
+DONE		- music for diddies gets cutoff sometimes - 2pt conversion for sure
+			- don't drop ball so quickly after a tackle
+			- better yes/no cursor effect
+DONE		- bigger cursor on abc screen
+			- better yes/no on save play? feature in CAP - lightning effect
+ATTEMPT_1	- all hit snds are too weak - no loudness or pop - what happened?  7/8/98!
+				Lets get the old hit snds back from Forden
+DONE		- need speech call for helmet off
+			- unk cursor snd against wall cuts out other guys cursor snd
+DONE		- add turned off fire sound - wha wha wha
+			- N64 logo for attract mode and create a play
+			- sometimes hike ball over head of QB - drone or human!
+			- have ball bounce away up into air when tackled sometimes
+			- check to make sure buddy is in right position before doing the help up puppet move
+            - shards effect on big hits
+			- on team select page... if hit turbo button... show rosters
+            - have guy get up and celebrate his touchdown if he got tackled
+DONE        - put in scream/thud on new stiff arm with ball
+DONE        - put in random stop/breathe seqs, sometimes dive, some times take a couple more steps, etc.
+                this should be put into drone code
+			- new run seqs.
+DONE		- fix animations
+			- put in picked team celebrations, only if they look good!
+				they suck right now 7/8/98
+MAYBE		- bought in when someone was already on team select and my QB didn't appear.
+DONE		- CAP splash screen
+NO			- highlight WR while he is waving and he skids across screen without running
+				still happens alot - 7/8/98
+REALLY ?	- something happened to butt drop.  It is too low to ground now
+				looks normal most of time - low priority
+DONE		- use up all credits message on scrn, bought in a new guy, couldn't leave team sel scrn
+DONE		- turn hacks suck
+			- had a lateral happen 180 degrees away from the intended receiver - ball went and landed
+				where nobody was
+			- the QB bitch slap needs rules
+DONE		- bought in balls after 1st qrtr and the balls disappeared
+DONE		- big camera glitch on pickup over back puppet move
+DONE		- allow lateralling out of a catch
+DONE		- add the QB duck move and have defender cylinder off of him
+DONE		- it says plyr 3 is qb in 2 player games (with no teammate)
+DONE		- JEFF - the offscreen speedup is happening when I'm trying to cover a guy offscrn!
+				Then when the pass is thrown to that WR, I'm way far away from him and he has an
+				easy catch!  Disallow offscrn speedups until the ball has advanced over the LOS.
+DONE		- pain reaction getups glitch
+DONE		- don't do monkey moves against a guy if he is in endzone
+DONE		- don't do puffs once play has started
+DONE		- after on fire defense switched over to offense, the next play he ran glitched
+				the turnover on downs message onto the screen.  Even though it was going
+				to be second down
+DONE?		- lateraled to a teammate after an endplay camera spline had already started,
+				thus allowing guy to run while camera was moving - ala the blocked FG
+DONE		- monkey move needs speech call
+NO			- preload all tm sel textures?  Team sel still feels bad...
+DONE		- make head plow stiff arm be random with regular front stiff arm
+DONE		- do loud hit snds table when an intended WR gets stuck
+DONE		- get rid of NFLPA icon on vs page - put back in the old cheerleader icon
+DONE		- let plyr 4 expire, bought in on plyr 3 and the footballs disappeared
+DONE		- bought in balls after 1st qrtr and the balls disappeared
+DONE		- don't have an "end" on create play initials screen, the regular enter inits doesn't
+DONE		- when picking initials, pin #, a glitch apears around the cursor - about two letters
+				away, in a big square
+DONE		- bad sound cutoffs on play select - can't hear cursor or select snd
+				I think it is the hide cursor snd that kills others...  for too long?
+DONE		- need monkey move spch call upon start
+DONE		- on fire flames need to shrink when not on fire anymore - not stay static
+DONE		- when a guy tosses the ball away on a celebration, the yellow cursor appears near the
+				player in an incorrect spot.
+DONE		- when tackled guy drops ball, the yellow cursor appears way away from the action for a second or so...
+DONE		- get rid of fire on monkey moves
+DONE		- two name plates on stats pages when it is 4 player game
+DONE		- get different dirt clouds for astro turf
+DONE		- on screen communication of fire on/off for both def & off
+DONE		- on fire turbo meters
+DONE		- guy does arm wave in backfield - right off the snap - game testers have an idea
+				happens to guy who is blinking/heating up
+DONE		- guys do stiff arm sometimes without hitting turbo
+DONE		- you can dive right through a human WR down field?
+DONE		- put in "found created plays" plate after initials entered
+DONE		- get old bongo snds back for play select and menu selections
+DONE		- make sure we have I'm queer snd call back
+DONE		- make new struggle run happen only on defensive linemen
+DONE		- When 4 player gameD, always start player 1 & player 3 at QB - no randomness (set captian...at start)
+DONE		- player who buys in first (on team select), picks team
+DONE        - don't have taunts that face the ground happen when guy is standing
+DONE        - broken up speech call happens when I catch ball
+DONE        - Do smart celebration seqs.  Don't celebrate after a 90 yard run...etc
+DONE        - fix fire rules/code - this will change player tendencies, speeds, etc.
+NO          - knock nearby defensive guys down when fire ball is caught?
+DONE		- make a new transition - not the old rotate - just slam in from sides/above?
+
+##################################################################################################
+DAN
+##################################################################################################
+			- do a big head stick type code on tm select
+DONE		- do a powerup code on vs page that sets quarter times to 15 seconds for play testing
+				and also give human team 3 points!
+				remember to take it out for ship!
+DONE?		- missing lower left hand corner of general hints box at game start
+				possible overlap by score plate team logo
+FIXED		- camera stays looking at ball on FG at buzzer
+DONE		- trivia hi score page
+			- It needs polish, but I like the kickoff camera working in attract mode on a normal play
+			- do DAN camera rules - add cool shit camera paths in amode gameplay
+			- multi color football powerup
+FIXED		- camera glitches on pick up over back and toss away move - follows ball?
+FIXED		- make tournament mode eliminate the no highlight powerup
+DONE		- new features page needs whack thru, and we need to print text - the header is not centered
+DONE		- on trivia contest - 1-3 random pts for each question
+DONE		- make free game text screen different for 4 player game - left or right side of screen
+GOT'EM!		- instant replays
+			- some new camera angles
+			- put in a top view camera powerup - like the JASON drone debug camera
+DONE		- new field goal logic
+DONE		- new field goal camera that fixes glitch near goal posts and spins back around more smoothly
+DONE		- don't ever have PLEASE WAIT in free play mode
+			- new team photos for amode?
+            - do camera work that shows player face - zoom away or something
+DONE        - Win game finale show
+DONE?		- new credit page backdrop
+DONE?		- new highscore page backdrop
+DONE        - some day, highlight initials of the two players who just finished a game when we show the
+                high score pages.  We go to hiscore pages after each game when initials were entered to
+                allow player to see where he now ranks/stacks up!  We should highlight his name if it does
+                happen to appear!
+			- Do a powerup that must be agreed upon, "No fire allowed"
+			- Under some conditions, add two seconds to end of VS page in drone games.  The message will
+				read: "TOUGHER DRONES ACTIVATED" - then a series of powerups will flash under this message
+				alerting the player that he is in trouble.  This will only happen after 10 games of
+				experience.  It will not happen in games 20-30, because supposedly, tournament mode
+				is set for those games (We should check this).  The once a guy is a grand cchampion,
+				the drones always turn on some powerups on VS page.  Some of these powerups can be
+				bogus.  (Ex. Secret powerup #2 activated)
+DONE (TEXT LOWER)- text overlaps transition plates - make plates higher?
+
+##################################################################################################
+MARK
+##################################################################################################
+			- UPPERCUT IS BROKEN
+			- verify that eprom update still works
+			- fix some team colors
+			- make sure N64 reader works
+			- do roll camera for fall forward tackle seq
+DONE		- get tight on dance seqs.
+			- change FG formation, put kicker back 1 yard
+			- legal text needs comma's!  Verify text...
+DONE		- text runs off box when we show mugshots during gameplay
+				still happens - 8/2/98
+			- fix up create a play text
+			- do camera cut for ddt move
+			- add a high score page for best team play - new disk file of team initials - 300 max?
+				at end of game, if both players have initials, tally a win for this team
+				and place the best team winning % on the high score page
+			- new team mugshot scrn in amode
+			- equalize fumbles/fumbles lost stat so you don't have more lost than fumbles total
+DONE		- get rid of s in credits
+DONE		- allow text names to overlap each other during lineups!
+DONE		- Do a coaching tip(s) for fire rules
+			- put in new legal text
+			- the page 1 message doesn't line up on play select when in 2 player dip switch mode
+			- update rosters
+DONE		- get rid of block punt play
+            - fix some plays
+			- logos are not centered correctly on play select scrn at top of scrn
+DONE		- new coaching tips
+            - each team needs at least one unique play!
+            - look at lo-res game
+			- check out 2 plyr stuff...
+
+##################################################################################################
+ART STUFF
+##################################################################################################
+DONE		- get rid of s in credits
+			- put in new legal text - Luis
+			- Have two ending screens put in - Luis
+			- multi color football art
+			- old stadium
+			- two name plates on stats pages when it is 4 player game
+			- get different dirt clouds for astro turf
+			- better yes/no cursor effect
+			- bigger cursor on abc screen
+			- N64 logo for attract mode and create a play
+DONE		- on fire turbo meters
+DONE		- new credit page backdrop
+			- new highscore page backdrop - darker
+			- work with DAN on trivia contest - 1-3 random pts for each question
+			- new team photos for amode?
+			- new transition plate with blitz word on it looks bad
+			- Fix endzone colors so they don't perfectly match uniforms
+            - do kicker celebration seq or dejected seq upon a miss so Dan's camera can look at it
+            - arms pumping iron at line of scrimmage seq.
+            - pumping iron as celebration seq.
+            - do a moon walk TD seq.
+            - do TD dances that look like black guys
+
+##################################################################################################
+MIKE GROUP
+##################################################################################################
+            - put in full factory restore except player records
+            - put in full factory restore including player records
+
+
+
+***************************************************************************************************
+
+FIRE RULES
+
+DEFENSE:
+
+Activated after 2 consecutive losses by offensive team
+After first loss of yards, the entire defensive team blinks white at the LOS
+If 2nd loss was a sack (the usual way, jumping OB is another way), then do the Dan
+	camera work that does 3 quick cuts of the sack
+After the 2nd loss of yards, the player nearest the QB begins flaming non stop as he runs around
+	and we display a message above his teams turbo bar/bars that says: "TEAM 1 ON FIRE"
+If it was a drone team that just achieved fire, the player nearest the QB catches on fire and goes into
+	a taunt sequence
+
+The reward for Defensive fire:
+	- Entire team blinks red at LOS before the snap
+	- Entire team grows 5-10% in size
+	- The linebackers go into blood anim seq.
+X	- Super blitzing powerup turned on
+X	- Unlimited turbo
+X	- Create more bobbles when sticking a WR who just caught ball
+X	- Intercept more when jumping up to intercept - no bat downs
+	- Defensive fire carries over to offense.  The motion man is the "fire" receiver on offense
+
+Defensive fire goes away on any score or any first down
+
+OFFENSE:
+
+Activated after same guy catches 3 plays for a gain
+Heating up guy blinks white after 2 catches
+Upon hitting guy who is heating up, fire puffs ignite on body and ball.
+If he doesn't bobble ball, the ball continues to flame as he runs and a message appears
+	above that teams turbo meters that says: "TEAM 1 ON FIRE"
+
+The reward for Offensive fire:
+	- All 3 weapons blink red at LOS before snap
+	- "Super on fire WR" has smoke puffs at LOS before snap
+X	- The "Super on fire WR" will not bobble the ball once he touches it	
+X	- Unlimited turbo
+X	- No fumbles are allowed except for spin abuse
+	- QB gets one bitch slap of would be sacker
+X	- Monkey moves are activated
+X	- Super blocking powerup activated
+	- All passes are a super fast pass - no distinction between turbo/regular
+X	- No deflections of a pass are allowed - ball can still be intercepted if guy jumps up
+
+Offensive fire goes away on any loss of yards or any turnover - including punts
+ 

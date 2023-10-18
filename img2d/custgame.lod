@@ -1,0 +1,54 @@
+HFILE> \video\nfl\include\custgame.h
+OUTPUTXY> 256 256
+INPUT> custgame.wif
+-----> title, bar, barglow
+-----> label_audible, label_field, label_fog
+-----> label_camera, label_cpu, label_skill,label_playbook
+-----> opt_asphult, opt_asphultg
+-----> opt_astro, opt_astrog
+-----> opt_defaul2
+-----> opt_default, opt_defaultg
+-----> opt_dirt, opt_dirtg,
+-----> opt_easy, opt_easyg
+-----> opt_extra, opt_extrag
+-----> opt_exit
+-----> opt_grass, opt_grassg
+-----> opt_hard, opt_hardg
+-----> opt_hide, opt_hideg
+-----> opt_hide2
+-----> opt_mud, opt_mudg
+-----> opt_night, opt_nightg
+-----> opt_nocust, opt_nocustg
+-----> opt_nocust2
+-----> opt_none, opt_noneg
+-----> opt_normal, opt_normalg
+-----> opt_off, opt_offg
+-----> opt_on, opt_ong
+-----> opt_show, opt_showg
+-----> opt_show2
+-----> opt_snow, opt_snowg,
+#-----> opt_swamp, opt_swampg
+-----> opt_smogg, opt_smog
+-----> opt_thick, opt_thickg
+-----> opt_tourn, opt_tourng
+-----> opt_tourn2
+-----> opt_wide, opt_wideg
+-----> menu2, menu3, menu5
+-----> cpu, play, field, fog, skill, audible, camera
+-----> infobox, blank
+EXECUTE> cg
+MAKEBAT> custgame.bat cg*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+
+OUTPUTXY> 256 256
+INPUT> custgame.wif
+-----> yesno, cg_yes, cg_yn, cg_no, cg_alpha
+EXECUTE> cg_ts
+MAKEBAT> custgame.bat cg_ts*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+
+
+
+

@@ -1,0 +1,71 @@
+#*****************************************************
+# SNDCALLS.EQU  (ONLY SOUNDS USED in SEQUENCES !!!!!!)
+#*****************************************************
+
+    .equ    HS_WEAK,        0
+    .equ    HS_HARD,        1
+
+#
+# PRIORITIES
+#
+	.equ	PRIORITY_LVL0,		20
+	.equ	PRIORITY_LVL1,		15
+	.equ	PRIORITY_LVL2,		10
+	.equ	PRIORITY_LVL3,		5
+	.equ	PRIORITY_LVL4,		1
+	.equ	PRIORITY_LVL5,		0
+
+#
+# MISC. PLAYER SOUNDS
+#
+    .equ    P_GRND_HIT1_SND,		108
+    .equ    P_GRND_HIT_SOFT_SND,    113
+	.equ	P_HIT6_SND,			    6
+	.equ	P_THRW_BALL_SND,		97
+    .equ    P_CATCH_BALL_SND,       127
+    .equ    P_KICK_BALL_SND,        116
+    .equ    P_PUSH2_SND,            19
+    .equ    P_FLAILED_SND,          48
+    .equ    P_DIVESTRT_SND,         47
+    .equ    P_DIVEHIT_SND,          57
+    .equ    P_HURDLE_SND,           67
+#
+# MISC. PLAYER SPEECH
+#
+	.equ	P_DNT_GET_UP_SP,		88
+	.equ	P_RIP_LIMP_SP,			39
+	.equ	P_BEAT_LK_DOG_SP,		86
+	.equ	P_WOO_WOO_SP,			80
+	.equ	P_YEAH_BABY_SP,			81
+	.equ	P_BUST_U_UP_SP,			87
+	.equ	P_KNK_TMORW_SP,			84
+	.equ	P_U_MINE_SP,			85
+
+	.equ	P_KNEE_DUDE_SP,			91
+	.equ	P_BACK_OFF_SP,			49
+	.equ	P_OUTTA_MY_FACE_SP,		50
+
+	.equ	P_THRW_PLR_SP,			27
+	.equ	P_GET_THRWN1_SP,	   	28
+	.equ	P_GET_THRWN2_SP,		29
+	.equ	P_GET_THRWN3_SP,		69
+
+    .equ    P_HARD_HIT1_SND,        95
+    .equ    P_HARD_HIT2_SND,        96
+    .equ    P_HARD_HIT3_SND,        94
+
+	.equ	P_HIT2_SND,				2
+	.equ	P_HIT3_SND,				3
+
+    .equ    P_LONG_HUT_SP, 		    35
+
+
+    .equ    SPIN_SND,               133
+
+
+
+
+#*****************************************************************
+#  ANYTHING ABOVE HERE....MUST ALSO be in SNDCALLS.EQU
+#*****************************************************************
+

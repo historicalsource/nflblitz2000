@@ -1,0 +1,83 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/20/99 23:12:36) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: RAMS.BNK
+
+Size of .BNK file including header: 35436 bytes ($8A6C bytes)
+
+Size of playlist table: 84 bytes ($54 bytes)
+
+Size of playlist and sound data only: 35218 bytes ($8992 bytes)
+
+Checksum: $EE45
+
+Total number of playlists: 15 ($F)
+
+Total number of sound files: 15 ($F)
+
+Average bit rate for bank: 22.9 kbits/sec
+
+Total linear amount of sound: 0:12.180 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       49.0    56.2  TK: St. Louis ... (down by - leads by - etc.)
+  1    $0001   1       41.0    47.0  TK: The Rams ... (down by - lead by - etc.)
+  2    $0002   1       77.0    88.3  TK: The St. Louis Rams ... (first position)
+  3    $0003   1       91.7   105.1  TK: ... the St. Louis Rams (second position)
+
+  10   $000a   1       34.3    39.4  TK: QB Normal (Green)
+  11   $000b   1       23.4    26.9  TK: Weapon #1 Normal (Faulk)
+  12   $000c   1       31.4    36.0  TK: Weapon #2 Normal (Bruce)
+  13   $000d   1       21.3    24.5  TK: Weapon #3 Normal (Holt)
+  14   $000e   1       33.9    38.9  TK: "to" Weapon #1 (Faulk)
+  15   $000f   1       44.8    51.4  TK: "to" Weapon #2 (Bruce)
+  16   $0010   1       31.4    36.0  TK: "to" Weapon #3 (Holt)
+  17   $0011   1       50.2    57.6  TK: QB Pumped up (Green)
+  18   $0012   1       43.9    50.4  TK: Weapon #1 Pumped up (Faulk)
+  19   $0013   1       40.6    46.6  TK: Weapon #2 Pumped up (Bruce)
+  20   $0014   1       50.6    58.1  TK: Weapon #3 Pumped up (Holt)
+
+Total 15 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/20/99 23:12:36) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TKRAMS1          1956       97  0:00.745     21.01  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSTLOU1         2538      116  0:00.891     22.79  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSTLRM1         4502      184  0:01.413     25.49  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKSTLRM2         5362      219  0:01.682     25.50  HENRY -v6.75 -vb47 -vi7 -vt1 
+TKTM9P1          2448      105  0:00.806     24.29  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9P2          1784       97  0:00.745     19.16  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9P3          3024      121  0:00.929     26.03  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9Q1          1698       82  0:00.630     21.57  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9Q2          3070      120  0:00.922     26.65  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9T1          1572       81  0:00.622     20.22  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9T2          2162      107  0:00.822     21.05  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9T3          1434       75  0:00.576     19.92  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9W1          1154       56  0:00.430     21.47  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9W2          1240       75  0:00.576     17.22  HENRY -v7.50 -vb47 -vi7 -vt3 
+TKTM9W3           964       51  0:00.392     19.69  HENRY -v7.50 -vb47 -vi7 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/20/99 23:12:36) page 3
+
+
+Summary
+
+Total Average Bitrate:  22.9 kbits/sec
+Total Time:             0:12.180 minutes
+Total Number of .CMP's: 15
+Total Size of .CMP's:    34.09 kbytes

@@ -1,0 +1,335 @@
+HFILE> \video\nfl\include\general.h
+#CLIPPING> OFF
+#INPUT> brush50.wif
+#-----> BRSH50_A,BRSH50_B,BRSH50_C,BRSH50_D,BRSH50_E,BRSH50_F
+#-----> BRSH50_G,BRSH50_H,BRSH50_I,BRSH50_J,BRSH50_K,BRSH50_L
+#-----> BRSH50_M,BRSH50_N,BRSH50_O,BRSH50_P,BRSH50_Q,BRSH50_R
+#-----> BRSH50_S,BRSH50_T,BRSH50_U,BRSH50_V,BRSH50_W,BRSH50_X
+#-----> BRSH50_Y,BRSH50_Z,BRSH50_0,BRSH50_1,BRSH50_2,BRSH50_3
+#-----> BRSH50_4,BRSH50_5,BRSH50_6,BRSH50_7,BRSH50_8,BRSH50_9
+#-----> BRSH50AND,BRSH50APO,BRSH50COL,BRSH50COM,BRSH50DOL,BRSH50EXC
+#-----> BRSH50NUM,BRSH50PCT,BRSH50PER,BRSH50PRL,BRSH50PRR,BRSH50QUE
+#-----> BRSH50SLS
+#
+#EXECUTE> brsh50.tga
+#MAKEBAT> general.bat brsh50*.tga texus -mn -dn -t rgb332 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+
+CLIPPING> ON
+#INPUT> nflogo.wif
+#-----> nfl37,nfl38,nfl39,nfl40,nfl41,nfl42,nfl43,nfl44
+#-----> nfl45,nfl46,nfl47,nfl48,nfl49,nfl50,nfl51,nfl52
+#-----> nfl53,nfl54,nfl55,nfl56,nfl57,nfl58,nfl59,nfl60
+#-----> nfl61,nfl62,nfl63,nfl64,nfl65,nfl66,nfl67,nfl68
+#-----> nfl69,nfl70,nfl71,nfl72,nfl73,nfl74,nfl75,nfl76
+#-----> nfl77,nfl78,nfl79,nfl80,nfl81
+#EXECUTE> nflogo.tga
+#MAKEBAT> general.bat nflogo*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+
+#INPUT> TeamInfo.wif
+#-----> TI_Fade,TI_db,TI_lb,TI_qb,TI_rb,TI_wr
+#EXECUTE> tminfo.tga
+#MAKEBAT> general.bat tminfo*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+
+OUTPUTXY> 256 64
+
+INPUT> TeamInfo.wif
+-----> TI_ARI
+EXECUTE> ari.tga
+MAKEBAT> general.bat ari*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_ATL
+EXECUTE> ATL.tga
+MAKEBAT> general.bat ATL*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_BAL
+EXECUTE> bal.tga
+MAKEBAT> general.bat bal*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_BUF
+EXECUTE> BUF.tga
+MAKEBAT> general.bat BUF*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_CAR
+EXECUTE> CAR.tga
+MAKEBAT> general.bat CAR*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_CHI
+EXECUTE> CHI.tga
+MAKEBAT> general.bat CHI*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_CIN
+EXECUTE> CIN.tga
+MAKEBAT> general.bat CIN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_DAL
+EXECUTE> DAL.tga
+MAKEBAT> general.bat DAL*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_DEN
+EXECUTE> DEN.tga
+MAKEBAT> general.bat DEN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_DET
+EXECUTE> DET.tga
+MAKEBAT> general.bat DET*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_GRE
+EXECUTE> GRE.tga
+MAKEBAT> general.bat GRE*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_TEN
+EXECUTE> TEN.tga
+MAKEBAT> general.bat TEN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_IND
+EXECUTE> IND.tga
+MAKEBAT> general.bat IND*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_JAC
+EXECUTE> JAC.tga
+MAKEBAT> general.bat JAC*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_KAN
+EXECUTE> KAN.tga
+MAKEBAT> general.bat KAN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_MIA
+EXECUTE> MIA.tga
+MAKEBAT> general.bat MIA*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_MIN
+EXECUTE> MIN.tga
+MAKEBAT> general.bat MIN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_NE
+EXECUTE> NEW.tga
+MAKEBAT> general.bat NEW*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_NOR
+EXECUTE> NOR.tga
+MAKEBAT> general.bat NOR*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_NYG
+EXECUTE> NYG.tga
+MAKEBAT> general.bat NYG*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_NYJ
+EXECUTE> NYJ.tga
+MAKEBAT> general.bat NYJ*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_OAK
+EXECUTE> OAK.tga
+MAKEBAT> general.bat OAK*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_PHI
+EXECUTE> PHI.tga
+MAKEBAT> general.bat PHI*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_PIT
+EXECUTE> PIT.tga
+MAKEBAT> general.bat PIT*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_SAND
+EXECUTE> SAN.tga
+MAKEBAT> general.bat SAN*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_SANF
+EXECUTE> SFR.tga
+MAKEBAT> general.bat SFR*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_SEA
+EXECUTE> SEA.tga
+MAKEBAT> general.bat SEA*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_STL
+EXECUTE> STL.tga
+MAKEBAT> general.bat STL*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_TAM
+EXECUTE> TAM.tga
+MAKEBAT> general.bat TAM*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_WAS
+EXECUTE> WAS.tga
+MAKEBAT> general.bat WAS*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_CLE
+EXECUTE> CLE.tga
+MAKEBAT> general.bat CLE*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+
+
+OUTPUTXY> 256 128
+
+INPUT> TeamInfo.wif
+-----> TI_Cardinals
+EXECUTE> arinm.tga
+MAKEBAT> general.bat arinm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Falcons
+EXECUTE> ATLnm.tga
+MAKEBAT> general.bat ATLnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Ravens
+EXECUTE> balnm.tga
+MAKEBAT> general.bat balnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Bills
+EXECUTE> BUFnm.tga
+MAKEBAT> general.bat BUFnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Panthers
+EXECUTE> CARnm.tga
+MAKEBAT> general.bat CARnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Bears
+EXECUTE> CHInm.tga
+MAKEBAT> general.bat CHInm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Bengals
+EXECUTE> CINnm.tga
+MAKEBAT> general.bat CINnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Cowboys
+EXECUTE> DALnm.tga
+MAKEBAT> general.bat DALnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Broncos
+EXECUTE> DENnm.tga
+MAKEBAT> general.bat DENnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Lions
+EXECUTE> DETnm.tga
+MAKEBAT> general.bat DETnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Packers
+EXECUTE> GREnm.tga
+MAKEBAT> general.bat GREnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Titans
+EXECUTE> TENnm.tga
+MAKEBAT> general.bat TENnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Colts
+EXECUTE> INDnm.tga
+MAKEBAT> general.bat INDnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Jaguars
+EXECUTE> JACnm.tga
+MAKEBAT> general.bat JACnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Chiefs
+EXECUTE> KANnm.tga
+MAKEBAT> general.bat KANnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Dolphins
+EXECUTE> MIAnm.tga
+MAKEBAT> general.bat MIAnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Vikings
+EXECUTE> MINnm.tga
+MAKEBAT> general.bat MINnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Patriots
+EXECUTE> NEWnm.tga
+MAKEBAT> general.bat NEWnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Saints
+EXECUTE> NORnm.tga
+MAKEBAT> general.bat NORnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Giants
+EXECUTE> NYGnm.tga
+MAKEBAT> general.bat NYGnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Jets
+EXECUTE> NYJnm.tga
+MAKEBAT> general.bat NYJnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Raiders
+EXECUTE> OAKnm.tga
+MAKEBAT> general.bat OAKnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Eagles
+EXECUTE> PHInm.tga
+MAKEBAT> general.bat PHInm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Steelers
+EXECUTE> PITnm.tga
+MAKEBAT> general.bat PITnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Chargers
+EXECUTE> SANnm.tga
+MAKEBAT> general.bat SANnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_49ers
+EXECUTE> SFRnm.tga
+MAKEBAT> general.bat SFRnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Seahawks
+EXECUTE> SEAnm.tga
+MAKEBAT> general.bat SEAnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Rams
+EXECUTE> STLnm.tga
+MAKEBAT> general.bat STLnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Bucs
+EXECUTE> TAMnm.tga
+MAKEBAT> general.bat TAMnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> TI_Redskins
+EXECUTE> WASnm.tga
+MAKEBAT> general.bat WASnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+INPUT> TeamInfo.wif
+-----> ti_browns
+EXECUTE> CLEnm.tga
+MAKEBAT> general.bat CLEnm*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df | 
+
+
+OUTPUTXY> 256 256
+
+
+INPUT> colbars.wif
+-----> bars,hatch
+EXECUTE> colbar.tga
+MAKEBAT> general.bat colbar*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> bkgrnd.wif
+-----> blitztit,logo3dfx,nflpabg,cheer
+EXECUTE> titlpg.tga
+MAKEBAT> general.bat titlpg*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> bkgrnd.wif
+-----> nfllegal
+EXECUTE> nflegl.tga
+MAKEBAT> general.bat nflegl*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> bkgrnd.wif
+-----> hiscor1 hiscor2 
+#-----> hiscor3 hiscor4
+EXECUTE> hiscor.tga
+MAKEBAT> general.bat hiscor*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> bkgrnd.wif
+-----> helmet
+EXECUTE> helmet.tga
+MAKEBAT> general.bat helmet*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#INPUT> bkgrnd.wif
+#-----> mugbg
+#EXECUTE> mugbg.tga
+#MAKEBAT> general.bat mugbg*.tga texus -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> hiscore.wif
+-----> hs_bigwin,hs_bstdef,hs_bstoff,hs_bstpas,hs_grtplr
+-----> hs_bstrus,hs_curwin,hs_expplr,hs_grndch,hs_qbrate,hs_poptms,hs_wrldrc
+-----> hs_trivia
+EXECUTE> hiscr
+MAKEBAT> general.bat hiscr*.tga texus -dn -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+OUTPUTXY> 256 256
+INPUT> bkgrnd.wif
+-----> coin
+EXECUTE> coinbk
+MAKEBAT> general.bat coinbk*.tga texus -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+

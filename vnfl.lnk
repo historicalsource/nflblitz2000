@@ -1,0 +1,67 @@
+        org     $80100000
+
+        regs    pc=start
+
+text    group
+data    group
+bss     group   bss
+
+	section.8 .text,text
+	section.8 textend,text
+	section.8 .rdata,data
+	section.8 .ctors,data
+	section.8 .dtors,data
+	section.8 .data,data
+	section.8 .sdata,data
+	section.8 .sbss,bss
+	section.8 .bss,bss
+	section.8 memheap,bss
+		      
+	include "\video\lib\vcrt0.obj" 
+	include	"support.o"
+	include	"sysfont.o"
+	include	"freegame.o"
+	include	"sndinfo.o"
+	include	"unimhand.o"
+	include	"picinfo.o"
+	include	"movie.o"
+	include	"showpnam.o"
+	include	"getgaddr.o"
+	include	"audinfo.o"
+	include	"adjust.o"
+	include "result.o"
+	include	"data.o"
+	include	"data2.o"
+	include	"coin.o"
+	include	"field.o"
+	include	"sounds.o"
+	include	"mainproc.o"
+	include "main.o"
+	include	"playsel.o"
+	include	"attract.o"
+	include	"plyrinfo.o"
+	include	"cambot.o"
+	include	"detect.o"
+	include	"plyrseq.o"
+	include	"teamdata.o"
+	include	"playbook.o"
+	include "handicap.o"
+	include "pmisc.o"
+	include	"nfl.o"
+	include	"player.o"
+	include	"drone.o"
+	include "cap.o"
+	include "trivia.o"
+	include "jmalloc.o"
+	include	"sweeps.o"
+	include "game.o"
+	include "playstuf.o"
+	include "camdata.o"
+	include "grab.o"
+
+	inclib	"lib\select.a"
+	inclib	"lib\ani3d.a"
+	inclib	"\video\lib\libc.a"
+
+
+

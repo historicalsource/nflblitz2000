@@ -1,0 +1,193 @@
+#  
+# The following is a definition for plyrinfo.wif and its images.
+#
+HFILE> \video\nfl\include\smlogos.h
+INPUT> plyrinfo.wif
+#
+# Images.
+#
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_bears
+EXECUTE> l_bear
+MAKEBAT> smlogos.bat l_bear*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_49ers
+EXECUTE> l_49er
+MAKEBAT> smlogos.bat l_49er*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_bengals
+EXECUTE> l_beng
+MAKEBAT> smlogos.bat l_beng*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_bills
+EXECUTE> l_bill
+MAKEBAT> smlogos.bat l_bill*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_broncos
+EXECUTE> l_bron
+MAKEBAT> smlogos.bat l_bron*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_bucs
+EXECUTE> l_bucs
+MAKEBAT> smlogos.bat l_bucs*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_cards
+EXECUTE> l_card
+MAKEBAT> smlogos.bat l_card*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_chargers
+EXECUTE> l_char
+MAKEBAT> smlogos.bat l_char*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_chiefs
+EXECUTE> l_chie
+MAKEBAT> smlogos.bat l_chie*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_colts
+EXECUTE> l_colt
+MAKEBAT> smlogos.bat l_colt*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_cowboys
+EXECUTE> l_cowb
+MAKEBAT> smlogos.bat l_cowb*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_dolphins
+EXECUTE> l_dolp
+MAKEBAT> smlogos.bat l_dolp*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_eagles
+EXECUTE> l_eagl
+MAKEBAT> smlogos.bat l_eagl*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_falcons
+EXECUTE> l_falc
+MAKEBAT> smlogos.bat l_falc*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_giants
+EXECUTE> l_gian
+MAKEBAT> smlogos.bat l_gian*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_jaguars
+EXECUTE> l_jagu
+MAKEBAT> smlogos.bat l_jagu*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_jets
+EXECUTE> l_jets
+MAKEBAT> smlogos.bat l_jets*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_lions
+EXECUTE> l_lion
+MAKEBAT> smlogos.bat l_lion*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_titans
+EXECUTE> l_tita
+MAKEBAT> smlogos.bat l_tita*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_packers
+EXECUTE>  l_pack
+MAKEBAT> smlogos.bat l_pack*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_panthers
+EXECUTE> l_pant
+MAKEBAT> smlogos.bat l_pant*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_patriots
+EXECUTE> l_patr
+MAKEBAT> smlogos.bat l_patr*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_raiders
+EXECUTE> l_raid
+MAKEBAT> smlogos.bat l_raid*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_rams
+EXECUTE> l_rams
+MAKEBAT> smlogos.bat l_rams*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_ravens
+EXECUTE> l_rave
+MAKEBAT> smlogos.bat l_rave*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_redskins
+EXECUTE> l_reds
+MAKEBAT> smlogos.bat l_reds*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_saints
+EXECUTE> l_sain
+MAKEBAT> smlogos.bat l_sain*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_seahawks
+EXECUTE>  l_seah
+MAKEBAT> smlogos.bat l_seah*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_steelers
+EXECUTE> l_stee
+MAKEBAT> smlogos.bat l_stee*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_vikings
+EXECUTE> l_viki
+MAKEBAT> smlogos.bat l_viki*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> plyrinfo.wif
+OUTPUTXY> 128 128
+-----> L_browns
+EXECUTE> l_brow
+MAKEBAT> smlogos.bat l_brow*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

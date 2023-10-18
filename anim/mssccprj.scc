@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[seattle.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/anim", WEFAAAAA
+
+[vegas.mak]
+SCC_Aux_Path = "\\Ss_server1\phoenix_dev\"
+SCC_Project_Name = "$/video/Archive_Nfl/anim", WEFAAAAA

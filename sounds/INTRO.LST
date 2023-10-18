@@ -1,0 +1,79 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 11:59:03) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: INTRO.BNK
+
+Size of .BNK file including header: 477782 bytes ($74A56 bytes)
+
+Size of playlist table: 52 bytes ($34 bytes)
+
+Size of playlist and sound data only: 477596 bytes ($7499C bytes)
+
+Checksum: $3771
+
+Total number of playlists: 12 ($C)
+
+Total number of sound files: 15 ($F)
+
+Average bit rate for bank: 58.8 kbits/sec
+
+Total linear amount of sound: 1:04.850 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  1    $0001   1          -       -  Blitz '99 Intro - Groove Only
+  2    $0002   1       84.1    96.5  TK: Midway presents ... 
+  3    $0003   1      203.0   232.8  TK: NFL Blitz 2000 #1
+  4    $0004   1      203.0   232.8  TK: NFL Blitz 2000 #1
+  5    $0005   1      288.8   331.2  TK: Welcome to Blitz 2000
+  6    $0006   1      287.1   329.3  TK: Midway presents NFL Blitz 2000!!
+  7    $0007   1      288.8   331.2  TK: Welcome to Blitz 2000!!
+  8    $0008   1          -       -  Blitz '99 Intro
+  9    $0009   1          -       -  Blitz '99 Intro
+  10   $000a   1          -       -  Create Play Tune
+  11   $000b   1      317.7   364.3  TK: Are You Ready for NFL Blitz 2000!!
+  12   $000c   1       68.2    78.2  TK: Create a Play
+
+Total 12 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 11:59:03) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+2KCREATP         4262      162  0:01.244     27.40  HENRY -v7.00 -vb63 -vi7 -vr47 -vt3 
+2KWLCB2K        15802      689  0:05.292     23.89  HENRY -v7.00 -vb63 -vi7 -vr47 -vt3 
+CREATEP1        20462      367  0:02.819     58.08  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+CREATEP2         4796       91  0:00.699     54.90  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+CREATEP3        37454      642  0:04.931     60.77  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+CREATEP4        23366      367  0:02.819     66.32  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+CREATEP5       102016     1467  0:11.267     72.44  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+CREATEP6       101028     1558  0:11.965     67.55  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO20         19286      239  0:01.836     84.06  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO21         37972      473  0:03.633     83.62  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO22         38482      473  0:03.633     84.75  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+INTRO23         38710      474  0:03.640     85.07  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+TKMWYPRS         4742      200  0:01.536     24.70  HENRY -v7.00 -vb63 -vi7 -vr47 -vt3 
+TKNFLB2K        10782      484  0:03.717     23.21  HENRY -v7.00 -vb63 -vi7 -vr47 -vt3 
+TKRURF2K        17836      758  0:05.821     24.51  HENRY -v7.00 -vb63 -vi7 -vr47 -vt3 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (08/27/99 11:59:03) page 3
+
+
+Summary
+
+Total Average Bitrate:  58.8 kbits/sec
+Total Time:             1:04.850 minutes
+Total Number of .CMP's: 15
+Total Size of .CMP's:   465.82 kbytes

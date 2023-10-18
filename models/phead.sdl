@@ -1,0 +1,1292 @@
+DEFINITION	/* ALIAS SDL File Version 8.2 */
+			/* Apparently from wire file '/usr/people/luis/user_data/demo/wire/FBPOLY/nohelmet4'. */
+	version = 8.2;
+
+	xleft  = 0;
+	xright = 399;
+	ylow   = 0;
+	yhigh  = 399;
+	resolution = 400 400;
+	aalevelmin   = 0;
+	aalevelmax   = 12;
+	aathreshold  = 0.6;
+	post_filter   = OFF;
+	post_center   = 8;    /* Values for a bartlet filter. */
+	post_adjacent = 1;
+	post_diagonal = 1;
+
+	composite_rendering = OFF;
+	invisible_objects_cast_shadows = OFF;
+	image_format = ALIAS;
+	jitter       = ON;
+	reduced_samples = OFF;
+	textures_active    = ON;
+
+	clamp_bumpsize = 0.0;
+
+	up = yaxis;
+
+	motion_blur_on = OFF;
+	shutter_angle  = 144.0;
+	animation  = ON;
+	startframe      = 0.0;
+	endframe        = 100.0;
+	byframe         = 1.0;
+
+	extensionsize  = 3;
+	fields          = FALSE;
+	odd             = FALSE;
+	even            = FALSE;
+	odd_field_first = TRUE;
+
+	triple Camera#4_view(0.0, 0.0, 0.0);
+	triple Camera#4_up(0.0, 0.0, 0.0);
+	triple Camera#2_view(0.0, 0.0, 0.0);
+	triple Camera#2_up(0.0, 0.0, 0.0);
+
+	subdivision_recursion_limit = 2;
+	grid_cache = 4000;
+	bbox_memory = FULL;
+	rt_voxel_res_type = AUTOMATIC;
+
+	max_reflections             = 10;
+	max_refractions             = 10;
+	max_shadow_level            = 10;
+	preview_ray_trace           = OFF;
+
+	scalar pixel_aspect ( 1.0 );
+	hline_to_fill_color  = FALSE;
+	hline_fill_color     = (255.0, 255.0, 255.0);
+	hline_line_color     = (0.0, 255.0, 255.0);
+	hline_isoparam_u     = 0;
+	hline_isoparam_v     = 0;
+
+	show_particles       = TRUE;
+	simulation_substeps  = 1;
+	simulation_frames_per_second = 30;
+
+triple Lightview#2(0.0, 0.0, 0.0);
+triple Lightup#2(0.0, 0.0, 0.0);
+triple Lightview(0.0, 0.0, 0.0);
+triple Lightup(0.0, 0.0, 0.0);
+
+light Light#2 ( model = ambient,
+	active = ON,
+	exclusive = FALSE,
+	light_emission = ON,
+	color = (255.0, 255.0, 255.0),
+	shadow_color = (0.0, 0.0, 0.0),
+	intensity = 1.0,
+	force_type = OFF,
+	force_intensity = 1.0,
+	warp = OFF,
+	glow_type = OFF,
+	halo_type = OFF,
+	fog_type = OFF,
+	flare = OFF,
+	psys_emission = OFF,
+	shadow = FALSE,
+	soft_shadows = FALSE,
+	light_radius = 1.0,
+	shadow_samples = 2.0,
+	use_shadow_map = 0.0,
+	ambient_shade = 0.0
+);
+
+light Light ( model = ambient,
+	active = ON,
+	exclusive = FALSE,
+	light_emission = ON,
+	color = (255.0, 255.0, 255.0),
+	shadow_color = (0.0, 0.0, 0.0),
+	intensity = 1.0,
+	force_type = OFF,
+	force_intensity = 1.0,
+	warp = OFF,
+	glow_type = OFF,
+	halo_type = OFF,
+	fog_type = OFF,
+	flare = OFF,
+	psys_emission = OFF,
+	shadow = FALSE,
+	soft_shadows = FALSE,
+	light_radius = 1.0,
+	shadow_samples = 2.0,
+	use_shadow_map = 0.0,
+	ambient_shade = 0.0
+);
+
+texture armhnd (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/4jason/textures/uniforms/armhnd.tif",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = ON,
+        vwrap = ON,
+        invert = OFF
+);
+
+shader ARMHND ( model = lambert,
+        diffuse = 0.8,
+        color = armhnd,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture File#232 (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/4jason/textures/uniforms/slvmsk.tif",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = ON,
+        vwrap = ON,
+        invert = OFF
+);
+
+shader SLVMASK ( model = lambert,
+        diffuse = 0.8,
+        color = File#232,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture hedshu (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/4jason/textures/uniforms/hedshu.tif",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = ON,
+        vwrap = ON,
+        invert = OFF
+);
+
+shader HEDSHU ( model = lambert,
+        diffuse = 0.8,
+        color = hedshu,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture leghel (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/4jason/textures/uniforms/leghel.tif",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = OFF,
+        vwrap = OFF,
+        invert = OFF
+);
+
+shader LEGHEL ( model = lambert,
+        diffuse = 0.8,
+        color = leghel,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture File#233 (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/user_data/demo/pix/jersf.TIF",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = ON,
+        vwrap = ON,
+        invert = OFF
+);
+
+shader JERSF ( model = lambert,
+        diffuse = 0.8,
+        color = File#233,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture numbers (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/user_data/demo/pix/Pacnum.TIF",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = OFF,
+        vwrap = OFF,
+        invert = OFF
+);
+
+shader NUMBERS ( model = lambert,
+        diffuse = 0.8,
+        color = numbers,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+shader DefaultShader ( model = lambert,
+        diffuse = 0.8,
+        color = (0.0, 150.0, 255.0),
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture hedshu#2 (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/user_data/demo/pix/hedshu.TIF",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = OFF,
+        vwrap = OFF,
+        invert = OFF
+);
+
+shader HEDSHU#2 ( model = lambert,
+        diffuse = 0.8,
+        color = hedshu#2,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+polyset phead_obj (
+	active = ON,
+	motion_blur = OFF,
+	smooth = OFF,
+	doublesided = OFF,
+	opposite = OFF,
+	shader = (HEDSHU#2 ),
+	casts_shadow = FALSE,
+	vertices = ((cv((-0.701013, 5.674766, -0.425597), 1)),
+			(cv((-0.846745, 6.209607, -0.035893), 1)),
+			(cv((-0.814481, 6.582624, -0.546323), 1)),
+			(cv((-0.695497, 5.503754, -0.202692), 1)),
+			(cv((-0.824845, 6.286858, 0.165638), 1)),
+			(cv((-0.802822, 6.748295, 0.724678), 1)),
+			(cv((-0.516556, 6.941585, 0.937132), 1)),
+			(cv((-0.783567, 6.80045, 0.818706), 1)),
+			(cv((-0.019674, 5.836455, -0.864603), 1)),
+			(cv((-0.018598, 5.714695, -0.777595), 1)),
+			(cv((-0.871193, 6.952536, 0.089607), 1)),
+			(cv((-0.904739, 6.562525, 0.064598), 1)),
+			(cv((-0.618481, 7.359293, 0.036127), 1)),
+			(cv((-0.771003, 7.048166, -0.196874), 1)),
+			(cv((-0.752011, 7.00127, 0.843295), 1)),
+			(cv((-0.429011, 7.145525, -0.580052), 1)),
+			(cv((-0.479265, 7.395727, 0.807728), 1)),
+			(cv((-0.019091, 7.214507, 1.169136), 1)),
+			(cv((-0.019213, 7.474177, 0.79657), 1)),
+			(cv((-0.302928, 6.568264, -0.873487), 1)),
+			(cv((-0.019896, 7.290857, -0.591876), 1)),
+			(cv((-0.017261, 6.586925, -0.903003), 1)),
+			(cv((-0.019082, 7.499813, 0.037694), 1)),
+			(cv((0.566755, 6.156472, 0.937716), 1)),
+			(cv((-0.019139, 4.733981, -0.323228), 1)),
+			(cv((-0.739768, 6.215241, 0.6155), 1)),
+			(cv((-0.418525, 7.14429, 1.105356), 1)),
+			(cv((-0.357259, 7.007046, 1.007102), 1)),
+			(cv((-0.040108, 6.955215, 1.126526), 1)),
+			(cv((-0.737155, 6.44003, 0.63345), 1)),
+			(cv((-0.681522, 6.74557, 0.708978), 1)),
+			(cv((0.663061, 5.674766, -0.425597), 1)),
+			(cv((0.808792, 6.209607, -0.035893), 1)),
+			(cv((0.776528, 6.582624, -0.546323), 1)),
+			(cv((0.657545, 5.503754, -0.202692), 1)),
+			(cv((0.786892, 6.286858, 0.165638), 1)),
+			(cv((0.764869, 6.748295, 0.724678), 1)),
+			(cv((0.478604, 6.941585, 0.937132), 1)),
+			(cv((0.745615, 6.886715, 0.818706), 1)),
+			(cv((-0.056421, 6.354855, 1.159927), 1)),
+			(cv((0.207871, 5.102178, 0.96112), 1)),
+			(cv((0.83324, 6.952536, 0.089607), 1)),
+			(cv((0.866787, 6.562525, 0.064598), 1)),
+			(cv((0.580529, 7.359293, 0.036127), 1)),
+			(cv((0.733051, 7.048166, -0.196874), 1)),
+			(cv((0.723991, 7.03961, 0.843295), 1)),
+			(cv((0.391058, 7.145525, -0.580052), 1)),
+			(cv((0.441313, 7.395727, 0.807728), 1)),
+			(cv((-0.078792, 5.848731, 1.314265), 1)),
+			(cv((0.550711, 5.596772, 0.723255), 1)),
+			(cv((0.264976, 6.568264, -0.873487), 1)),
+			(cv((0.542515, 5.285224, 0.470888), 1)),
+			(cv((-0.020794, 6.586925, -0.903003), 1)),
+			(cv((-0.646164, 5.285102, 0.468857), 1)),
+			(cv((0.149605, 4.701261, 0.154803), 1)),
+			(cv((-0.195048, 4.701261, 0.15416), 1)),
+			(cv((0.701816, 6.215241, 0.6155), 1)),
+			(cv((0.380573, 7.24014, 1.124526), 1)),
+			(cv((0.319307, 7.007046, 1.007102), 1)),
+			(cv((-0.312526, 4.733564, -0.103918), 1)),
+			(cv((0.699203, 6.44003, 0.63345), 1)),
+			(cv((0.64357, 6.74557, 0.708978), 1)),
+			(cv((-0.633312, 6.170396, 0.931804), 1)),
+			(cv((-0.613329, 6.304141, 0.93968), 1)),
+			(cv((-0.102433, 6.352214, 1.134442), 1)),
+			(cv((0.520899, 6.529918, 0.99995), 1)),
+			(cv((0.519081, 6.312071, 0.94744), 1)),
+			(cv((-0.004287, 6.352138, 1.133485), 1)),
+			(cv((-0.216456, 5.801181, 1.148255), 1)),
+			(cv((-0.090398, 5.91403, 1.337504), 1)),
+			(cv((-0.014532, 5.914496, 1.338142), 1)),
+			(cv((-0.019327, 5.849551, 1.312765), 1)),
+			(cv((-0.650744, 5.629941, 0.728843), 1)),
+			(cv((-0.447101, 5.551732, 0.960518), 1)),
+			(cv((-0.633188, 6.540977, 0.997564), 1)),
+			(cv((0.121203, 5.804701, 1.148842), 1)),
+			(cv((0.311058, 5.551732, 0.960518), 1)),
+			(cv((-0.048483, 5.551732, 1.126926), 1)),
+			(cv((-0.062249, 6.463538, 1.241674), 1)),
+			(cv((0.254242, 4.733709, -0.111743), 1)),
+			(cv((-0.273376, 5.258948, 1.136998), 1)),
+			(cv((0.166974, 5.258948, 1.137974), 1)),
+			(cv((-0.329555, 5.103456, 0.955929), 1))	),
+	texture_vertices = (
+			st( 0.625570, 0.851171 ),
+			st( 0.618850, 0.888200 ),
+			st( 0.632139, 0.843458 ),
+			st( 0.678586, 0.879471 ),
+			st( 0.030522, 0.435215 ),
+			st( 0.900568, 0.789801 ),
+			st( 0.900568, 0.789801 ),
+			st( 0.678586, 0.879471 ),
+			st( 0.625855, 0.928917 ),
+			st( 0.021192, 0.615326 ),
+			st( 0.021879, 0.614690 ),
+			st( 0.021919, 0.614507 ),
+			st( 0.599681, 0.947386 ),
+			st( 0.730087, 0.960013 ),
+			st( 0.109691, 0.988766 ),
+			st( 0.109691, 0.988766 ),
+			st( 0.730087, 0.960013 ),
+			st( 0.616901, 0.961192 ),
+			st( 0.906490, 0.810959 ),
+			st( 0.906490, 0.809204 ),
+			st( 0.906490, 0.809204 ),
+			st( 0.907243, 0.809338 ),
+			st( 0.907243, 0.811092 ),
+			st( 0.906490, 0.809204 ),
+			st( 0.908061, 0.821381 ),
+			st( 0.808786, 0.776702 ),
+			st( 0.808786, 0.776702 ),
+			st( 0.808786, 0.776702 ),
+			st( 0.908061, 0.821381 ),
+			st( 0.908061, 0.821381 ),
+			st( 0.611977, 0.904220 ),
+			st( 0.599883, 0.902858 ),
+			st( 0.699847, 0.886093 ),
+			st( 0.652155, 0.883301 ),
+			st( 0.676855, 0.960020 ),
+			st( 0.768540, 0.889970 ),
+			st( 0.726721, 0.916654 ),
+			st( 0.944484, 0.959977 ),
+			st( 0.917038, 0.922214 ),
+			st( 0.808748, 0.799956 ),
+			st( 0.910112, 0.843392 ),
+			st( 0.906830, 0.806075 ),
+			st( 0.910040, 0.900796 ),
+			st( 0.512398, 0.771945 ),
+			st( 0.808311, 0.667324 ),
+			st( 0.634305, 0.899650 ),
+			st( 0.021059, 0.848174 ),
+			st( 0.021059, 0.848174 ),
+			st( 0.021059, 0.848174 ),
+			st( 0.019519, 0.848174 ),
+			st( 0.019519, 0.848174 ),
+			st( 0.893009, 0.960702 ),
+			st( 0.799682, 0.957870 ),
+			st( 0.912479, 0.954718 ),
+			st( 0.291597, 0.988566 ),
+			st( 0.291597, 0.988566 ),
+			st( 0.291597, 0.988566 ),
+			st( 0.291597, 0.988566 ),
+			st( 0.912479, 0.954718 ),
+			st( 0.912479, 0.954718 ),
+			st( 0.635544, 0.901627 ),
+			st( 0.028297, 0.918587 ),
+			st( 0.028297, 0.918587 ),
+			st( 0.633821, 0.958720 ),
+			st( 0.074448, 0.937672 ),
+			st( 0.074448, 0.937672 ),
+			st( 0.625570, 0.851171 ),
+			st( 0.629142, 0.895217 ),
+			st( 0.632139, 0.843458 ),
+			st( 0.678586, 0.879471 ),
+			st( 0.543633, 0.442822 ),
+			st( 0.696415, 0.790472 ),
+			st( 0.696415, 0.790472 ),
+			st( 0.696415, 0.790472 ),
+			st( 0.678586, 0.879471 ),
+			st( 0.601841, 0.931282 ),
+			st( 0.551581, 0.619883 ),
+			st( 0.551581, 0.619883 ),
+			st( 0.551581, 0.619883 ),
+			st( 0.599681, 0.949140 ),
+			st( 0.730087, 0.960013 ),
+			st( 0.477251, 0.988802 ),
+			st( 0.477251, 0.988802 ),
+			st( 0.616901, 0.961192 ),
+			st( 0.294640, 0.824460 ),
+			st( 0.374121, 0.394181 ),
+			st( 0.843921, 0.489212 ),
+			st( 0.611977, 0.904220 ),
+			st( 0.603313, 0.892331 ),
+			st( 0.699847, 0.886093 ),
+			st( 0.652155, 0.883301 ),
+			st( 0.676855, 0.960020 ),
+			st( 0.768540, 0.889970 ),
+			st( 0.726721, 0.916654 ),
+			st( 0.286542, 0.634667 ),
+			st( 0.473680, 0.600821 ),
+			st( 0.475221, 0.600821 ),
+			st( 0.473680, 0.602130 ),
+			st( 0.475221, 0.600821 ),
+			st( 0.473680, 0.602212 ),
+			st( 0.808748, 0.799956 ),
+			st( 0.488297, 0.471311 ),
+			st( 0.892444, 0.536937 ),
+			st( 0.892444, 0.536937 ),
+			st( 0.892444, 0.536937 ),
+			st( 0.622779, 0.813390 ),
+			st( 0.622779, 0.813390 ),
+			st( 0.488297, 0.471311 ),
+			st( 0.906830, 0.806075 ),
+			st( 0.097139, 0.463443 ),
+			st( 0.668319, 0.535156 ),
+			st( 0.668319, 0.535156 ),
+			st( 0.668319, 0.535156 ),
+			st( 0.976192, 0.815855 ),
+			st( 0.976192, 0.815855 ),
+			st( 0.893057, 0.362429 ),
+			st( 0.621652, 0.712416 ),
+			st( 0.672213, 0.360674 ),
+			st( 0.975280, 0.699142 ),
+			st( 0.599999, 0.957545 ),
+			st( 0.563080, 0.828634 ),
+			st( 0.564864, 0.828803 ),
+			st( 0.563080, 0.828634 ),
+			st( 0.565391, 0.829185 ),
+			st( 0.565391, 0.829185 ),
+			st( 0.893009, 0.960702 ),
+			st( 0.799682, 0.957870 ),
+			st( 0.899703, 0.676955 ),
+			st( 0.608100, 0.959522 ),
+			st( 0.564090, 0.909983 ),
+			st( 0.564090, 0.909983 ),
+			st( 0.601231, 0.960475 ),
+			st( 0.491016, 0.940960 ),
+			st( 0.491016, 0.940960 ),
+			st( 0.083833, 0.772537 ),
+			st( 0.087255, 0.816158 ),
+			st( 0.280803, 0.823607 ),
+			st( 0.487425, 0.894738 ),
+			st( 0.492987, 0.821016 ),
+			st( 0.310318, 0.823583 ),
+			st( 0.238990, 0.634749 ),
+			st( 0.282786, 0.655530 ),
+			st( 0.307339, 0.655692 ),
+			st( 0.305787, 0.634952 ),
+			st( 0.127705, 0.572275 ),
+			st( 0.127618, 0.572695 ),
+			st( 0.127705, 0.572275 ),
+			st( 0.127705, 0.572275 ),
+			st( 0.127705, 0.572275 ),
+			st( 0.161902, 0.539810 ),
+			st( 0.100492, 0.890824 ),
+			st( 0.351268, 0.635973 ),
+			st( 0.418690, 0.538055 ),
+			st( 0.290835, 0.538104 ),
+			st( 0.292887, 0.846193 ),
+			st( 0.696758, 0.676354 ),
+			st( 0.229394, 0.434420 ),
+			st( 0.361822, 0.434420 ),
+			st( 0.212499, 0.394593 ),
+			st( 0.719436, 0.489486 ),
+			st( 0.719436, 0.489486 ) ),
+	polygons = (
+		polygon ((2, 1, 0),(2, 1, 0), 0 ),
+		polygon ((4, 3, 1),(8, 3, 1), 0 ),
+		polygon ((7, 6, 5),(17, 13, 12), 0 ),
+		polygon ((9, 8, 0),(24, 18, 0), 0 ),
+		polygon ((11, 10, 5),(31, 30, 12), 0 ),
+		polygon ((10, 13, 12),(30, 33, 32), 0 ),
+		polygon ((10, 2, 13),(30, 2, 33), 0 ),
+		polygon ((7, 10, 14),(17, 30, 34), 0 ),
+		polygon ((13, 15, 12),(33, 35, 32), 0 ),
+		polygon ((18, 17, 16),(38, 37, 36), 0 ),
+		polygon ((15, 19, 21),(35, 39, 41), 0 ),
+		polygon ((16, 12, 22),(36, 32, 42), 0 ),
+		polygon ((1, 3, 0),(1, 3, 0), 0 ),
+		polygon ((82, 53, 72),(158, 109, 144), 0 ),
+		polygon ((0, 8, 19),(0, 18, 39), 0 ),
+		polygon ((12, 15, 20),(32, 35, 40), 0 ),
+		polygon ((25, 4, 5),(45, 8, 12), 0 ),
+		polygon ((14, 26, 27),(34, 51, 52), 0 ),
+		polygon ((17, 26, 16),(37, 51, 36), 0 ),
+		polygon ((11, 5, 1),(31, 12, 1), 0 ),
+		polygon ((6, 7, 14),(13, 17, 34), 0 ),
+		polygon ((10, 7, 5),(30, 17, 12), 0 ),
+		polygon ((14, 12, 16),(34, 32, 36), 0 ),
+		polygon ((10, 12, 14),(30, 32, 34), 0 ),
+		polygon ((2, 19, 15),(2, 39, 35), 0 ),
+		polygon ((46, 43, 22),(92, 89, 42), 0 ),
+		polygon ((13, 2, 15),(33, 2, 35), 0 ),
+		polygon ((4, 1, 5),(8, 1, 12), 0 ),
+		polygon ((2, 11, 1),(2, 31, 1), 0 ),
+		polygon ((27, 26, 17),(52, 51, 37), 0 ),
+		polygon ((11, 2, 10),(31, 2, 30), 0 ),
+		polygon ((26, 14, 16),(51, 34, 36), 0 ),
+		polygon ((6, 27, 28),(13, 52, 53), 0 ),
+		polygon ((29, 25, 5),(60, 45, 12), 0 ),
+		polygon ((30, 29, 5),(63, 60, 12), 0 ),
+		polygon ((30, 5, 6),(63, 12, 13), 0 ),
+		polygon ((2, 0, 19),(2, 0, 39), 0 ),
+		polygon ((31, 32, 33),(66, 67, 68), 0 ),
+		polygon ((32, 34, 35),(67, 69, 75), 0 ),
+		polygon ((36, 37, 38),(79, 80, 83), 0 ),
+		polygon ((34, 31, 8),(69, 66, 19), 0 ),
+		polygon ((36, 41, 42),(79, 87, 88), 0 ),
+		polygon ((43, 44, 41),(89, 90, 87), 0 ),
+		polygon ((44, 33, 41),(90, 68, 87), 0 ),
+		polygon ((45, 41, 38),(91, 87, 83), 0 ),
+		polygon ((43, 46, 44),(89, 92, 90), 0 ),
+		polygon ((47, 17, 18),(93, 37, 38), 0 ),
+		polygon ((20, 52, 50),(40, 108, 100), 0 ),
+		polygon ((18, 22, 43),(38, 42, 89), 0 ),
+		polygon ((31, 34, 32),(66, 69, 67), 0 ),
+		polygon ((57, 45, 37),(125, 91, 80), 0 ),
+		polygon ((50, 8, 31),(100, 20, 66), 0 ),
+		polygon ((22, 20, 46),(42, 40, 92), 0 ),
+		polygon ((36, 35, 56),(79, 75, 119), 0 ),
+		polygon ((37, 58, 57),(80, 126, 125), 0 ),
+		polygon ((47, 57, 17),(93, 125, 37), 0 ),
+		polygon ((32, 36, 42),(67, 79, 88), 0 ),
+		polygon ((45, 38, 37),(91, 83, 80), 0 ),
+		polygon ((36, 38, 41),(79, 83, 87), 0 ),
+		polygon ((47, 43, 45),(93, 89, 91), 0 ),
+		polygon ((45, 43, 41),(91, 89, 87), 0 ),
+		polygon ((46, 50, 33),(92, 100, 68), 0 ),
+		polygon ((50, 52, 8),(100, 108, 21), 0 ),
+		polygon ((46, 33, 44),(92, 68, 90), 0 ),
+		polygon ((36, 32, 35),(79, 67, 75), 0 ),
+		polygon ((32, 42, 33),(67, 88, 68), 0 ),
+		polygon ((28, 17, 57),(53, 37, 125), 0 ),
+		polygon ((41, 33, 42),(87, 68, 88), 0 ),
+		polygon ((47, 45, 57),(93, 91, 125), 0 ),
+		polygon ((28, 58, 37),(53, 126, 80), 0 ),
+		polygon ((36, 56, 60),(79, 119, 128), 0 ),
+		polygon ((36, 60, 61),(79, 128, 131), 0 ),
+		polygon ((37, 36, 61),(80, 79, 131), 0 ),
+		polygon ((50, 31, 33),(100, 66, 68), 0 ),
+		polygon ((62, 63, 64),(134, 135, 136), 0 ),
+		polygon ((65, 66, 67),(137, 138, 139), 0 ),
+		polygon ((68, 64, 69),(140, 136, 141), 0 ),
+		polygon ((69, 70, 71),(141, 142, 143), 0 ),
+		polygon ((25, 29, 74),(46, 61, 150), 0 ),
+		polygon ((75, 70, 67),(151, 142, 139), 0 ),
+		polygon ((75, 76, 77),(151, 152, 153), 0 ),
+		polygon ((78, 64, 74),(154, 136, 150), 0 ),
+		polygon ((65, 67, 78),(137, 139, 154), 0 ),
+		polygon ((74, 28, 78),(150, 54, 154), 0 ),
+		polygon ((80, 81, 82),(156, 157, 158), 0 ),
+		polygon ((48, 68, 69),(94, 140, 141), 0 ),
+		polygon ((49, 35, 51),(95, 76, 101), 0 ),
+		polygon ((49, 76, 23),(96, 152, 43), 0 ),
+		polygon ((69, 39, 70),(141, 84, 142), 0 ),
+		polygon ((67, 66, 23),(139, 138, 43), 0 ),
+		polygon ((71, 48, 69),(143, 94, 141), 0 ),
+		polygon ((61, 65, 37),(132, 137, 81), 0 ),
+		polygon ((78, 39, 64),(154, 84, 136), 0 ),
+		polygon ((28, 37, 65),(55, 82, 137), 0 ),
+		polygon ((25, 63, 62),(47, 135, 134), 0 ),
+		polygon ((51, 40, 76),(101, 85, 152), 0 ),
+		polygon ((81, 40, 82),(157, 85, 158), 0 ),
+		polygon ((30, 6, 74),(64, 14, 150), 0 ),
+		polygon ((80, 73, 77),(156, 149, 153), 0 ),
+		polygon ((35, 34, 51),(77, 70, 101), 0 ),
+		polygon ((53, 4, 72),(109, 9, 144), 0 ),
+		polygon ((73, 68, 77),(149, 140, 153), 0 ),
+		polygon ((56, 66, 65),(120, 138, 137), 0 ),
+		polygon ((77, 76, 81),(153, 152, 157), 0 ),
+		polygon ((70, 39, 67),(142, 84, 139), 0 ),
+		polygon ((74, 63, 25),(150, 135, 48), 0 ),
+		polygon ((68, 75, 77),(140, 151, 153), 0 ),
+		polygon ((48, 71, 75),(94, 143, 151), 0 ),
+		polygon ((28, 74, 6),(56, 150, 15), 0 ),
+		polygon ((40, 81, 76),(85, 157, 152), 0 ),
+		polygon ((75, 71, 70),(151, 143, 142), 0 ),
+		polygon ((56, 35, 49),(121, 78, 97), 0 ),
+		polygon ((67, 39, 78),(139, 84, 154), 0 ),
+		polygon ((75, 68, 48),(151, 140, 94), 0 ),
+		polygon ((65, 61, 60),(137, 133, 129), 0 ),
+		polygon ((64, 63, 74),(136, 135, 150), 0 ),
+		polygon ((3, 4, 53),(4, 10, 109), 0 ),
+		polygon ((64, 39, 69),(136, 84, 141), 0 ),
+		polygon ((65, 78, 28),(137, 154, 57), 0 ),
+		polygon ((74, 29, 30),(150, 62, 65), 0 ),
+		polygon ((80, 77, 81),(156, 153, 157), 0 ),
+		polygon ((4, 25, 72),(11, 49, 145), 0 ),
+		polygon ((80, 82, 73),(156, 158, 149), 0 ),
+		polygon ((65, 60, 56),(137, 130, 122), 0 ),
+		polygon ((72, 73, 82),(146, 149, 158), 0 ),
+		polygon ((51, 53, 82),(102, 110, 159), 0 ),
+		polygon ((40, 51, 82),(86, 103, 160), 0 ),
+		polygon ((53, 51, 54),(111, 104, 115), 0 ),
+		polygon ((54, 55, 53),(115, 117, 112), 0 ),
+		polygon ((59, 24, 9),(127, 44, 25), 0 ),
+		polygon ((34, 9, 24),(71, 26, 44), 0 ),
+		polygon ((24, 79, 34),(44, 155, 72), 0 ),
+		polygon ((9, 3, 59),(27, 5, 127), 0 ),
+		polygon ((59, 3, 53),(127, 6, 113), 0 ),
+		polygon ((34, 79, 51),(73, 155, 105), 0 ),
+		polygon ((79, 54, 51),(155, 116, 106), 0 ),
+		polygon ((53, 55, 59),(114, 118, 127), 0 ),
+		polygon ((76, 49, 51),(152, 98, 107), 0 ),
+		polygon ((68, 73, 62),(140, 149, 134), 0 ),
+		polygon ((62, 73, 72),(134, 149, 147), 0 ),
+		polygon ((75, 67, 23),(151, 139, 43), 0 ),
+		polygon ((56, 23, 66),(123, 43, 138), 0 ),
+		polygon ((76, 75, 23),(152, 151, 43), 0 ),
+		polygon ((68, 62, 64),(140, 134, 136), 0 ),
+		polygon ((56, 49, 23),(124, 99, 43), 0 ),
+		polygon ((25, 62, 72),(50, 134, 148), 0 ),
+		polygon ((0, 3, 9),(0, 7, 28), 0 ),
+		polygon ((21, 20, 15),(41, 40, 35), 0 ),
+		polygon ((22, 18, 16),(42, 38, 36), 0 ),
+		polygon ((57, 58, 28),(125, 126, 58), 0 ),
+		polygon ((20, 22, 12),(40, 42, 32), 0 ),
+		polygon ((27, 6, 14),(52, 16, 34), 0 ),
+		polygon ((21, 19, 8),(41, 39, 22), 0 ),
+		polygon ((17, 28, 27),(37, 59, 52), 0 ),
+		polygon ((8, 9, 34),(23, 29, 74), 0 ),
+		polygon ((50, 46, 20),(100, 92, 40), 0 ),
+		polygon ((43, 47, 18),(89, 93, 38), 0 )
+	)
+); /* end of polyset 'phead_obj' */
+
+ENVIRONMENT
+background ( 
+        color = (0.0, 0.0, 0.0)
+);
+shader_glow ( 
+,
+        glow_type =  LINEAR_GLOW,
+        halo_type =  LINEAR_GLOW,
+        auto_exposure = ON,
+        quality = 0.5,
+        threshold = 0.0,
+        glow_color = (100.0, 100.0, 100.0),
+        glow_intensity = 1.0,
+        glow_spread = 0.05,
+        glow_eccentricity = 0.1,
+        glow_radial_noise = 0.0,
+        glow_star_level = 0.0,
+        glow_opacity = 0.0,
+        halo_color = (100.0, 100.0, 100.0),
+        halo_intensity = 1.0,
+        halo_spread = 0.3,
+        halo_eccentricity = 0.1,
+        halo_radial_noise = 0.0,
+        halo_star_level = 0.0,
+        halo_lens_flare = 0.0,
+        rotation = 0.0,
+        radial_noise_frequency = 0.5,
+        star_points = 4.0
+);
+photo_effects ( 
+,
+        film_grain = 0.0,
+        filter = (255.0, 255.0, 255.0)
+);
+master_light ( 
+,
+        intensity = 1.0,
+        light_color = (255.0, 255.0, 255.0)
+);
+dynamics ( 
+,
+        gravity = 1.0,
+        air_density = 0.05,
+        Floor = ON,
+        floor_offset = 0.0,
+        ceiling = OFF,
+        ceiling_offset = 20.0,
+        left = OFF,
+        left_offset = -10.0,
+        right = OFF,
+        right_offset = 10.0,
+        front = OFF,
+        front_offset = -10.0,
+        back = OFF,
+        back_offset = 10.0,
+        wall_friction = 0.0,
+        wall_elasticity = 0.707,
+        turbulence_intensity = 0.0,
+        turbulence_spread = 0.5,
+        turbulence_persistence = 5.0,
+        turbulence_animated = ON,
+        turbulence_space_resolution =  16,
+        turbulence_time_resolution =  16,
+        turbulence_roughness = 0.5,
+        turbulence_variability = 0.5,
+        turbulence_granularity = 0.0
+);
+
+MODEL
+/* Only expression assignments should appear above this line and below the MODEL directive. */
+/* Placing any other commands in the above section will produce incorrect expression behaviour. */
+{
+	trn(0.0, 0.0, 12.0);
+	{
+		inst Light#2();
+	}
+	{
+		trn(-2.0, -2.0, 0.0);
+		Lightview#2 = current_position(( 0.0,  0.0,  0.0));
+	}
+	{
+		trn(0.0, 10.0, 0.0);
+		Lightup#2 = current_position(( 0.0,  0.0,  0.0));
+	}
+}
+{
+}
+{
+	{
+		trn(0.130813, 7.234932, 5.023695);
+		camera (
+			perspective = TRUE,
+			eye   = ( 0.0,  0.0,  0.0),
+			active = ON,
+			pix   = "pix/phedfuk",
+			view  = Camera#4_view,
+			up  = Camera#4_up,
+			aov = 55.0,
+			filmaperture_x = 0.4,
+			filmaperture_y = 0.285,
+			filmoffset_x = 0.0,
+			filmoffset_y = 0.0,
+			placement_fit_code = 0,
+			placement_shift = 0.0,
+			aspect   = pixel_aspect,
+			aspect_ratio_pixel = pixel_aspect,
+			near = 0.1,
+			far = 200.0,
+			depth_of_field = 0.0,
+			scaling_factor = 1.0,
+			f_stop = 3.5,
+			focal_distance = 12.0,
+			auto_focus = OFF,
+			motion_blur = 0.0
+		);
+	}
+	{
+		trn(0.869116, 6.285895, -0.2482);
+		Camera#4_view = current_position( (0, 0, 0) );
+	}
+	{
+		trn(0.155154, 8.219404, 4.849881);
+		Camera#4_up = current_position( (0, 0, 0) );
+	}
+}
+{
+	trn(0.0, 0.0, 12.0);
+	{
+		trn_ro(0.0, 0.0, -12.0);
+		trn_ri(0.0, 0.0, 12.0);
+		trn_so(0.0, 0.0, -12.0);
+		trn_si(0.0, 0.0, 12.0);
+		inst Light();
+	}
+	{
+		trn(-2.0, -2.0, 0.0);
+		Lightview = current_position(( 0.0,  0.0,  0.0));
+	}
+	{
+		trn(0.0, 10.0, 0.0);
+		Lightup = current_position(( 0.0,  0.0,  0.0));
+	}
+}
+{
+}
+{
+	trn_ro(0.0, 0.0, 0.0);
+	trn_ri(0.0, 0.0, 0.0);
+	trn_so(0.0, 0.0, 0.0);
+	trn_si(0.0, 0.0, 0.0);
+	{
+		trn_ro(0.0, 0.538738, -0.009855);
+		trn_ri(0.0, -0.538738, 0.009855);
+		trn_so(0.0, 0.538738, -0.009855);
+		trn_si(0.0, -0.538738, 0.009855);
+		{
+			trn_ro(0.0, 4.470817, 0.012909);
+			trn_ri(0.0, -4.470817, -0.012909);
+			trn_so(0.0, 4.470817, 0.012909);
+			trn_si(0.0, -4.470817, -0.012909);
+			{
+				trn_ro(-2.422922, 4.484859, -0.009255);
+				trn_ri(2.422922, -4.484859, 0.009255);
+				trn_so(-2.422922, 4.48486, -0.009255);
+				trn_si(2.422922, -4.48486, 0.009255);
+				{
+					trn_ro(-2.432534, 7.796327, -0.012472);
+					trn_ri(2.432534, -7.796327, 0.012472);
+					trn_so(-2.432535, 7.796327, -0.012472);
+					trn_si(2.432535, -7.796327, 0.012472);
+				}
+			}
+			{
+				trn_ro(2.4229, 4.4849, -0.0093);
+				trn_ri(-2.4229, -4.4849, 0.0093);
+				trn_so(2.422899, 4.4849, -0.0093);
+				trn_si(-2.422899, -4.4849, 0.0093);
+				{
+					trn_ro(2.432498, 7.7964, -0.0125);
+					trn_ri(-2.432498, -7.7964, 0.0125);
+					trn_so(2.432499, 7.7964, -0.0125);
+					trn_si(-2.432499, -7.7964, 0.0125);
+				}
+			}
+			{
+				trn_ro(0.0, 4.645971, 0.001393);
+				trn_ri(0.0, -4.645971, -0.001393);
+				trn_so(0.0, 4.645971, 0.001393);
+				trn_si(0.0, -4.645971, -0.001393);
+				{
+					trn_ro(0.0, 0.0, 0.0);
+					trn_ri(0.0, 0.0, 0.0);
+					trn_so(0.0, 0.0, 0.0);
+					trn_si(0.0, 0.0, 0.0);
+					instance phead_obj();
+				}
+			}
+		}
+	}
+	{
+		trn_ro(-0.902033, -0.432899, 0.0);
+		trn_ri(0.902033, 0.432899, 0.0);
+		trn_so(-0.902033, -0.432898, 0.0);
+		trn_si(0.902033, 0.432898, 0.0);
+		{
+			trn_ro(-0.960887, 4.130661, -0.018866);
+			trn_ri(0.960887, -4.130661, 0.018866);
+			trn_so(-0.960887, 4.130661, -0.018866);
+			trn_si(0.960887, -4.130661, 0.018866);
+		}
+	}
+	{
+		trn_ro(0.902, -0.4329, 0.0);
+		trn_ri(-0.902, 0.4329, 0.0);
+		trn_so(0.902, -0.4329, 0.0);
+		trn_si(-0.902, 0.4329, 0.0);
+		{
+			trn_ro(0.9608, 4.1474, -0.0189);
+			trn_ri(-0.9608, -4.1474, 0.0189);
+			trn_so(0.9608, 4.1474, -0.0189);
+			trn_si(-0.9608, -4.1474, 0.0189);
+		}
+	}
+}
+{
+	{
+		trn(15.396671, 7.00715, 11.988407);
+		camera (
+			perspective = TRUE,
+			eye   = ( 0.0,  0.0,  0.0),
+			active = ON,
+			pix   = "pix/phedfuk_Camera#2",
+			view  = Camera#2_view,
+			up  = Camera#2_up,
+			aov = 55.0,
+			filmaperture_x = 0.4,
+			filmaperture_y = 0.285,
+			filmoffset_x = 0.0,
+			filmoffset_y = 0.0,
+			placement_fit_code = 0,
+			placement_shift = 0.0,
+			aspect   = pixel_aspect,
+			aspect_ratio_pixel = pixel_aspect,
+			near = 0.1,
+			far = 200.0,
+			depth_of_field = 0.0,
+			scaling_factor = 1.0,
+			f_stop = 3.5,
+			focal_distance = 12.0,
+			auto_focus = OFF,
+			motion_blur = 0.0
+		);
+	}
+	{
+		trn(6.646475, 4.512203, 4.164863);
+		Camera#2_view = current_position( (0, 0, 0) );
+	}
+	{
+		trn(15.24168, 7.9853, 11.849847);
+		Camera#2_up = current_position( (0, 0, 0) );
+	}
+}
+

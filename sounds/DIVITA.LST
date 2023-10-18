@@ -1,0 +1,56 @@
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: DIVITA.BNK
+
+Size of .BNK file including header: 5012 bytes ($1394 bytes)
+
+Size of playlist table: 8 bytes ($8 bytes)
+
+Size of playlist and sound data only: 4870 bytes ($1306 bytes)
+
+Checksum: $2B2A
+
+Total number of playlists: 2 ($2)
+
+Total number of sound files: 2 ($2)
+
+Average bit rate for bank: 28.9 kbits/sec
+
+Total linear amount of sound: 0:01.336 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       33.5    38.4  TK: Divita ... #1
+  1    $0001   1       39.3    45.1  TK: Divita ... #2
+
+Total 2 Playlists
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TMDVITA1         2104       80  0:00.614     27.40  HENRY -v6.75 -vb47 -vi7 -vt1 
+TMDVITA2         2730       94  0:00.722     30.25  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:20) page 3
+
+
+Summary
+
+Total Average Bitrate:  28.9 kbits/sec
+Total Time:             0:01.336 minutes
+Total Number of .CMP's: 2
+Total Size of .CMP's:     4.72 kbytes

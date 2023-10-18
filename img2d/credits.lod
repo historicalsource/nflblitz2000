@@ -1,0 +1,34 @@
+#
+# Load file made by Composit version 0.9970R on Mon Dec 01 17:54:03 1997.
+#
+
+
+
+
+#
+# The following is a definition for credits.wif and its images.
+#
+HFILE> \video\nfl\include\credits.h 
+INPUT> credits.wif
+
+#
+# Images.
+#
+#-----> fadetm,midwaytm,blitztm,midway01,midway02,midway03
+#-----> midway04,midway05,midway06,midway07,midway08,midway09
+#-----> midway10,midway11,midway12,midway13,midway14,midway15
+#-----> midway16,midway17,midway18,midway19,midway20,midway21
+#-----> midway22,midway23,midway24,midway25,midway26,midway27
+#-----> midway28,midway29,midway30,midway31,midway32,midway33
+#-----> midway34,midway35,midway36,midway37,midway38,midway39
+-----> mugdanf,mugdant,mugjason,mugjeffj,mugjenh,mugjima,mugjimg
+-----> mugjohnr,mugluism,mugmarkg,mugmarkt,mugmikel,mugsald
+
+EXECUTE> creds
+MAKEBAT> credits.bat creds*.tga texus -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> credits.wif
+-----> crdts_bg
+EXECUTE> credbg
+MAKEBAT> credits.bat credbg*.tga texus -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

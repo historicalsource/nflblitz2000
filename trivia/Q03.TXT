@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##301
+Cowboys quarterback Troy Aikman graduated from UCLA, but where did he begin his college career?
+~~a) Texas ~~b) Oklahoma State **c) Oklahoma ~~d) Nebraska
+##302
+Bill Bates and Mark Tuinei tied a Cowboys' record by playing in their fifteenth season in 1997. Whose mark did they equal?
+**a) Ed (Too Tall) Jones ~~b) Bob Lilly ~~c) Lee Roy Jordan ~~d) Jethro Pugh
+##303
+Who holds the Cowboys' record for consecutive games played?
+~~a) Bill Bates **b) Bob Lilly ~~c) Tom Rafferty ~~d) Lee Roy Jordan
+##304
+Who is the Cowboys' career leader in points?
+~~a) Emmitt Smith ~~b) Efren Herrera **c) Rafael Septien ~~d) Tony Dorsett
+##305
+Who holds the Cowboys' record for most touchdowns in a season by a rookie?
+~~a) Tony Dorsett ~~b) Emmitt Smith ~~c) Michael Irvin **d) Bob Hayes
+##306
+What Cowboys player tied an NFL record by making 7 field goals in a game?
+~~a) Efren Herrera ~~b) Eddie Murray **c) Chris Boniol ~~d) Richie Cunningham
+##307
+Who holds the Cowboys' record for most rushing yards in a game?
+**a) Emmitt Smith ~~b) Tony Dorsett ~~c) Don Perkins ~~d) Duane Thomas
+##308
+Who holds the Cowboys' record for most consecutive pass completions?
+~~a) Troy Aikman ~~b) Roger Staubach ~~c) Danny White **d) Steve Pelleur
+##309
+Who holds the Cowboys' record for passing yards in a season?
+~~a) Roger Staubach **b) Danny White ~~c) Troy Aikman ~~d) Don Meredith
+##310
+What quarterback recorded the three highest passing yardage totals (460, 406, and 394) ever by a Cowboys' quarterback?
+~~a) Roger Staubach ~~b) Danny White ~~c) Troy Aikman **d) Don Meredith
+##311
+Who completed the longest pass (95 yards) as a Cowboys' quarterback?
+~~a) Danny White **b) Don Meredith ~~c) Troy Aikman ~~d) Roger Staubach
+##312
+At the 1964 Tokyo Olympics, Bob Hayes set a world record in what event?
+**a) 100 meters ~~b) long jump ~~c) 200 meters ~~d) triple jump
+##313
+Who started at quarterback for the Cowboys in Super Bowl V?
+~~a) Don Meredith ~~b) Jerry Rhome **c) Craig Morton ~~d) Roger Staubach
+##314
+Michael Irvin is the Cowboys' career leader in receptions. Who ranks second?
+**a) Drew Pearson ~~b) Tony Hill ~~c) Jay Novacek ~~d) Bob Hayes
+##315
+Who holds the Cowboys' record for most receptions in a game?
+~~a) Jay Novacek **b) Lance Rentzel ~~c) Drew Pearson ~~d) Michael Irvin
+##316
+Who is the Cowboys' career leader in interceptions?
+~~a) Everson Walls ~~b) Charlie Waters ~~c) Cliff Harris **d) Mel Renfro
+##317
+Who holds the Cowboys' career record for most opponents' fumbles recovered?
+~~a) Bob Lilly **b) Ed (Too Tall) Jones ~~c) Chuck Howley ~~d) Lee Roy Jordan
+##318
+Who threw the final touchdown pass in the Cowboys' victory in Super Bowl XII?
+~~a) Roger Staubach ~~b) Danny White **c) Robert Newhouse ~~d) Tony Dorsett
+##319
+Who caught the final touchdown pass in the Cowboys' victory in Super Bowl VI?
+~~a) Bob Hayes ~~b) Lance Alworth ~~c) Frank Clarke **d) Mike Ditka
+##320
+Who returned a fumble for a touchdown to tie Super Bowl XXVIII, helping to propel the Cowboys to a 30-13 victory?
+~~a) Darren Woodson **b) James Washington ~~c) Ken Norton, Jr. ~~d) Leon Lett
+##321
+Who caught the longest pass (47 yards) for the Cowboys in their Super Bowl XXX victory?
+~~a) Emmitt Smith ~~b) Kevin Williams **c) Deion Sanders ~~d) Michael Irvin
+##322
+Who was the first college player drafted by the Cowboys?
+**a) Bob Lilly ~~b) Don Meredith ~~c) Don Perkins ~~d) Lee Roy Jordan
+##323
+Whose NFL single-season record did Emmitt Smith break when he scored 25 touchdowns in 1995?
+~~a) Gale Sayers ~~b) Walter Payton **c) John Riggins ~~d) Jerry Rice
+##324
+The Cowboys joined the NFL in 1960. What year did they make their playoff appearance?
+~~a) 1961 **b) 1966 ~~c) 1970 ~~d) 1971
+##325
+What Cowboys player recorded a 29-yard sack of Dolphins quarterback Bob Griese in Super Bowl VI?
+~~a) Chuck Howley ~~b) Jethro Pugh ~~c) Lee Roy Jordan **d) Bob Lilly
+##326
+Who was the first Cowboys running back to lead the NFL in rushing?
+**a) Emmitt Smith ~~b) Tony Dorsett ~~c) Walt Garrison ~~d) Don Perkins
+##327
+While backing up Roger Staubach during the 1970s, Danny White also played what other position?
+~~a) kicker **b) punter ~~c) running back ~~d) receiver
+##328
+What year did Roger Staubach win the Heisman Trophy?
+**a) 1963 ~~b) 1964 ~~c) 1967 ~~d) 1968
+##329
+How many men have coached the Cowboys since the franchise was founded in 1960?
+~~a) 2 **b) 4 ~~c) 5 ~~d) 6
+##330
+Who holds the Cowboys' record for most receiving yards in a game?
+~~a) Michael Irvin ~~b) Drew Pearson ~~c) Tony Hill **d) Bob Hayes
+##331
+What number did Bob Hayes wear?
+~~a) 1 **b) 22 ~~c) 80 ~~d) 86
+##332
+Who caught Roger Staubach's "Hail Mary" pass that lifted the Cowboys over the Vikings in the final seconds of a 1975 NFC Divisional Playoff Game?
+~~a) Percy Howard ~~b) Bob Hayes **c) Drew Pearson ~~d) Preston Pearson
+##333
+Where did Cowboys offensive lineman Larry Allen attend college?
+~~a) Miami ~~b) Florida State **c) Sonoma State ~~d) College of Charleston
+##334
+Where did Cowboys offensive lineman Nate Newton attend college?
+~~a) Florida **b) Florida A&M ~~c) Florida State ~~d) Miami
+##335
+What year did Cowboys running back Herschel Walker win the Heisman Trophy?
+~~a) 1980 ~~b) 1981 **c) 1982 ~~d) 1983
+##336
+Where did Cowboys tackle Erik Williams attend college?
+**a) Central State (Ohio) ~~b) Kent State ~~c) West Texas State ~~d) Sonoma State
+##337
+What position did Cowboys safety Darren Woodson play in college?
+~~a) cornerback ~~b) wide receiver **c) linebacker ~~d) running back
+##338
+Where did Cowboys linebacker Dexter Coakley attend college?
+~~a) Marshall ~~b) East Tennessee State ~~c) Wake Forest **d) Appalachian State
+##339
+In what round did the Cowboys draft Roger Staubach?
+~~a) first ~~b) second ~~c) sixth **d) tenth
+##340
+Who was the last player selected first overall in the NFL draft by the Cowboys?
+~~a) Troy Aikman ~~b) Bob Lilly **c) Russell Maryland ~~d) Emmitt Smith
+##341
+Who played the most seasons in a Lions' uniform?
+~~a) Alex Karras ~~b) Eddie Murray **c) Wayne Walker ~~d) Bobby Layne
+##342
+Who holds the Lions' record for longest run from scrimmage?
+~~a) Barry Sanders ~~b) Billy Sims ~~c) Greg Landry **d) Bob Hoernschemeyer
+##343
+Who is the Lions' leader in career passing yards?
+**a) Bobby Layne ~~b) Gary Danielson ~~c) Greg Landry ~~d) Scott Mitchell
+##344
+Who is the only Lions passer to surpass 400 yards in a game?
+~~a) Bobby Layne ~~b) Gary Danielson ~~c) Greg Landry **d) Scott Mitchell
+##345
+Who holds the Lions' record for most touchdown passes (5) in a game?
+~~a) Bobby Layne **b) Gary Danielson ~~c) Greg Landry ~~d) Scott Mitchell
+##346
+Herman Moore became the Lions' leader in career receptions in 1997. Whose record did he break?
+~~a) Freddie Scott ~~b) Cloyce Box **c) Brett Perriman ~~d) Bob Hoernschemeyer
+##347
+Who holds the Lions' record for most receiving yards in a game?
+~~a) Herman Moore **b) Cloyce Box ~~c) Brett Perriman ~~d) Bob Hoernschemeyer
+##348
+Who is the Lions' leader in career interceptions?
+~~a) Bennie Blades ~~b) Lem Barney **c) Dick LeBeau ~~d) Yale Lary
+##349
+Who is the Lions' leader in career points?
+~~a) Barry Sanders **b) Eddie Murray ~~c) Earl (Dutch) Clark ~~d) Doak Walker
+##350
+What number did Lions quarterback Bobby Layne wear?
+~~a) 7 ~~b) 12 ~~c) 16 **d) 22
+##351
+What year did Lions running back Barry Sanders win the Heisman Trophy?
+**a) 1988 ~~b) 1989 ~~c) 1990 ~~d) 1991
+##352
+Where did Lions quarterback Scott Mitchell attend college?
+**a) Utah ~~b) Utah State ~~c) BYU ~~d) Colorado State
+##353
+What college team did Lions coach Bobby Ross lead to a share of the national title in 1990?
+~~a) Virginia ~~b) West Virginia ~~c) Maryland **d) Georgia Tech
+##354
+Where did Lions receiver Johnnie Morton attend college?
+~~a) Hawaii **b) Southern California ~~c) Pacific ~~d) San Diego State
+##355
+In college, Lions receiver Herman Moore won the Atlantic Coast Conference championship in what track and field event?
+~~a) 100 meters ~~b) 200 meters **c) high jump ~~d) long jump
+##356
+After his NFL career, former Lions halfback Byron (Whizzer) White became more famous as:
+~~a) Secretary of State **b) Supreme Court Justice ~~c) Attorney General ~~d) Speaker of the House
+##357
+When was the last time the Lions did not play on Thanksgiving Day?
+**a) 1944 ~~b) 1957 ~~c) 1975 ~~d) 1982
+##358
+Gary Danielson shares Lions' record for consecutive completions with:
+~~a) Scott Mitchell ~~b) Bobby Layne ~~c) Eric Hipple **d) Dave Krieg
+##359
+Barry Sanders shared the 1997 Associated Press NFL MVP Award. Who was the last Lion before Sanders to win that honor?
+~~a) Billy Sims ~~b) Herman Moore **c) Joe Schmidt ~~d) Bobby Layne
+##360
+The Lions played in four NFL Championship Games in the 1950s. Who was their opponent each time?
+~~a) Rams **b) Browns ~~c) Giants ~~d) Packers
+##361
+Who caught the winning touchdown pass in the Lions' victory in the 1953 NFL Championship Game?
+~~a) Doak Walker ~~b) Cloyce Box ~~c) Bob Hoernschemeyer **d) Jim Doran
+##362
+Who passed for 4 touchdowns and ran for another in the Lions' 1957 NFL Championship Game victory?
+~~a) Bobby Layne **b) Tobin Rote ~~c) Earl Morrall ~~d) Jerry Reichow
+##363
+Where did the Lions play before they moved to Detroit?
+**a) Portsmouth, Ohio ~~b) Duluth, Minnesota ~~c) Canton, Ohio ~~d) Akron, Ohio
+##364
+What was the Lions' nickname before they moved to Detroit?
+~~a) Bulldogs ~~b) Pros ~~c) Eskimos **d) Spartans
+##365
+What year did the Lions win their first NFL title?
+~~a) 1932 **b) 1935 ~~c) 1952 ~~d) 1953
+##366
+What number did Lions running back Billy Sims wear?
+**a) 20 ~~b) 28 ~~c) 30 ~~d) 32
+##367
+What quarterback led the Lions to the 1991 NFC Central crown?
+~~a) Andre Ware ~~b) Chuck Long **c) Erik Kramer ~~d) Rodney Peete
+##368
+What coach won the most games in the Lions' history?
+~~a) Raymond (Buddy) Parker ~~b) George Wilson **c) Wayne Fontes ~~d) George (Potsy) Clark
+##369
+What NFL team did Lions coach Bobby Ross lead to Super Bowl XXIX?
+~~a) Steelers ~~b) Bills **c) Chargers ~~d) Patriots
+##370
+How many Super Bowls have been played at the Pontiac Silverdome?
+~~a) 0 **b) 1 ~~c) 2 ~~d) 4
+##371
+What former Lions player ranks third on the NFL's all-time list with a career punting average of 44.29?
+~~a) Greg Montgomery ~~b) Jim Arnold **c) Yale Lary ~~d) Tom Skladany
+##372
+Whom did Wayne Fontes succeed as Lions coach in 1988?
+**a) Darryl Rogers ~~b) Monte Clark ~~c) Lindy Infante ~~d) Bill Belichick
+##373
+Who was the last person other than Barry Sanders to lead the Lions in rushing?
+~~a) Billy Sims ~~b) James Jones ~~c) Dexter Bussey **d) Garry James
+##374
+Where did Lions coach Bobby Ross attend college?
+~~a) William & Mary ~~b) Army **c) Virginia Military Institute ~~d) The Citadel
+##375
+Who holds the Lions' record for most points (132) in a season?
+~~a) Barry Sanders ~~b) Herman Moore ~~c) Eddie Murray **d) Jason Hanson
+##376
+Who holds the Lions' playoff record for passing yards (341) in a game?
+~~a) Bobby Layne **b) Erik Kramer ~~c) Scott Mitchell ~~d) Dave Krieg
+##377
+Who caught the longest pass in the Lions' playoff history?
+**a) Jim Doran ~~b) Herman Moore ~~c) Brett Perriman ~~d) Cloyce Box
+##378
+What is the Lions' record for points in a regular-season game?
+~~a) 49 **b) 52 ~~c) 57 ~~d) 59
+##379
+What is the Lions' record for points in post-season game?
+~~a) 49 ~~b) 52 ~~c) 57 **d) 59
+##380
+The Lions rallied from 20 points down to win a 1957 playoff game. What team did they defeat?
+~~a) Colts ~~b) Bears **c) 49ers ~~d) Packers
+!!381
+How did the Packers get their nickname?
+~~a) because they packed the stands ~~b) they were named after a car **c) they were originally sponsored by a meat packing plant ~~d) they were named after their first star player
+##382
+How many NFL titles have the Packers won?
+~~a) 6 ~~b) 9 **c) 12 ~~d) 15
+##383
+The Packers are the only team to win three consecutive NFL championships, and they did it twice: 1965-1967 and:
+**a) 1929-1931 ~~b) 1933-1935 ~~c) 1942-1944 ~~d) 1960-1962
+##384
+Who holds the Packers' record for rushing yards in a season?
+~~a) Dorsey Levens ~~b) Paul Hornung **c) Jim Taylor ~~d) John Brockington
+##385
+Who is the Packers' leader in career rushing yards?
+~~a) Paul Hornung ~~b) Curly Lambeau ~~c) John Brockington **d) Jim Taylor
+##386
+Who holds the Packers' record for rushing yards in a game?
+**a) Dorsey Levens ~~b) Paul Hornung ~~c) Jim Taylor ~~d) John Brockington
+##387
+Who holds the Packers' record for touchdowns in a season?
+~~a) Sterling Sharpe ~~b) Dorsey Levens ~~c) Paul Hornung **d) Jim Taylor
+##388
+Who holds the Packers' record for passing yards in a season?
+~~a) Brett Favre **b) Lynn Dickey ~~c) Don Majkowski ~~d) Bart Starr
+##389
+Who was the last Packers quarterback to lead the NFL in passing?
+~~a) Brett Favre ~~b) Lynn Dickey ~~c) Arnie Herber **d) Bart Starr
+##390
+Who was the first Packers quarterback to lead the NFL in passing?
+~~a) Brett Favre ~~b) Lynn Dickey **c) Arnie Herber ~~d) Bart Starr
+##391
+Entering the 1998 season, who is the Packers' leader in career passing yards?
+~~a) Brett Favre ~~b) Lynn Dickey ~~c) Tobin Rote **d) Bart Starr
+##392
+Entering the 1998 season, Brett Favre had surpassed 30 scoring passes for four consecutive seasons. Name the only other Packers quarterback to pass for 30 touchdowns in a season:
+**a) Lynn Dickey ~~b) Don Majkowski ~~c) Bart Starr ~~d) Tobin Rote
+##393
+Who is the Packers' leader in career receptions?
+~~a) Don Hutson **b) Sterling Sharpe ~~c) James Lofton ~~d) Boyd Dowler
+##394
+Max McGee caught 7 passes for 138 yards and 2 touchdowns in Super Bowl I. How many passes had he caught during the regular season?
+~~a) 0 **b) 4 ~~c) 20 ~~d) 32
+##395
+Lynn Dickey shares the Packers' record for consecutive completions (18) with:
+~~a) Bart Starr ~~b) Brett Favre **c) Don Majkowski ~~d) Tobin Rote
+##396
+Who holds the Packers' record for most receptions in a season by a running back?
+**a) Gerry Ellis ~~b) Edgar Bennett ~~c) Dorsey Levens ~~d) Vince Workman
+##397
+Who holds the Packers' record for most receptions in a game?
+~~a) Sterling Sharpe **b) Don Hutson ~~c) Robert Brooks ~~d) Antonio Freeman
+!!398
+Don Hutson retired in 1945 as the NFL's all-time leader with 99 touchdown receptions. How long did his record last?
+~~a) 1 year ~~b) 10 years ~~c) 40 years ~~d) 44 years
+##399
+Who holds the Packers' record for most touchdown receptions in a season?
+**a) Sterling Sharpe ~~b) Don Hutson ~~c) Bill Howton ~~d) Robert Brooks
+##400
+Who holds the Packers' record for most receiving yards in a season?
+~~a) Sterling Sharpe ~~b) Don Hutson ~~c) Antonio Freeman **d) Robert Brooks
+

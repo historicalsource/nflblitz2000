@@ -1,0 +1,21 @@
+# Set up the paths
+TGA_PATH> \video\nfl\img3d\
+SDL_PATH> \video\nfl\models\
+LWO_PATH> \video\nfl\models\
+UV_PATH> \video\nfl\models\
+INC_PATH> \video\nfl\models\
+
+# Set up the convert model params
+SDL_CVT> cvtmod.exe
+SDL_PARAM> -r -f 1.2 -square -name plyr266 -append 266 < $FILENAME > $BASE_FILENAME_H
+# -n $BASE_FILENAME < $FILENAME > $BASE_FILENAME_H
+
+# Set the packing params
+PACK_WIDTH> 128
+PACK_HEIGHT> 256
+
+# process some model files
+SDL> plyr266.sdl
+
+#pack the data
+PACK> test_out.tga

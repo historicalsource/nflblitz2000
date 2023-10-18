@@ -1,0 +1,56 @@
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: LEBARON.BNK
+
+Size of .BNK file including header: 4790 bytes ($12B6 bytes)
+
+Size of playlist table: 8 bytes ($8 bytes)
+
+Size of playlist and sound data only: 4648 bytes ($1228 bytes)
+
+Checksum: $9F2B
+
+Total number of playlists: 2 ($2)
+
+Total number of sound files: 2 ($2)
+
+Average bit rate for bank: 25.3 kbits/sec
+
+Total linear amount of sound: 0:01.459 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1       38.1    43.7  TK: LeBaron ... #1
+  1    $0001   1       41.4    47.5  TK: LeBaron ... #2
+
+Total 2 Playlists
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+TMLBRON1         2102       91  0:00.699     24.06  HENRY -v6.75 -vb47 -vi7 -vt1 
+TMLBRON2         2510       99  0:00.760     26.41  HENRY -v6.75 -vb47 -vi7 -vt1 
+ 
+NFL Football Video Game (c) 1997 Midway Games - DW (10/06/97 02:02:24) page 3
+
+
+Summary
+
+Total Average Bitrate:  25.3 kbits/sec
+Total Time:             0:01.459 minutes
+Total Number of .CMP's: 2
+Total Size of .CMP's:     4.50 kbytes

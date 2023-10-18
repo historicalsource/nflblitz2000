@@ -1,0 +1,361 @@
+HFILE> \video\nfl\include\vsscreen.h
+
+CLIPPING> OFF
+OUTPUTXY> 256 256
+INPUT> vsscreen.wif
+-----> vsbg, vs_vs
+EXECUTE> vsback
+MAKEBAT> vsscreen.bat vsback*.tga texus -dn -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#CLIPPING> ON
+#INPUT> vsscreen.wif
+#-----> vs_ari_l,vs_ari_r,vs_atl_l,vs_atl_r,vs_bal_l
+#-----> vs_bal_r,vs_buf_l,vs_buf_r,vs_car_l,vs_car_r,vs_chi_l
+#-----> vs_chi_r,vs_cin_l,vs_cin_r,vs_dal_l,vs_dal_r,vs_den_l
+#-----> vs_den_r,vs_det_l,vs_det_r,vs_gre_l,vs_gre_r,vs_ind_l
+#-----> vs_ind_r,vs_jac_l,vs_jac_r,vs_kan_l,vs_kan_r,vs_mia_l
+#-----> vs_mia_r,vs_min_l,vs_min_r,vs_ne_l,vs_ne_r,vs_no_l
+#-----> vs_no_r,vs_nyg_l,vs_nyg_r,vs_nyj_l,vs_nyj_r,vs_oak_l
+#-----> vs_oak_r,vs_phi_l,vs_phi_r,vs_pit_l,vs_pit_r,vs_sd_l
+#-----> vs_sd_r,vs_sea_l,vs_sea_r,vs_sf_l,vs_sf_r,vs_stl_l
+#-----> vs_stl_r,vs_tam_l,vs_tam_r,vs_ten_l,vs_ten_r,vs_was_l
+#-----> vs_was_r,vs_cle_l,vs_cle_r
+#-----> vs_bck_l,vs_bck_r
+#EXECUTE> vstext
+#MAKEBAT> vsscreen.bat vstext*.tga texus -de -mn -rn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+OUTPUTXY> 256 128
+INPUT> vsscreen.wif
+MIDST> ON
+-----> vs_ball,vs_midway,vs_nfl,vs_pa,vs_trophy,vs_yard
+-----> vs_ibox
+#-----> vs_cheer
+MIDST> OFF
+EXECUTE> vsicon
+MAKEBAT> vsscreen.bat vsicon*.tga texus -dn -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#OUTPUTXY> 256 256
+#INPUT> ynplaq3.wif
+#-----> light1, light2, light3, light4, light5, light6, light7, light8
+#EXECUTE> vslite00
+#MAKEBAT> vsscreen.bat vslite00.tga texus -dn -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#OUTPUTXY> 256 128
+#INPUT> ynplaq3.wif
+#-----> light9, light10, light11
+#EXECUTE> vslite01
+#MAKEBAT> vsscreen.bat vslite01.tga texus -dn -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+#
+# VS page helmets
+#
+OUTPUTXY> 256 128
+INPUT> helmets.wif
+-----> aricarlf
+EXECUTE> arhlml
+MAKEBAT> vsscreen.bat arhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> aricarrt
+EXECUTE> arhlmr
+MAKEBAT> vsscreen.bat arhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> atlfallf
+EXECUTE> athlml
+MAKEBAT> vsscreen.bat athlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> atlfalrt
+EXECUTE> athlmr
+MAKEBAT> vsscreen.bat athlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> balravlf
+EXECUTE> bahlml
+MAKEBAT> vsscreen.bat bahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> balravrt
+EXECUTE> bahlmr
+MAKEBAT> vsscreen.bat bahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> bufbillf
+EXECUTE> buhlml
+MAKEBAT> vsscreen.bat buhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> bufbilrt
+EXECUTE> buhlmr
+MAKEBAT> vsscreen.bat buhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> carpanlf
+EXECUTE> cahlml
+MAKEBAT> vsscreen.bat cahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> carpanrt
+EXECUTE> cahlmr
+MAKEBAT> vsscreen.bat cahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> chibealf
+EXECUTE> chhlml
+MAKEBAT> vsscreen.bat chhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> chibeart
+EXECUTE> chhlmr
+MAKEBAT> vsscreen.bat chhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> cinbenlf
+EXECUTE> cihlml
+MAKEBAT> vsscreen.bat cihlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> cinbenrt
+EXECUTE> cihlmr
+MAKEBAT> vsscreen.bat cihlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> dalcowlf
+EXECUTE> dahlml
+MAKEBAT> vsscreen.bat dahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> dalcowrt
+EXECUTE> dahlmr
+MAKEBAT> vsscreen.bat dahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> denbrolf
+EXECUTE> dehlml
+MAKEBAT> vsscreen.bat dehlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> denbrort
+EXECUTE> dehlmr
+MAKEBAT> vsscreen.bat dehlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> detliolf
+EXECUTE> dlhlml
+MAKEBAT> vsscreen.bat dlhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> detliort
+EXECUTE> dlhlmr
+MAKEBAT> vsscreen.bat dlhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> grepaclf
+EXECUTE> grhlml
+MAKEBAT> vsscreen.bat grhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> grepacrt
+EXECUTE> grhlmr
+MAKEBAT> vsscreen.bat grhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> indcollf
+EXECUTE> inhlml
+MAKEBAT> vsscreen.bat inhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> indcolrt
+EXECUTE> inhlmr
+MAKEBAT> vsscreen.bat inhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> jacjaglf
+EXECUTE> jahlml
+MAKEBAT> vsscreen.bat jahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> jacjagrt
+EXECUTE> jahlmr
+MAKEBAT> vsscreen.bat jahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> kanchilf
+EXECUTE> kahlml
+MAKEBAT> vsscreen.bat kahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> kanchirt
+EXECUTE> kahlmr
+MAKEBAT> vsscreen.bat kahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> miadollf
+EXECUTE> mihlml
+MAKEBAT> vsscreen.bat mihlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> miadolrt
+EXECUTE> mihlmr
+MAKEBAT> vsscreen.bat mihlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> minviklf
+EXECUTE> mnhlml
+MAKEBAT> vsscreen.bat mnhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> minvikrt
+EXECUTE> mnhlmr
+MAKEBAT> vsscreen.bat mnhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ne_patlf
+EXECUTE> nehlml
+MAKEBAT> vsscreen.bat nehlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ne_patrt
+EXECUTE> nehlmr
+MAKEBAT> vsscreen.bat nehlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> no_sailf
+EXECUTE> nohlml
+MAKEBAT> vsscreen.bat nohlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> no_sairt
+EXECUTE> nohlmr
+MAKEBAT> vsscreen.bat nohlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ny_gialf
+EXECUTE> nghlml
+MAKEBAT> vsscreen.bat nghlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ny_giart
+EXECUTE> nghlmr
+MAKEBAT> vsscreen.bat nghlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ny_jetlf
+EXECUTE> njhlml
+MAKEBAT> vsscreen.bat njhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> ny_jetrt
+EXECUTE> njhlmr
+MAKEBAT> vsscreen.bat njhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> oakrailf
+EXECUTE> oahlml
+MAKEBAT> vsscreen.bat oahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> oakrairt
+EXECUTE> oahlmr
+MAKEBAT> vsscreen.bat oahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> phieaglf
+EXECUTE> phhlml
+MAKEBAT> vsscreen.bat phhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> phieagrt
+EXECUTE> phhlmr
+MAKEBAT> vsscreen.bat phhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> pitstelf
+EXECUTE> pihlml
+MAKEBAT> vsscreen.bat pihlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> pitstert
+EXECUTE> pihlmr
+MAKEBAT> vsscreen.bat pihlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> sd_chalf
+EXECUTE> sdhlml
+MAKEBAT> vsscreen.bat sdhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> sd_chart
+EXECUTE> sdhlmr
+MAKEBAT> vsscreen.bat sdhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> seasealf
+EXECUTE> sehlml
+MAKEBAT> vsscreen.bat sehlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> seaseart
+EXECUTE> sehlmr
+MAKEBAT> vsscreen.bat sehlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> sf_49rlf
+EXECUTE> sfhlml
+MAKEBAT> vsscreen.bat sfhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> sf_49rrt
+EXECUTE> sfhlmr
+MAKEBAT> vsscreen.bat sfhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> stlramlf
+EXECUTE> sthlml
+MAKEBAT> vsscreen.bat sthlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> stlramrt
+EXECUTE> sthlmr
+MAKEBAT> vsscreen.bat sthlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> tambuclf
+EXECUTE> tahlml
+MAKEBAT> vsscreen.bat tahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> tambucrt
+EXECUTE> tahlmr
+MAKEBAT> vsscreen.bat tahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> tentitlf
+EXECUTE> tehlml
+MAKEBAT> vsscreen.bat tehlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> tentitrt
+EXECUTE> tehlmr
+MAKEBAT> vsscreen.bat tehlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> wasredlf
+EXECUTE> wahlml
+MAKEBAT> vsscreen.bat wahlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> wasredrt
+EXECUTE> wahlmr
+MAKEBAT> vsscreen.bat wahlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> clebrwlf
+EXECUTE> bwhlml
+MAKEBAT> vsscreen.bat bwhlml*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> helmets.wif
+-----> clebrwrt
+EXECUTE> bwhlmr
+MAKEBAT> vsscreen.bat bwhlmr*.tga texus -mn -rn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

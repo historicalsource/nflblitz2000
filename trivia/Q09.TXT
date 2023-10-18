@@ -1,0 +1,96 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Inorrect answer follows
+** = Correct answer follows
+
+##901
+Who holds the Dolphins' record for receptions in a season?
+~~a) Mark Duper **b) Mark Clayton ~~c) Nat Moore ~~d) Tony Nathan
+##902
+Who holds the Dolphins' record for receptions in a game?
+~~a) Mark Clayton ~~b) Nat Moore ~~c) Tony Nathan **d) Jim Jensen
+##903
+Who holds the Dolphins' record for career receiving yards?
+**a) Mark Duper ~~b) Mark Clayton ~~c) Nat Moore ~~d) Paul Warfield
+##904
+Who holds the Dolphins' record for receiving yards in a game?
+**a) Mark Duper ~~b) Mark Clayton ~~c) Nat Moore ~~d) Irving Fryar
+##905
+Who is the Dolphins' all-time leader in interceptions?
+~~a) Louis Oliver **b) Jake Scott ~~c) Dick Anderson ~~d) Glenn Blackwood
+##906
+What Dolphins player tied an NFL record by intercepting 4 passes in a game?
+~~a) Louis Oliver ~~b) Jake Scott **c) Dick Anderson ~~d) Glenn Blackwood
+##907
+What Dolphins player tied an NFL record by returning an interception 103 yards?
+**a) Louis Oliver ~~b) Jake Scott ~~c) Dick Anderson ~~d) Glenn Blackwood
+##908
+How many quarterbacks were selected ahead of Dan Marino in the 1983 NFL draft?
+~~a) 2 ~~b) 3 **c) 5 ~~d) 6
+##909
+What team has Dan Marino passed for the most yards against?
+~~a) Bills **b) Jets ~~c) Patriots ~~d) Colts
+##910
+What position did former Dolphins head coach Don Shula play during his college career?
+~~a) safety ~~b) quarterback **c) running back ~~d) receiver
+##911
+The Patriots were founded in 1960. Where did they play their home games during their first three seasons?
+~~a) Foxboro Stadium **b) Boston University ~~c) Fenway Park ~~d) Harvard
+##912
+Who holds the Patriots' record for most seasons?
+~~a) Julius Adams ~~b) John Hannah ~~c) Steve Nelson **d) Steve Grogan
+##913
+Who played the most games in a Patriots' uniform?
+**a) Julius Adams ~~b) John Hannah ~~c) Steve Nelson ~~d) Steve Grogan
+##914
+Who is the Patriots' all-time leading scorer?
+~~a) John Smith ~~b) Tony Franklin ~~c) Stanley Morgan **d) Gino Cappelletti
+##915
+Who holds the Patriots' record for most career touchdowns?
+~~a) Jim Nance ~~b) Sam Cunningham **c) Stanley Morgan ~~d) Gino Cappelletti
+##916
+Who holds the Patriots' record for most touchdowns in a season?
+~~a) Stanley Morgan ~~b) Steve Grogan **c) Curtis Martin ~~d) Irving Fryar
+##917
+Who is the Patriots' all-time leading rusher?
+**a) Sam Cunningham ~~b) Jim Nance ~~c) Tony Collins ~~d) Craig James
+##918
+Who holds the Patriots' record for rushing yards in a season?
+~~a) Sam Cunningham ~~b) Jim Nance **c) Curtis Martin ~~d) John Stephens
+##919
+Who holds the Patriots' record for rushing yards in a game?
+~~a) Sam Cunningham ~~b) Jim Nance ~~c) Curtis Martin **d) Tony Collins
+##920
+Who holds the Patriots' record for longest run (85 yards) from scrimmage?
+~~a) Carl Garrett **b) Larry Garron ~~c) Curtis Martin ~~d) Sam Cunningham
+##921
+What player did Drew Bledsoe surpass in 1997 to move into second place on the Patriots' list for career passing yards?
+~~a) Tony Eason ~~b) Jim Plunkett **c) Babe Parilli ~~d) Hugh Millen
+##922
+Drew Bledsoe owns the four most prolific passing seasons in the Patriots' history. Who ranks fifth?
+~~a) Tony Eason ~~b) Jim Plunkett **c) Babe Parilli ~~d) Steve Grogan
+##923
+Who owns the Patriots' record for touchdown passes in a season?
+~~a) Drew Bledsoe ~~b) Jim Plunkett **c) Babe Parilli ~~d) Steve Grogan
+##924
+Who completed the Patriots' longest pass (90 yards) ever?
+**a) Tony Eason ~~b) Jim Plunkett ~~c) Steve Grogan ~~d) Drew Bledsoe
+##925
+Who caught the Patriots' longest pass ever?
+~~a) Stanley Morgan ~~b) Irving Fryar **c) Craig James ~~d) Terry Glenn
+##926
+Who is the Patriots' all-time leader in receptions?
+**a) Stanley Morgan ~~b) Ben Coates ~~c) Irving Fryar ~~d) Gino Cappelletti
+##927
+Who holds the Patriots' record for receiving yards in a season?
+**a) Stanley Morgan ~~b) Ben Coates ~~c) Irving Fryar ~~d) Terry Glenn
+##928
+Who holds the Patriots' record for most receptions in a season?
+~~a) Stanley Morgan **b) Ben Coates ~~c) Irving Fryar ~~d) Terry Glenn
+##929
+Who is the Patriots' all-time leader in interceptions?
+~~a) Mike Haynes ~~b) Roland James ~~c) Fred Marion **d) Raymond Clayborn
+##930
+Pete Carroll became coach of the Patriots in 1997. He previously had been head coach of the
+~~a) 49ers **b) Jets ~~c) Bengals ~~d) Giants
+

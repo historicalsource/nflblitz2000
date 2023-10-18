@@ -1,0 +1,86 @@
+#
+# Load file made by Composit version 0.9990R on Tue Jun 02 12:06:29 1998.
+#
+
+#
+# The following is a definition for makeplay.wif and its images.
+#
+HFILE> \video\nfl\include\makeplay.h
+
+#
+# Images.
+#
+INPUT> makeplay.wif ynplaq3.wif
+
+#----> arrow_end,arrow_endf,arrow_endg
+-----> arrow_motl,arrow_motr
+-----> arrow_motgl,arrow_motgr
+#----> arrow_motfl,arrow_motfr
+
+-----> border_thick,border_thin
+-----> cpoint,cpointf,cpointg
+#----> Cross,cursor,cursorf
+
+-----> button_off,button_on
+-----> create,createg,form,formg,mpexit,mpexitg,name,nameg
+-----> r1,r1g,r2,r2g,r3,r3g,setaud,setaudg,setrcvr,setrcvrg
+
+-----> droptext,ftext,qtext
+
+-----> drop_jukeg,drop_sping,drop_turbog
+#----> drop_0
+-----> drop_0G,drop_1,drop_2,drop_3
+
+-----> mp_cursor
+-----> mp_a,mp_b,mp_c,mp_d,mp_e,mp_f,mp_g,mp_h,mp_i,mp_j,mp_k,mp_l,mp_m
+-----> mp_n,mp_o,mp_p,mp_q,mp_r,mp_s,mp_t,mp_u,mp_v,mp_w,mp_x,mp_y,mp_z
+-----> mp_dsh,mp_ast,mp_exc,mp_spc,mp_del,mp_end
+
+-----> mpo,mpof,mpog
+-----> sym_qb,sym_qbf,sym_qbg
+-----> sym_r1,sym_r1f,sym_r1g
+-----> sym_r2,sym_r2f,sym_r2g
+-----> sym_r3,sym_r3f,sym_r3g
+-----> sym_j,sym_jf,sym_jg
+-----> sym_s,sym_sf,sym_sg
+-----> sym_t,sym_tf,sym_tg
+
+-----> form_box,letters,mpin
+#----> minit
+-----> myn2,myes2,mno2
+#----> n64,play_box
+-----> yes,no
+
+-----> b_thicklr,b_thinlr
+-----> dtextLR
+-----> d_jukglr,d_spnglr,d_trbglr
+#----> drp_0lr
+-----> drp_0Glr,drp_1lr,drp_2lr,drp_3lr
+
+-----> cp_0,cp_1,cp_2,cp_3,cp_4,cp_5,cp_6,cp_7,cp_8,cp_9
+-----> cp_spc,cp_del
+
+EXECUTE> capa
+MAKEBAT> makeplay.bat capa*.tga texus -dn -mn -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> makeplay.wif
+-----> drop_box,drop_on,d_boxLR,d_onLR
+-----> mp_plate,mp_plateg
+-----> lback,ynbox
+-----> fbox,fcursor
+-----> qbox,qcursor
+EXECUTE> capb
+MAKEBAT> makeplay.bat capb*.tga texus -dn -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> makeplay.wif
+-----> bckgrnd
+EXECUTE> capbk
+MAKEBAT> makeplay.bat capbk*.tga texus -dn -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+
+INPUT> makeplay.wif
+-----> bckgrndlr
+EXECUTE> caplr
+MAKEBAT> makeplay.bat caplr*.tga texus -mn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

@@ -1,0 +1,472 @@
+DEFINITION	/* ALIAS SDL File Version 7.5.1 */
+			/* Apparently from wire file '/usr/people/luis/user_data/demo/wire/BALL/medballnew'. */
+	version = 7.51;
+
+	xleft  = 0;
+	xright = 399;
+	ylow   = 0;
+	yhigh  = 399;
+	resolution = 400 400;
+	aalevelmin   = 2147483647;
+	aalevelmax   = 2147483647;
+	aathreshold  = 0.6;
+	post_filter   = OFF;
+	post_center   = 8;    /* Values for a bartlet filter. */
+	post_adjacent = 1;
+	post_diagonal = 1;
+
+	composite_rendering = OFF;
+	invisible_objects_cast_shadows = OFF;
+	image_format = ALIAS;
+	jitter       = ON;
+	reduced_samples = OFF;
+	textures_active    = ON;
+
+	clamp_bumpsize = 0.0;
+
+	up = yaxis;
+
+	motion_blur_on = OFF;
+	shutter_angle  = 144.0;
+	animation  = ON;
+	startframe      = 0.0;
+	endframe        = 100.0;
+	byframe         = 1.0;
+
+	extensionsize  = 3;
+	fields          = FALSE;
+	odd             = FALSE;
+	even            = FALSE;
+	odd_field_first = TRUE;
+
+	triple Camera_view(0.0, 0.0, 0.0);
+	triple Camera_up(0.0, 0.0, 0.0);
+
+	subdivision_recursion_limit = 2;
+	grid_cache = 4000;
+	bbox_memory = FULL;
+	rt_voxel_res_type = AUTOMATIC;
+
+	max_reflections             = 10;
+	max_refractions             = 10;
+	max_shadow_level            = 10;
+	preview_ray_trace           = OFF;
+
+	scalar pixel_aspect ( 1.0 );
+	hline_to_fill_color  = FALSE;
+	hline_fill_color     = (255.0, 255.0, 255.0);
+	hline_line_color     = (0.0, 255.0, 255.0);
+	hline_isoparam_u     = 0;
+	hline_isoparam_v     = 0;
+
+	show_particles       = TRUE;
+	simulation_substeps  = 1;
+	simulation_frames_per_second = 30;
+
+triple Lightview(0.0, 0.0, 0.0);
+triple Lightup(0.0, 0.0, 0.0);
+
+light Light ( model = ambient,
+	active = ON,
+	exclusive = FALSE,
+	light_emission = ON,
+	color = (255.0, 255.0, 255.0),
+	shadow_color = (0.0, 0.0, 0.0),
+	intensity = 1.0,
+	force_type = OFF,
+	force_intensity = 1.0,
+	warp = OFF,
+	glow_type = OFF,
+	halo_type = OFF,
+	fog_type = OFF,
+	flare = OFF,
+	psys_emission = OFF,
+	shadow = FALSE,
+	soft_shadows = FALSE,
+	light_radius = 1.0,
+	shadow_samples = 2.0,
+	use_shadow_map = 0.0,
+	ambient_shade = 0.0
+);
+
+shader default ( model = lambert,
+        diffuse = 0.8,
+        color = (0.0, 150.0, 255.0),
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+texture HEDSHU (
+        procedure = file,
+        rgbout = (0.0, 150.0, 255.0),
+        active = ON,
+        image = "/usr/people/luis/4jason/textures/uniforms/hedshu.tif",
+        use_extension = OFF,
+        frame_extension = 1,
+        filter =  BLEND_FILTER,
+        cache = OFF,
+        rgbmult = (1.0, 1.0, 1.0),
+        rgboffset = (0.0, 0.0, 0.0),
+        blurmult = 0.0,
+        bluroffset = 0.0,
+        rotate = 0.0,
+        urepeat = 1.0,
+        vrepeat = 1.0,
+        uoffset = 0.0,
+        voffset = 0.0,
+        mirror = OFF,
+        stagger = OFF,
+        worldspace = OFF,
+        chord_length = OFF,
+        ucoverage = 1.0,
+        vcoverage = 1.0,
+        utranslate = 0.0,
+        vtranslate = 0.0,
+        uwrap = OFF,
+        vwrap = OFF,
+        invert = OFF
+);
+
+shader hedshu ( model = lambert,
+        diffuse = 0.8,
+        color = HEDSHU,
+        incandescence = (0.0, 0.0, 0.0),
+        transparency = (0.0, 0.0, 0.0),
+        shading_map = (0.0, 0.0, 0.0),
+        translucence = 0.0,
+        translucence_depth = 0.5,
+        opacity_depth = 0.0,
+        use_background_color = OFF,
+        matte_fraction = 0.0,
+        psys_emission = OFF,
+        glow_intensity = 0.0,
+        hide_glow_source = OFF,
+        refractive_index = 1.6,
+        reflection_limit = 1,
+        refraction_limit = 6,
+        shadow_level_limit = 0,
+        surface_width = 0.0,
+        transparency_shade = 0.0,
+        transparency_depth = 0.0,
+        chromatic_abberation = 0.0,
+        refraction_jitter = 0.0,
+        refraction_samples = 0,
+        respect_reflection_map = OFF,
+        use_fill_color = ON,
+        fill_color = (255.0, 255.0, 255.0),
+        u_patch_lines = 0,
+        v_patch_lines = 0,
+        density = 1.0,
+        elasticity = 0.707,
+        friction = 0.0,
+        drag_coeff = 0.5
+);
+
+polyset medball_obj (
+	active = ON,
+	motion_blur = ON,
+	smooth = ON,
+	doublesided = OFF,
+	opposite = OFF,
+	shader = (hedshu ),
+	casts_shadow = TRUE,
+	vertices = ((cv((0.737613, -0.001059, -1.017204), 1)),
+			(cv((0.582072, 0.509846, -1.021025), 1)),
+			(cv((0.015653, 0.00437, -1.706806), 1)),
+			(cv((0.742786, 0.00226, 0.964984), 1)),
+			(cv((0.541082, -0.515189, 0.967904), 1)),
+			(cv((0.006319, -0.001812, 1.733116), 1)),
+			(cv((-0.705324, 0.008971, 0.964984), 1)),
+			(cv((-0.553382, 0.493512, 0.958894), 1)),
+			(cv((-1.041454, 0.008692, 0.001566), 1)),
+			(cv((-0.734159, 0.715608, -0.004261), 1)),
+			(cv((1.068477, -0.001506, 0.001566), 1)),
+			(cv((0.729259, -0.761829, 0.017836), 1)),
+			(cv((-0.707741, -0.003431, -1.017204), 1)),
+			(cv((-0.544202, 0.494142, -1.021025), 1)),
+			(cv((-0.510385, -0.517223, -1.010374), 1)),
+			(cv((-0.52125, -0.517055, 0.967904), 1)),
+			(cv((-0.697638, -0.764557, 0.017836), 1)),
+			(cv((0.761062, 0.718466, -0.004261), 1)),
+			(cv((0.542164, -0.515495, -1.010374), 1)),
+			(cv((0.583971, 0.504717, 0.958894), 1)),
+			(cv((0.014825, 0.720653, 0.939789), 1)),
+			(cv((0.011184, 0.711813, -1.00335), 1)),
+			(cv((-0.001509, -0.999413, 0.027436), 1)),
+			(cv((0.016248, -0.73383, -0.989364), 1)),
+			(cv((0.002866, -0.735241, 0.974411), 1)),
+			(cv((0.009408, 1.0092, -0.006932), 1))	),
+	texture_vertices = (
+			st( 0.306044, 0.283235 ),
+			st( 0.256944, 0.283452 ),
+			st( 0.151014, 0.089810 ),
+			st( 0.151014, 0.089810 ),
+			st( 0.151014, 0.089810 ),
+			st( 0.303827, 0.338431 ),
+			st( 0.110205, 0.041980 ),
+			st( 0.110205, 0.041980 ),
+			st( 0.304906, 0.043197 ),
+			st( 0.304906, 0.043197 ),
+			st( 0.304680, 0.097427 ),
+			st( 0.346951, 0.097287 ),
+			st( 0.347039, 0.280916 ),
+			st( 0.347039, 0.280916 ),
+			st( 0.303822, 0.043551 ),
+			st( 0.109724, 0.339768 ),
+			st( 0.109724, 0.339768 ),
+			st( 0.304563, 0.338104 ),
+			st( 0.304563, 0.338104 ),
+			st( 0.303995, 0.097426 ),
+			st( 0.263580, 0.097835 ),
+			st( 0.061260, 0.278475 ),
+			st( 0.061260, 0.278475 ),
+			st( 0.061260, 0.278475 ),
+			st( 0.305293, 0.190971 ),
+			st( 0.234706, 0.187402 ),
+			st( 0.037245, 0.185917 ),
+			st( 0.037245, 0.185917 ),
+			st( 0.037245, 0.185917 ),
+			st( 0.304834, 0.190973 ),
+			st( 0.370375, 0.189774 ),
+			st( 0.369873, 0.189526 ),
+			st( 0.369873, 0.189526 ),
+			st( 0.369873, 0.189526 ),
+			st( 0.306286, 0.283236 ),
+			st( 0.257046, 0.283455 ),
+			st( 0.064344, 0.089810 ),
+			st( 0.064344, 0.089810 ),
+			st( 0.348185, 0.280814 ),
+			st( 0.262769, 0.097887 ),
+			st( 0.262769, 0.097887 ),
+			st( 0.347141, 0.097287 ),
+			st( 0.256921, 0.282873 ),
+			st( 0.256921, 0.282873 ),
+			st( 0.256921, 0.282873 ),
+			st( 0.370653, 0.189775 ),
+			st( 0.235829, 0.187569 ),
+			st( 0.235829, 0.187569 ),
+			st( 0.235829, 0.187569 ),
+			st( 0.234414, 0.187401 ),
+			st( 0.178448, 0.185917 ),
+			st( 0.178448, 0.185917 ),
+			st( 0.178448, 0.185917 ),
+			st( 0.348009, 0.280813 ),
+			st( 0.346697, 0.097887 ),
+			st( 0.346697, 0.097887 ),
+			st( 0.346697, 0.097887 ),
+			st( 0.262438, 0.097833 ),
+			st( 0.154303, 0.278475 ),
+			st( 0.154303, 0.278475 ),
+			st( 0.108494, 0.276638 ),
+			st( 0.108400, 0.091509 ),
+			st( 0.305144, 0.190348 ),
+			st( 0.304759, 0.097989 ),
+			st( 0.305003, 0.283511 ),
+			st( 0.108159, 0.185695 ) ),
+	polygons = (
+		polygon ((0, 1, 2),(0, 1, 5), 0 ),
+		polygon ((3, 4, 5),(10, 11, 14), 0 ),
+		polygon ((5, 6, 7),(14, 19, 20), 0 ),
+		polygon ((8, 9, 7),(24, 25, 20), 0 ),
+		polygon ((4, 3, 10),(11, 10, 29), 0 ),
+		polygon ((11, 10, 0),(30, 29, 0), 0 ),
+		polygon ((12, 13, 9),(34, 35, 25), 0 ),
+		polygon ((2, 12, 14),(5, 34, 38), 0 ),
+		polygon ((5, 15, 6),(14, 41, 19), 0 ),
+		polygon ((16, 8, 6),(45, 24, 19), 0 ),
+		polygon ((14, 12, 8),(38, 34, 24), 0 ),
+		polygon ((2, 13, 12),(5, 35, 34), 0 ),
+		polygon ((10, 11, 4),(29, 30, 11), 0 ),
+		polygon ((9, 8, 12),(25, 24, 34), 0 ),
+		polygon ((17, 10, 3),(49, 29, 10), 0 ),
+		polygon ((0, 18, 11),(0, 53, 30), 0 ),
+		polygon ((1, 0, 10),(1, 0, 29), 0 ),
+		polygon ((6, 15, 16),(19, 41, 45), 0 ),
+		polygon ((7, 6, 8),(20, 19, 24), 0 ),
+		polygon ((19, 3, 5),(57, 10, 14), 0 ),
+		polygon ((3, 19, 17),(10, 57, 49), 0 ),
+		polygon ((10, 17, 1),(29, 49, 1), 0 ),
+		polygon ((8, 16, 14),(24, 45, 38), 0 ),
+		polygon ((18, 0, 2),(53, 0, 5), 0 ),
+		polygon ((2, 21, 13),(6, 61, 36), 0 ),
+		polygon ((9, 13, 21),(26, 37, 61), 0 ),
+		polygon ((7, 9, 25),(21, 27, 65), 0 ),
+		polygon ((20, 5, 7),(60, 15, 22), 0 ),
+		polygon ((1, 21, 2),(2, 61, 7), 0 ),
+		polygon ((25, 21, 1),(65, 61, 3), 0 ),
+		polygon ((20, 25, 17),(60, 65, 50), 0 ),
+		polygon ((19, 5, 20),(58, 16, 60), 0 ),
+		polygon ((21, 25, 9),(61, 65, 28), 0 ),
+		polygon ((25, 20, 7),(65, 60, 23), 0 ),
+		polygon ((1, 17, 25),(4, 51, 65), 0 ),
+		polygon ((17, 19, 20),(52, 59, 60), 0 ),
+		polygon ((5, 24, 15),(17, 64, 42), 0 ),
+		polygon ((23, 14, 16),(63, 39, 46), 0 ),
+		polygon ((22, 16, 15),(62, 47, 43), 0 ),
+		polygon ((23, 18, 2),(63, 54, 8), 0 ),
+		polygon ((2, 14, 23),(9, 40, 63), 0 ),
+		polygon ((18, 23, 22),(55, 63, 62), 0 ),
+		polygon ((11, 22, 24),(31, 62, 64), 0 ),
+		polygon ((4, 24, 5),(12, 64, 18), 0 ),
+		polygon ((22, 11, 18),(62, 32, 56), 0 ),
+		polygon ((24, 4, 11),(64, 13, 33), 0 ),
+		polygon ((16, 22, 23),(48, 62, 63), 0 ),
+		polygon ((15, 24, 22),(44, 64, 62), 0 )
+	)
+); /* end of polyset 'medball_obj' */
+
+ENVIRONMENT
+background ( 
+        color = (0.0, 0.0, 0.0)
+);
+shader_glow ( 
+,
+        glow_type =  LINEAR_GLOW,
+        halo_type =  LINEAR_GLOW,
+        auto_exposure = ON,
+        quality = 0.5,
+        threshold = 0.0,
+        glow_color = (100.0, 100.0, 100.0),
+        glow_intensity = 1.0,
+        glow_spread = 0.05,
+        glow_eccentricity = 0.1,
+        glow_radial_noise = 0.0,
+        glow_star_level = 0.0,
+        glow_opacity = 0.0,
+        halo_color = (100.0, 100.0, 100.0),
+        halo_intensity = 1.0,
+        halo_spread = 0.3,
+        halo_eccentricity = 0.1,
+        halo_radial_noise = 0.0,
+        halo_star_level = 0.0,
+        halo_lens_flare = 0.0,
+        rotation = 0.0,
+        radial_noise_frequency = 0.5,
+        star_points = 4.0
+);
+photo_effects ( 
+,
+        film_grain = 0.0,
+        filter = (255.0, 255.0, 255.0)
+);
+master_light ( 
+,
+        intensity = 1.0,
+        light_color = (255.0, 255.0, 255.0)
+);
+dynamics ( 
+,
+        gravity = 1.0,
+        air_density = 0.05,
+        Floor = ON,
+        floor_offset = 0.0,
+        ceiling = OFF,
+        ceiling_offset = 20.0,
+        left = OFF,
+        left_offset = -10.0,
+        right = OFF,
+        right_offset = 10.0,
+        front = OFF,
+        front_offset = -10.0,
+        back = OFF,
+        back_offset = 10.0,
+        wall_friction = 0.0,
+        wall_elasticity = 0.707,
+        turbulence_intensity = 0.0,
+        turbulence_spread = 0.5,
+        turbulence_persistence = 5.0,
+        turbulence_animated = ON,
+        turbulence_space_resolution =  16,
+        turbulence_time_resolution =  16,
+        turbulence_roughness = 0.5,
+        turbulence_variability = 0.5,
+        turbulence_granularity = 0.0
+);
+
+MODEL
+/* Only expression assignments should appear above this line and below the MODEL directive. */
+/* Placing any other commands in the above section will produce incorrect expression behaviour. */
+{
+	instance medball_obj();
+}
+{
+	trn(0.0, 0.0, 12.0);
+	{
+		inst Light();
+	}
+	{
+		trn(-2.0, -2.0, 0.0);
+		Lightview = current_position(( 0.0,  0.0,  0.0));
+	}
+	{
+		trn(0.0, 10.0, 0.0);
+		Lightup = current_position(( 0.0,  0.0,  0.0));
+	}
+}
+{
+	{
+		trn(-0.328508, 7.122879, 3.187441);
+		camera (
+			perspective = TRUE,
+			eye   = ( 0.0,  0.0,  0.0),
+			active = ON,
+			pix   = "pix/medballbig",
+			view  = Camera_view,
+			up  = Camera_up,
+			aov = 55.0,
+			filmaperture_x = 0.4,
+			filmaperture_y = 0.285,
+			filmoffset_x = 0.0,
+			filmoffset_y = 0.0,
+			placement_fit_code = 0,
+			placement_shift = 0.0,
+			aspect   = pixel_aspect,
+			aspect_ratio_pixel = pixel_aspect,
+			near = 0.1,
+			far = 200.0,
+			depth_of_field = 0.0,
+			scaling_factor = 1.0,
+			f_stop = 3.5,
+			focal_distance = 12.0,
+			auto_focus = OFF,
+			motion_blur = 0.0
+		);
+	}
+	{
+		trn(0.494821, -4.011113, -1.212053);
+		Camera_view = current_position( (0, 0, 0) );
+	}
+	{
+		trn(-0.157832, 7.495852, 2.275435);
+		Camera_up = current_position( (0, 0, 0) );
+	}
+}
+

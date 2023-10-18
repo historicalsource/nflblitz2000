@@ -1,0 +1,306 @@
+## = Valid question number
+!! = Invalid question number
+~~ = Incorrect answer follows
+** = Correct answer follows
+
+##101
+How many games did Jim Marshall miss during his 20 NFL seasons (1960-1979)?
+**a) 0 ~~b) 1 ~~c) 2 ~~d) 8
+##102
+As coach of the Bears, George Halas won six league titles. In NFL annals, that mark is only equaled by:
+~~a) Steve Owen **b) Curly Lambeau ~~c) Vince Lombardi ~~d) Chuck Noll
+##103
+Who holds the record for most Pro Bowl selections (14)?
+~~a) Reggie White ~~b) Anthony Munoz ~~c) Ronnie Lott **d) Merlin Olsen
+##104
+Name the last rookie quarterback to lead his team to the league championship:
+~~a) Sammy Baugh **b) Bob Waterfield ~~c) Joe Namath ~~d) Sid Luckman
+##105
+Who is the only quarterback to lead teams to titles in the NFL and the AFL?
+**a) Tobin Rote ~~b) George Blanda ~~c) Len Dawson ~~d) Joe Kapp
+##106
+Name the only player from a losing team to earn Super Bowl Most Valuable Player honors:
+~~a) Dan Ross ~~b) Thurman Thomas **c) Chuck Howley ~~d) John Elway
+##107
+Name the only franchise to win three straight NFL titles:
+**a) Packers ~~b) Giants ~~c) Bears ~~d) 49ers
+##108
+What franchise holds the record for most consecutive regular-season victories (17)?
+~~a) Dolphins **b) Bears ~~c) Packers ~~d) 49ers
+##109
+Who was the last rookie to lead the NFL in scoring?
+~~a) Gale Sayers ~~b) David Treadwell ~~c) Doak Walker **d) Kevin Butler
+##110
+In the infamous "Heidi" game, what two teams were playing when NBC switched to a movie and missed the exciting final moments?
+~~a) Raiders-Chiefs **b) Raiders-Jets ~~c) Raiders-Oilers ~~d) Raiders-Chargers
+##111
+What team drafted Johnny Unitas?
+~~a) Colts ~~b) Browns **c) Steelers ~~d) Lions
+##112
+Where did Joe Namath finish his pro career?
+~~a) Jets ~~b) Giants ~~c) Dolphins **d) Rams
+##113
+John Elway led the Broncos on "The Drive" in the 1986 AFC Championship Game. Who capped that march by catching the game-tying touchdown pass from Elway?
+~~a) Vance Johnson **b) Mark Jackson ~~c) Steve Watson ~~d) Steve Sewell 
+##114
+Two players have won back-to-back Super Bowl MVP Awards-Terry Bradshaw and:
+**a) Bart Starr ~~b) Larry Csonka ~~c) Emmitt Smith ~~d) Joe Montana
+##115
+What franchise holds the mark for most consecutive division titles (seven)?
+~~a) Browns **b) Rams ~~c) Cowboys ~~d) 49ers
+##116
+Who was the only coach to win AFL and NFL championships?
+~~a) Sid Gillman ~~b) Hank Stram **c) Weeb Ewbank ~~d) Paul Brown
+##117
+Who holds the record for the longest post-season field goal (58 yards)?
+**a) Pete Stoyanovich ~~b) Steve Christie ~~c) Eddie Murray ~~d) Nick Lowery
+##118
+Steve Young passed for a playoff-record-tying 6 touchdowns in Super Bowl XXIX. Whose mark did he equal?
+~~a) Joe Montana ~~b) Joe Kapp ~~c) Terry Bradshaw **d) Daryle Lamonica
+##119
+Who had the longest run in Super Bowl history?
+~~a) Timmy Smith **b) Marcus Allen ~~c) Tom Matte ~~d) John Riggins
+##120
+Only two players have caught 50 or more passes in 11 different seasons-Jerry Rice and:
+~~a) Lance Alworth ~~b) Steve Largent **c) Andre Reed ~~d) Art Monk
+##121
+Who has passed for the most yards (357) in a Super Bowl game?
+**a) Joe Montana ~~b) Terry Bradshaw ~~c) Jim Kelly ~~d) Ken Anderson
+##122
+Jerry Rice caught 11 passes in Super Bowl XXIII. He shares the record for most catches in a Super Bowl with:
+~~a) Lynn Swann ~~b) John Stallworth **c) Dan Ross ~~d) Antonio Freeman
+##123
+Who won MVP honors in Super Bowl XXXI?
+~~a) Brett Favre ~~b) Dorsey Levens ~~c) Andre Rison **d) Desmond Howard
+##124
+Who started at quarterback for the Baltimore Colts in Super Bowl III?
+~~a) Johnny Unitas **b) Earl Morrall ~~c) Tom Matte ~~d) Bert Jones
+##125
+What franchise first won five Super Bowls?
+~~a) Cowboys **b) 49ers ~~c) Steelers ~~d) Redskins
+##126
+Who holds the record for the longest fumble return (64 yards) in Super Bowl history?
+~~a) Herb Adderley ~~b) Willie Brown ~~c) Ken Norton, Jr. **d) Leon Lett
+##127
+Who caught the winning touchdown pass in Super Bowl XXIII?
+~~a) Jerry Rice ~~b) Dwight Clark **c) John Taylor ~~d) Roger Craig
+##128
+Name the only quarterback to lead two different teams to the Super Bowl:
+**a) Craig Morton ~~b) Jim Plunkett ~~c) George Blanda ~~d) Doug Williams
+##129
+Only two players have run for 100 yards in back-to-back Super Bowls-Larry Csonka and:
+~~a) Franco Harris **b) Emmitt Smith ~~c) John Riggins ~~d) Roger Craig 
+##130
+What team scored the most points in a Super Bowl game?
+~~a) Bears ~~b) Redskins ~~c) Raiders **d) 49ers
+##131
+Which of these teams has never played in a Super Bowl?
+~~a) Colts **b) Lions ~~c) Jets ~~d) All of the above
+##132
+Only two coaches have led two different clubs to the Super Bowl-Bill Parcells and:
+**a) Don Shula ~~b) Mike Shanahan ~~c) Joe Gibbs ~~d) George Allen
+##133
+Who is the oldest quarterback to start a Super Bowl?
+~~a) John Elway ~~b) Roger Staubach **c) Johnny Unitas ~~d) Craig Morton
+##134
+Who is the youngest quarterback to start a Super Bowl?
+~~a) Joe Montana ~~b) Drew Bledsoe ~~c) Joe Namath **d) David Woodley
+##135
+Name the only team to win the Super Bowl despite averaging fewer than 100 rushing yards per game during the regular season:
+**a) 1970 Colts ~~b) 1989 49ers ~~c) 1981 49ers ~~d) 1994 49ers
+##136
+What quarterback has posted the most regular-season victories as a starter?
+~~a) Dan Marino **b) John Elway ~~c) Joe Montana ~~d) Sammy Baugh
+##137
+The first indoor Super Bowl was played at the:
+~~a) Houston Astrodome ~~b) Pontiac Silverdome **c) Louisiana Superdome ~~d) Hubert H. Humphrey Metrodome
+##138
+Which stadium hosted the largest crowd (103,985) for a Super Bowl game?
+**a) Rose Bowl ~~b) Los Angeles Memorial Coliseum ~~c) Orange Bowl ~~d) Pontiac Silverdome
+##139
+What is the estimated worldwide television audience of the Super Bowl every year?
+~~a) 130 million ~~b) 500 million ~~c) 750 million **d) 1 billion
+##140
+How many Super Bowls did not sell out?
+~~a) 0 **b) 1 ~~c) 2 ~~d) 4
+##141
+Where were the Cardinals located when the franchise was founded?
+~~a) St. Louis ~~b) Phoenix **c) Chicago ~~d) Racine, Wisconsin
+##142
+In 1947, the Cardinals signed Charley Trippi to what was then the largest NFL contract ever. How much did he earn per year?
+~~a) $8,000 ~~b) $15,000 **c) $25,000 ~~d) $100,000
+##143
+The Cardinals are the oldest pro football franchise. What year were they founded?
+~~a) 1880 **b) 1899 ~~c) 1919 ~~d) 1920
+##144
+Who is the Cardinals' all-time leading rusher?
+**a) Ottis Anderson ~~b) Stump Mitchell ~~c) Johnny Johnson ~~d) Charley Trippi
+##145
+What Cardinals player holds the NFL record most points (40) in a game, the longest-standing mark in league annals?
+~~a) Jim Bakken ~~b) Roy Green **c) Ernie Nevers ~~d) Paddy Driscoll
+##146
+What player has kicked the 4 longest field goals in the Cardinals' history?
+**a) Greg Davis ~~b) Jim Bakken ~~c) Neil O'Donoghue ~~d) Pat Harder
+##147
+Jim Bakken is the Cardinals' all-time leading scorer with 1,380 points. Who ranks a distant second with 484?
+~~a) Roy Green **b) Greg Davis ~~c) Neil O'Donoghue ~~d) Ottis Anderson
+##148
+What player holds the Cardinals' record for most rushing yards in a game?
+~~a) Ottis Anderson ~~b) Jim Otis ~~c) Stump Mitchell **d) LeShon Johnson
+##149
+Who holds the Cardinals' record for most rushing touchdowns (14) in a season?
+~~a) Ottis Anderson ~~b) Jim Otis ~~c) Ernie Nevers **d) John David Crow
+##150
+What player attempted the most passes in the Cardinals' history?
+**a) Jim Hart ~~b) Neil Lomax ~~c) Paul Christman ~~d) Charley Johnson
+##151
+What Cardinals passer set a franchise record by passing for 522 yards, the third-highest single-game total in league history?
+~~a) Neil Lomax **b) Boomer Esiason ~~c) Jim Hart ~~d) Dave Krieg
+##152
+The Cardinals have retired jersey number 8, worn by:
+~~a) Jim Hart ~~b) Neil Lomax ~~c) Ottis Anderson **d) Larry Wilson
+##153
+What passer set a Cardinals' record by completing 61.7 percent of his passes in 1993?
+~~a) Chris Chandler ~~b) Neil Lomax **c) Steve Beuerlein ~~d) Timm Rosenbach
+##154
+Who was the last Cardinals player to lead the NFL in scoring?
+**a) Jim Bakken ~~b) Ottis Anderson ~~c) Greg Davis ~~d) Ernie Nevers
+##155
+What NFL record did the Cardinals' Jim Hardy set on September 24, 1950?
+~~a) most fumbles **b) most passes had intercepted ~~c) most field goals missed ~~d) most punts
+##156
+Entering the 1998 season, who was the Cardinals' all-time leading receiver?
+~~a) Larry Centers ~~b) Jackie Smith ~~c) J.T.Smith **d) Roy Green
+!!157
+What NFL single-game record (later equaled) did the Cardinals' Bob Shaw set on October 2, 1950?
+**a) most touchdown catches ~~b) most passes without an interception ~~c) most touchdown passes ~~d) most passes had intercepted
+##158
+What NFL record did Roy Green tie on October 21, 1979?
+~~a) longest pass reception ~~b) most receptions in a game ~~c) most receiving yards in a game **d) longest kickoff return
+##159
+Who is the Cardinals' all-time leader in interceptions?
+~~a) Aeneas Williams ~~b) Roger Wehrli **c) Larry Wilson ~~d) Roy Green
+##160
+Who played the most seasons (18) for the Cardinals?
+**a) Jim Hart ~~b) Jim Bakken ~~c) Jackie Smith ~~d) Larry Wilson
+##161
+Who played the most games (234) in a Cardinals' uniform?
+~~a) Jim Hart **b) Jim Bakken ~~c) Jackie Smith ~~d) Larry Wilson
+##162
+What player holds the Cardinals' record for most receptions in a season?
+**a) Larry Centers ~~b) Roy Green ~~c) Frank Sanders ~~d) Rob Moore
+##163
+Who was the last Cardinals player to lead the NFL in receiving yards?
+~~a) Larry Centers ~~b) Roy Green ~~c) Frank Sanders **d) Rob Moore
+##164
+Name the last Cardinals player to lead the NFL in receptions:
+~~a) Larry Centers ~~b) Roy Green **c) J.T. Smith ~~d) Bob Shaw
+##165
+Which team did the Cardinals defeat in the 1947 NFL Championship Game?
+**a) Eagles ~~b) Bears ~~c) Redskins ~~d) Steelers
+##166
+What Cardinals player equaled the NFL rookie sack record in 1996?
+~~a) Jamir Miller ~~b) Eric Swann **c) Simeon Rice ~~d) Tom Knight
+##167
+Who led the Cardinals in rushing in 1997?
+~~a) LeShon Johnson ~~b) Larry Centers **c) Leeland McElroy ~~d) Jake Plummer
+##168
+Jake Plummer passed for 388 yards against the Giants in 1997, the most ever by a rookie. Whose mark did he eclipse?
+~~a) Dan Marino **b) Troy Aikman ~~c) Steve Walsh ~~d) Drew Bledsoe
+##169
+Only four rookie quarterbacks have passed for 4 touchdowns in a game-Troy Aikman, Drew Bledsoe, Jake Plummer, and:
+~~a) Sammy Baugh ~~b) Greg Cook ~~c) Dan Marino **d) Jim Plunkett
+##170
+Where did Cardinals cornerback Aeneas Williams attend college?
+**a) Southern ~~b) Dartmouth ~~c) Florida State ~~d) Florida
+##171
+Where did Cardinals tackle Lomas Brown begin his NFL career?
+~~a) San Diego ~~b) San Francisco **c) Detroit ~~d) Miami
+##172
+Where did Cardinals defensive end Simeon Rice attend college?
+~~a) Northwestern ~~b) Indiana ~~c) Michigan **d) Illinois
+##173
+Where did Cardinals receiver Frank Sanders attend college?
+~~a) Alabama **b) Auburn ~~c) Florida ~~d) Ohio State
+##174
+Where did Cardinals running back Larry Centers attend college?
+~~a) Texas Tech ~~b) Texas **c) Stephen F. Austin ~~d) Houston
+##175
+Where did Cardinals tackle Lomas Brown attend college?
+~~a) Florida A&M ~~b) Florida State ~~c) Miami **d) Florida
+##176
+What player scored the most touchdowns in Cardinals history?
+**a) Roy Green ~~b) Charley Trippi ~~c) Ottis Anderson ~~d) Ollie Matson
+##177
+Who holds the Cardinals' record for most field goals in a season?
+~~a) Jim Bakken ~~b) Neil O'Donoghue **c) Greg Davis ~~d) Al Del Greco
+##178
+Who holds the Cardinals' record for most consecutive games scoring a touchdown?
+~~a) Ottis Anderson **b) John David Crow ~~c) Roy Green ~~d) Ernie Nevers
+##179
+Who holds the Cardinals' record for most rushing yards in a season?
+~~a) LeShon Johnson ~~b) Jim Otis ~~c) Stump Mitchell **d) Ottis Anderson
+##180
+The Cardinals have retired jersey number 99, worn by:
+~~a) Ernie Nevers ~~b) Jim Bakken ~~c) Paul Christman **d) Marshall Goldberg
+##181
+Who holds the Cardinals' record for most career rushing touchdowns?
+~~a) Charley Trippi **b) Ottis Anderson ~~c) John David Crow ~~d) Ernie Nevers
+##182
+Who holds the Cardinals' record for highest rushing average in a season?
+~~a) Charley Trippi ~~b) Ottis Anderson **c) John David Crow ~~d) Ernie Nevers
+##183
+Who holds the Cardinals' career record for highest rushing average?
+**a) Charley Trippi ~~b) Ottis Anderson ~~c) John David Crow ~~d) Ernie Nevers
+##184
+Who holds the Cardinals' record for longest run?
+~~a) Charley Trippie ~~b) Ottis Anderson **c) John David Crow ~~d) Ernie Nevers
+##185
+Who holds the Cardinals' record for most passing yards in a season?
+~~a) Jim Hart ~~b) Boomer Esiason ~~c) Timm Rosenbach **d) Neil Lomax
+##186
+Who holds the Cardinals' record for most pass completions in a game?
+~~a) Jim Hart ~~b) Neil Lomax **c) Kent Graham ~~d) Boomer Esiason
+##187
+Who holds the Cardinals' record for most receptions (16) in a game?
+**a) Sonny Randle ~~b) Roy Green ~~c) Larry Centers ~~d) J.T. Smith
+##188
+Who holds the Cardinals' record for most consecutive games catching a pass?
+~~a) Larry Centers ~~b) Roy Green ~~c) J.T. Smith **d) Mel Gray
+##189
+Who holds the Cardinals' career record for most all-purpose yards (running, receiving, and returns)?
+~~a) Ottis Anderson **b) Stump Mitchell ~~c) Mel Gray ~~d) Roy Green
+##190
+Who holds the Cardinals' record for most interceptions in a season?
+~~a) Larry Wilson ~~b) Aeneas Williams ~~c) Lionel Washington **d) Bob Nussbaumer
+##191
+Who is the Cardinals' all-time leader in punt-return yardage?
+~~a) Roy Green ~~b) Terry Metcalf **c) Vai Sikahema ~~d) Stump Mitchell
+##192
+Who is the only Cardinals quarterback to post two games with 400 or more passing yards?
+**a) Neil Lomax ~~b) Jim Hart ~~c) Boomer Esiason ~~d) Charley Johnson
+##193
+Who is the Cardinals' all-time leader in interception returns for a touchdown?
+~~a) Larry Wilson **b) Aeneas Williams ~~c) Roger Wehrli ~~d) Pat Fischer
+##194
+What team did the Cardinals merge with in 1944 because of wartime personnel shortages?
+~~a) Bears ~~b) Eagles **c) Steelers ~~d) Lions
+##195
+Who holds the Cardinals' record for receiving yards in a season?
+**a) Rob Moore ~~b) Roy Green ~~c) Frank Sanders ~~d) Mel Gray
+##196
+The Cardinals share their home field with what college team?
+~~a) Arizona **b) Arizona State ~~c) Northern Arizona ~~d) Phoenix
+##197
+A Cardinals' passer has fired 6 touchdown passes in a game three times-twice by Charley Johnson and once by:
+~~a) Jim Hart ~~b) Kent Graham ~~c) Boomer Esiason **d) Jim Hardy
+##198
+Whose franchise record did Neil Lomax equal when he passed for 28 touchdowns in 1984?
+~~a) Jim Hart **b) Charley Johnson ~~c) Jim Hardy ~~d) Paul Christman
+!!199
+The Cardinals are so named because:
+~~a) that was their founder's favorite bird **b) of the color of their original jerseys ~~c) their founder also owned the Cardinals' baseball team ~~d) of a newspaper contest to pick a team nickname
+##200
+What year did the Cardinals move from Chicago to St. Louis?
+~~a) 1920 ~~b) 1948 **c) 1960 ~~d) 1966
+

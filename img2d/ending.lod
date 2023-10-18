@@ -1,0 +1,17 @@
+HFILE> \video\nfl\include\ending.h
+
+INPUT> ending.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> bckgrnd1,bckgrnd2,scene3
+MIDST> OFF
+EXECUTE> end_bg
+MAKEBAT> ending.bat end_bg*.tga texus -rn -mn -dn -t rgb565 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |
+
+INPUT> ending.wif
+OUTPUTXY> 256 256
+MIDST> ON 
+-----> forgrnd1,forgrnd2
+MIDST> OFF
+EXECUTE> end_fg
+MAKEBAT> ending.bat end_fg*.tga texus -rn -mn -de -t argb4444 -o $(filename).3df $(filename).tga | 3df2wms $(filename).3df |

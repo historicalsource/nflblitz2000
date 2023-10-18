@@ -1,0 +1,59 @@
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 16:31:59) page 1
+
+PLBUILD version 3.0G
+
+Bank Information
+----------------
+
+Bank name: HALFTIME.BNK
+
+Size of .BNK file including header: 163210 bytes ($27D8A bytes)
+
+Size of playlist table: 4 bytes ($4 bytes)
+
+Size of playlist and sound data only: 163072 bytes ($27D00 bytes)
+
+Checksum: $2124
+
+Total number of playlists: 1 ($1)
+
+Total number of sound files: 6 ($6)
+
+Average bit rate for bank: 81.9 kbits/sec
+
+Total linear amount of sound: 0:15.913 (min:sec.msec)
+
+
+
+Playlist Table
+
+  Dec  Hex   # Trks  Video  Pinball  Description
+  ---- ----- ------ ------- -------  -----------
+  0    $0000   1          -       -  Halftime
+
+Total 1 Playlists
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 16:31:59) page 2
+
+
+Region Table 
+
+File         Size      Length   Length    Bitrate   Compression
+Name         bytes     frames   seconds   kbit/sec  Parameters
+-----------  --------  -------  --------  --------  -----------
+HLFTIME1        35716      473  0:03.633     78.66  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+HLFTIME2        18212      237  0:01.820     80.05  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+HLFTIME3        14294      177  0:01.359     84.12  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+HLFTIME4        14432      178  0:01.367     84.46  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+HLFTIME5        61410      771  0:05.921     82.97  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+HLFTIME6        18922      236  0:01.812     83.52  HENRY -v3.75 -vb95 -vi7 -vr79 -vt0 
+ 
+NFL Blitz 2000 Video Game (c) 1999 Midway Games -  (09/11/99 16:31:59) page 3
+
+
+Summary
+
+Total Average Bitrate:  81.9 kbits/sec
+Total Time:             0:15.913 minutes
+Total Number of .CMP's: 6
+Total Size of .CMP's:   159.17 kbytes
